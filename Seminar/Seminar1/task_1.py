@@ -49,6 +49,8 @@ else:
     print("Запрос не удался с кодом состояния:", response.status_code)
 
 
+
+
 response = requests.delete("https://jsonplaceholder.typicode.com/posts/1")
 
 # проверка успешности выполнения запроса

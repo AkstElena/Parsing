@@ -1,0 +1,1703 @@
+{
+    "docs": [
+        {
+            "internalNames": [
+                "Трансформеры",
+                "Transformers",
+                "Τρανσφόρμερς",
+                "ทรานส์ฟอร์เมอร์ส 1 : มหาวิบัติจักรกลสังหารถล่มจักรวาล",
+                "變形金剛1",
+                "变形金刚1",
+                "變形金剛",
+                "トランスフォーマー：2007",
+                "Robot Đại Chiến"
+            ],
+            "name": "Трансформеры",
+            "alternativeName": "Transformers",
+            "enName": "",
+            "year": 2007,
+            "genres": [
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                }
+            ],
+            "releaseYears": [],
+            "id": 81288,
+            "externalId": {
+                "imdb": "tt0418279",
+                "tmdb": 1858,
+                "kpHD": "477aec6f098fa59da1677db2e91b94b7"
+            },
+            "names": [
+                {
+                    "name": "Трансформеры"
+                },
+                {
+                    "name": "Transformers"
+                },
+                {
+                    "name": "Τρανσφόρμερς",
+                    "language": "GR",
+                    "type": null
+                },
+                {
+                    "name": "ทรานส์ฟอร์เมอร์ส 1 : มหาวิบัติจักรกลสังหารถล่มจักรวาล",
+                    "language": "TH",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛1",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "变形金刚1",
+                    "language": "CN",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛",
+                    "language": "TW",
+                    "type": null
+                },
+                {
+                    "name": "トランスフォーマー：2007",
+                    "language": "JP",
+                    "type": null
+                },
+                {
+                    "name": "Robot Đại Chiến",
+                    "language": "VN",
+                    "type": null
+                }
+            ],
+            "type": "movie",
+            "description": "В течение многих столетий две расы роботов-инопланетян — Автоботы и Десептиконы — вели войну, ставкой в которой была судьба Вселенной. И вот война докатилась до Земли. В то время, когда силы зла ищут ключ к верховной власти, наш последний шанс на спасение находится в руках юного землянина. Единственное, что стоит между несущими зло Десептиконами и высшей властью - это ключ, находящийся в руках простого парнишки.\nОбычный подросток, Сэм Уитвикки озабочен повседневными хлопотами — школа, друзья, машины, девочки. Не ведая о том, что он является последним шансом человечества на спасение, Сэм вместе со своей подругой Микаэлой оказывается вовлеченным в противостояние Автоботов и Десептиконов. Только тогда Сэм понимает истинное значение семейного девиза Уитвикки — «без жертв нет победы!»",
+            "shortDescription": "Сэм хочет крутую тачку, а получает живого робота. Начало масштабной франшизы Майкла Бэя о машинах и людях",
+            "logo": {
+                "url": "https://avatars.mds.yandex.net/get-ott/224348/2a00000176b0315277ea9367bfe4b8bf89e7/orig"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1773646/d5744e59-122f-4dd4-a65f-8eb0ebdaea71/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1773646/d5744e59-122f-4dd4-a65f-8eb0ebdaea71/x1000"
+            },
+            "backdrop": {
+                "url": "https://image.openmoviedb.com/kinopoisk-ott-images/224348/2a00000167a2fab33ba1b430a32cecee516c/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/224348/2a00000167a2fab33ba1b430a32cecee516c/x1000"
+            },
+            "rating": {
+                "kp": 7.595,
+                "imdb": 7,
+                "filmCritics": 5.8,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 406896,
+                "imdb": 678911,
+                "filmCritics": 229,
+                "russianFilmCritics": 2,
+                "await": 0
+            },
+            "movieLength": 143,
+            "internalRating": 7.595,
+            "internalVotes": 406896,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "pg13",
+            "ageRating": 12,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Трансформеры",
+                "The Transformers: The Movie",
+                "Transformers: Mokushiroku! Matrix yo eien ni",
+                "Transformers the Movie: Apocalypse! Matrix Forever",
+                "Transformers - The Movie",
+                "Transformers - O Filme",
+                "The Transformers - The Movie",
+                "Les Transformers : le film",
+                "Transformers: La película",
+                "Transformers: The Movie",
+                "Toransufômaa: Za mûbii",
+                "Transformers - Der Film",
+                "Transformers: The Movie",
+                "变形金刚 Transformers The Movie",
+                "Les Transformers, le film",
+                "La guerre des robots"
+            ],
+            "name": "Трансформеры",
+            "alternativeName": "The Transformers: The Movie",
+            "enName": "",
+            "year": 1986,
+            "genres": [
+                {
+                    "name": "мультфильм"
+                },
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                },
+                {
+                    "name": "приключения"
+                },
+                {
+                    "name": "семейный"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                },
+                {
+                    "name": "Япония"
+                },
+                {
+                    "name": "Италия"
+                }
+            ],
+            "releaseYears": [],
+            "id": 2431,
+            "externalId": {
+                "imdb": "tt0092106",
+                "tmdb": 1857,
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Трансформеры"
+                },
+                {
+                    "name": "The Transformers: The Movie"
+                },
+                {
+                    "name": "Transformers: Mokushiroku! Matrix yo eien ni",
+                    "language": "JP",
+                    "type": null
+                },
+                {
+                    "name": "Transformers the Movie: Apocalypse! Matrix Forever",
+                    "language": "JP",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - The Movie",
+                    "language": "GB",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - O Filme",
+                    "language": "BR",
+                    "type": null
+                },
+                {
+                    "name": "The Transformers - The Movie",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Les Transformers : le film",
+                    "language": "FR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: La película",
+                    "language": "AR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: The Movie",
+                    "language": "GR",
+                    "type": null
+                },
+                {
+                    "name": "Toransufômaa: Za mûbii",
+                    "language": "JP",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - Der Film",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: The Movie",
+                    "language": "US",
+                    "type": "Alternative Title"
+                },
+                {
+                    "name": "变形金刚 Transformers The Movie",
+                    "language": "CN",
+                    "type": null
+                },
+                {
+                    "name": "Les Transformers, le film",
+                    "language": "FR",
+                    "type": null
+                },
+                {
+                    "name": "La guerre des robots",
+                    "language": "FR",
+                    "type": null
+                }
+            ],
+            "type": "cartoon",
+            "description": "Автоботы и Десептиконы продолжают войну за контроль над территорией в 2005 году. Войска Мегатрона завоевали Кибертрон, но Автоботы готовы это изменить. В масштабном конфликте старые герои падут и новые восстанут, в то время как планета - демон Юникрон будет приближаться к их родному миру.",
+            "shortDescription": "",
+            "logo": {
+                "url": "https://imagetmdb.com/t/p/original/xROesGRzt8tE26YIh9xuHMC36ND.png"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1629390/260476fd-d679-4dfb-993f-24f7561d0c88/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1629390/260476fd-d679-4dfb-993f-24f7561d0c88/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 7.541,
+                "imdb": 7.2,
+                "filmCritics": 5.5,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 6681,
+                "imdb": 42177,
+                "filmCritics": 26,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 84,
+            "internalRating": 7.541,
+            "internalVotes": 6681,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "pg",
+            "ageRating": 6,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 3,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Трансформеры",
+                "Transformers",
+                "变形金刚G1",
+                "Трансформери: Генерація 1",
+                "Transformers Generation 1"
+            ],
+            "name": "Трансформеры",
+            "alternativeName": "Transformers",
+            "enName": "Transformers Generation 1",
+            "year": 1984,
+            "genres": [
+                {
+                    "name": "мультфильм"
+                },
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "фэнтези"
+                },
+                {
+                    "name": "боевик"
+                },
+                {
+                    "name": "приключения"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                },
+                {
+                    "name": "Япония"
+                },
+                {
+                    "name": "Корея Южная"
+                }
+            ],
+            "releaseYears": [
+                {
+                    "start": 1984,
+                    "end": 1987
+                }
+            ],
+            "id": 229179,
+            "externalId": {
+                "imdb": "tt0086817",
+                "tmdb": 4269,
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Трансформеры"
+                },
+                {
+                    "name": "Transformers"
+                },
+                {
+                    "name": "变形金刚G1",
+                    "language": "CN",
+                    "type": null
+                },
+                {
+                    "name": "Трансформери: Генерація 1",
+                    "language": "UA",
+                    "type": null
+                },
+                {
+                    "name": "Transformers Generation 1",
+                    "language": "US",
+                    "type": null
+                }
+            ],
+            "type": "animated-series",
+            "description": "Сюжет мультсериала повествует о войне за территорию двух фракций живых роботов с планеты Кибертрон - Автоботов и Десептиконов. В ходе войны природные ресурсы их родной планеты Кибертрон исчерпываются. Чтобы выжить представителям обеих рас приходится бороздить космос в поисках новых ресурсов. Попав на планету Земля войска Оптимуса Прайма и Мегатрона продолжают свою борьбу в 1984 году, скрываясь от людей под камуфляжем доминирующей земной формы - машинной технике. Однако вскоре их война перестаёт быть тайной.",
+            "shortDescription": "",
+            "logo": {
+                "url": "https://imagetmdb.com/t/p/original/yLiEtOjYivswF0AZ7FngR8Gy6E0.png"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1900788/5b7306a7-5480-4fb9-b448-60069fa18766/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1900788/5b7306a7-5480-4fb9-b448-60069fa18766/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 7.582,
+                "imdb": 8,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 6044,
+                "imdb": 23731,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 0,
+            "internalRating": 7.582,
+            "internalVotes": 6044,
+            "isSeries": true,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": 22,
+            "ratingMpaa": null,
+            "ageRating": 0,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 5,
+            "status": "completed"
+        },
+        {
+            "internalNames": [
+                "Трансформеры",
+                "Transformers: Animated",
+                "Transformers - Animated",
+                "Transformers - Animated (2007)",
+                "Transformers - The Animated Series"
+            ],
+            "name": "Трансформеры",
+            "alternativeName": "Transformers: Animated",
+            "enName": "Transformers - The Animated Series",
+            "year": 2007,
+            "genres": [
+                {
+                    "name": "мультфильм"
+                },
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                },
+                {
+                    "name": "семейный"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                },
+                {
+                    "name": "Япония"
+                }
+            ],
+            "releaseYears": [
+                {
+                    "start": 2007,
+                    "end": 2009
+                }
+            ],
+            "id": 400004,
+            "externalId": {
+                "imdb": "tt1055335",
+                "tmdb": 10548,
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Трансформеры"
+                },
+                {
+                    "name": "Transformers: Animated"
+                },
+                {
+                    "name": "Transformers - Animated",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - Animated (2007)",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - The Animated Series",
+                    "language": "US",
+                    "type": null
+                }
+            ],
+            "type": "animated-series",
+            "description": "Злобные Десептиконы появились в Детройте. С помощью Великой Искры Мегатрон может обратить всех роботов Земли в Десептиконов. Но на Землю также прибывают и Оптимус Прайм с Автоботами, они планируют остановить Мегатрона и помешать его коварным планам.",
+            "shortDescription": "",
+            "logo": {
+                "url": null
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1773646/780b17ea-83d8-43e6-8c3e-234385649e2c/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1773646/780b17ea-83d8-43e6-8c3e-234385649e2c/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 5.557,
+                "imdb": 6.7,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 1728,
+                "imdb": 2639,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 0,
+            "internalRating": 5.557,
+            "internalVotes": 1728,
+            "isSeries": true,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": 22,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 5,
+            "status": "completed"
+        },
+        {
+            "internalNames": [
+                "Трансформеры",
+                "Transformers: Robots in Disguise"
+            ],
+            "name": "Трансформеры",
+            "alternativeName": "Transformers: Robots in Disguise",
+            "enName": "",
+            "year": 2001,
+            "genres": [
+                {
+                    "name": "мультфильм"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Япония"
+                }
+            ],
+            "releaseYears": [
+                {
+                    "start": 2001,
+                    "end": 2002
+                }
+            ],
+            "id": 627697,
+            "externalId": {
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Трансформеры"
+                },
+                {
+                    "name": "Transformers: Robots in Disguise"
+                }
+            ],
+            "type": "animated-series",
+            "description": "Мегатрон с отрядом преданных ему Десептиконов прибыл на Землю с одной лишь целью: Уничтожить все живое! Но героические Автоботы, ведомые Оптимусом Праймом уже давно были готовы к нападению. Приняв формы земных машин, они многие года скрывались от взора людей, и теперь встают на зашиту планеты от агрессоров.",
+            "shortDescription": "",
+            "logo": {
+                "url": null
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1600647/6566a5cc-76b3-4d31-838f-bfc879eb0b6b/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1600647/6566a5cc-76b3-4d31-838f-bfc879eb0b6b/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 5.737,
+                "imdb": 6.6,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 266,
+                "imdb": 595,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 0,
+            "internalRating": 5.737,
+            "internalVotes": 266,
+            "isSeries": true,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": 30,
+            "ratingMpaa": null,
+            "ageRating": 12,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 5,
+            "status": "completed"
+        },
+        {
+            "internalNames": [
+                "Трансформеры",
+                "Transformers"
+            ],
+            "name": "Трансформеры",
+            "alternativeName": "Transformers",
+            "enName": "",
+            "year": 2006,
+            "genres": [
+                {
+                    "name": "короткометражка"
+                },
+                {
+                    "name": "комедия"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Канада"
+                }
+            ],
+            "releaseYears": [],
+            "id": 259742,
+            "externalId": {
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Трансформеры"
+                },
+                {
+                    "name": "Transformers"
+                }
+            ],
+            "type": "movie",
+            "description": "",
+            "shortDescription": "",
+            "logo": {
+                "url": null
+            },
+            "poster": {
+                "url": null,
+                "previewUrl": null
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 0,
+                "imdb": 6.1,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "kp": 31,
+                "imdb": 54,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 38,
+            "internalRating": 6.1,
+            "internalVotes": 31,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Трансформеры: Месть падших",
+                "Transformers: Revenge of the Fallen",
+                "變形金剛：復仇之戰",
+                "Transformers 2: Revenge of the Fallen",
+                "Transformers 2",
+                "Transformerji 2: Mascevanje padlih",
+                "Трансформери: Помста полеглих",
+                "transformery: mest' padshikh",
+                "变形金刚2",
+                "Transformes 2 - A Vingança dos Derrotados",
+                "Transformers II: Revenge of the Fallen (2009)",
+                "Transformers 2: A bukottak bosszúja",
+                "Transformers 2 - La venganza de los caidos",
+                "Transformers 2 - La venganza de los caidos",
+                "Transformers 2: Yiqilganlar qasosi",
+                "Transformers 2 - Revenge of the Fallen",
+                "變形金剛2：狂派再起",
+                "Transformers - Die Rache",
+                "Transformers 2 - Die Rache",
+                "变形金刚2：卷土重来",
+                "トランスフォーマー／リベンジ：2009",
+                "Robot Đại Chiến 2: Bại Binh Phục Hận",
+                "Transformers 2: Yenilenlerin İntikamı",
+                "Transformers 2：Revenge Of The Fallen",
+                "Transformers 2: Uduzanların İntiqamı",
+                "Transformers: Die Rache",
+                "Transformers 2 - La vendetta del caduto"
+            ],
+            "name": "Трансформеры: Месть падших",
+            "alternativeName": "Transformers: Revenge of the Fallen",
+            "enName": "",
+            "year": 2009,
+            "genres": [
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                },
+                {
+                    "name": "приключения"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                }
+            ],
+            "releaseYears": [],
+            "id": 373391,
+            "externalId": {
+                "imdb": "tt1055369",
+                "tmdb": 8373,
+                "kpHD": "46a6dfb6f21b044c99ec6c989ddac219"
+            },
+            "names": [
+                {
+                    "name": "Трансформеры: Месть падших"
+                },
+                {
+                    "name": "Transformers: Revenge of the Fallen"
+                },
+                {
+                    "name": "變形金剛：復仇之戰",
+                    "language": "TW",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2: Revenge of the Fallen",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformerji 2: Mascevanje padlih",
+                    "language": "SI",
+                    "type": null
+                },
+                {
+                    "name": "Трансформери: Помста полеглих",
+                    "language": "UA",
+                    "type": null
+                },
+                {
+                    "name": "transformery: mest' padshikh",
+                    "language": "RU",
+                    "type": "transliteration"
+                },
+                {
+                    "name": "变形金刚2",
+                    "language": "CN",
+                    "type": null
+                },
+                {
+                    "name": "Transformes 2 - A Vingança dos Derrotados",
+                    "language": "BR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers II: Revenge of the Fallen (2009)",
+                    "language": "US",
+                    "type": "Alternative title"
+                },
+                {
+                    "name": "Transformers 2: A bukottak bosszúja",
+                    "language": "HU",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2 - La venganza de los caidos",
+                    "language": "MX",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2 - La venganza de los caidos",
+                    "language": "ES",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2: Yiqilganlar qasosi",
+                    "language": "UZ",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2 - Revenge of the Fallen",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛2：狂派再起",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - Die Rache",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2 - Die Rache",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "变形金刚2：卷土重来",
+                    "language": "CN",
+                    "type": null
+                },
+                {
+                    "name": "トランスフォーマー／リベンジ：2009",
+                    "language": "JP",
+                    "type": null
+                },
+                {
+                    "name": "Robot Đại Chiến 2: Bại Binh Phục Hận",
+                    "language": "VN",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2: Yenilenlerin İntikamı",
+                    "language": "TR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2：Revenge Of The Fallen",
+                    "language": "US",
+                    "type": "Full Title with alt char '：' for Windows filenames"
+                },
+                {
+                    "name": "Transformers 2: Uduzanların İntiqamı",
+                    "language": "AZ",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Die Rache",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 2 - La vendetta del caduto",
+                    "language": "IT",
+                    "type": null
+                }
+            ],
+            "type": "movie",
+            "description": "Прошло два года с тех пор, как юный Сэм Уитвикки спас Вселенную, предотвратив глобальную битву между враждующими воинственными расами инопланетных роботов. Несмотря на свои героические подвиги, Сэм остается обычным подростком с обычными проблемами — поступлением в колледж и родителями. Разумеется, отъезд будет тяжело воспринят лучшим другом, роботом — телохранителем Бамблби.\n\nСэм изо всех сил пытается забыть о конфликте в Мишн Сити и вернуться к нормальной жизни. Однако битва между Автоботами и Десептиконами, несмотря на гриф полной секретности, многое изменила...",
+            "shortDescription": "Сэм поступает в колледж и влюбляется, но мирная жизнь вновь под угрозой. Сиквел блокбастера с Шайей ЛаБафом",
+            "logo": {
+                "url": "https://avatars.mds.yandex.net/get-ott/212840/2a0000017cc7662c4e776473c7a1ed954ffc/orig"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1704946/650001ef-b334-484f-b319-499cfb29dc88/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1704946/650001ef-b334-484f-b319-499cfb29dc88/x1000"
+            },
+            "backdrop": {
+                "url": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a0000017cc765d12e86c5814496bad9172e/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a0000017cc765d12e86c5814496bad9172e/x1000"
+            },
+            "rating": {
+                "kp": 7.138,
+                "imdb": 6,
+                "filmCritics": 4.1,
+                "russianFilmCritics": 50,
+                "await": null
+            },
+            "votes": {
+                "kp": 281520,
+                "imdb": 430720,
+                "filmCritics": 250,
+                "russianFilmCritics": 6,
+                "await": 0
+            },
+            "movieLength": 149,
+            "internalRating": 7.138,
+            "internalVotes": 281520,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "pg13",
+            "ageRating": 18,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Трансформеры 3: Тёмная сторона Луны",
+                "Transformers: Dark of the Moon",
+                "Transformers 3",
+                "Transformers III: Dark of the Moon (2011)",
+                "Transformers 3 - resta solo la terra",
+                "變形金剛3：黑月降臨",
+                "Transformers 3",
+                "Transformers 3: O Lado Oculto da Lua",
+                "Transformers 3: El lado oscuro de la Luna",
+                "Transformers 3 - Die dunkle Seite des Mondes",
+                "Transformers :The Dark Side of the Moon",
+                "Transformeriai 3",
+                "Transformers 3: Dark of the Moon",
+                "Transformers 3: A Hold sötétsége",
+                "Transformers - Dark of the Moon",
+                "Transformerlar 3",
+                "Transformerlar 3: Oyning qorongʻi tomoni",
+                "變形金剛3：黑月降臨",
+                "Transformers 3 - Dark of the Moon",
+                "变形金刚3：月黑之时",
+                "Transformers: Temná strana Měsíce",
+                "Transformers 3 - Dark of the Moon",
+                "Robot Đại Chiến 3: Bóng Tối Mặt Trăng",
+                "トランスフォーマー／ダークサイド・ムーン：2011",
+                "变形金刚3：黑月降临",
+                "Transformers: Vùng Tối Của Mặt Trăng",
+                "Transformers 3: Ay'ın Karanlık Yüzü",
+                "Transformers 3：Dark Of The Moon",
+                "Transformers 3: Ay'ın Qaranlıq Üzü",
+                "트랜스포머 3",
+                "Transformers: Partea întunecată a Lunii"
+            ],
+            "name": "Трансформеры 3: Тёмная сторона Луны",
+            "alternativeName": "Transformers: Dark of the Moon",
+            "enName": "",
+            "year": 2011,
+            "genres": [
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                },
+                {
+                    "name": "приключения"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                }
+            ],
+            "releaseYears": [],
+            "id": 452899,
+            "externalId": {
+                "imdb": "tt1399103",
+                "tmdb": 38356,
+                "kpHD": "4ea3893da6b6a8479f8481bc009c7317"
+            },
+            "names": [
+                {
+                    "name": "Трансформеры 3: Тёмная сторона Луны"
+                },
+                {
+                    "name": "Transformers: Dark of the Moon"
+                },
+                {
+                    "name": "Transformers 3",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformers III: Dark of the Moon (2011)",
+                    "language": "US",
+                    "type": "Alternative title"
+                },
+                {
+                    "name": "Transformers 3 - resta solo la terra",
+                    "language": "IT",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛3：黑月降臨",
+                    "language": "TW",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3",
+                    "language": "CZ",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3: O Lado Oculto da Lua",
+                    "language": "BR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3: El lado oscuro de la Luna",
+                    "language": "ES",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3 - Die dunkle Seite des Mondes",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "Transformers :The Dark Side of the Moon",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformeriai 3",
+                    "language": "LT",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3: Dark of the Moon",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3: A Hold sötétsége",
+                    "language": "HU",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - Dark of the Moon",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformerlar 3",
+                    "language": "UZ",
+                    "type": null
+                },
+                {
+                    "name": "Transformerlar 3: Oyning qorongʻi tomoni",
+                    "language": "UZ",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛3：黑月降臨",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3 - Dark of the Moon",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "变形金刚3：月黑之时",
+                    "language": "CN",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Temná strana Měsíce",
+                    "language": "CZ",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3 - Dark of the Moon",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Robot Đại Chiến 3: Bóng Tối Mặt Trăng",
+                    "language": "VN",
+                    "type": null
+                },
+                {
+                    "name": "トランスフォーマー／ダークサイド・ムーン：2011",
+                    "language": "JP",
+                    "type": null
+                },
+                {
+                    "name": "变形金刚3：黑月降临",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Vùng Tối Của Mặt Trăng",
+                    "language": "VN",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3: Ay'ın Karanlık Yüzü",
+                    "language": "TR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 3：Dark Of The Moon",
+                    "language": "US",
+                    "type": "Full Title with alt char '：' for Windows filenames"
+                },
+                {
+                    "name": "Transformers 3: Ay'ın Qaranlıq Üzü",
+                    "language": "AZ",
+                    "type": null
+                },
+                {
+                    "name": "트랜스포머 3",
+                    "language": "KR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Partea întunecată a Lunii",
+                    "language": "RO",
+                    "type": "hbo max title"
+                }
+            ],
+            "type": "movie",
+            "description": "Американское правительство долго скрывало тайну первой высадки человека на Луну. Оказывается, 20 июля 1969 года совершив посадку на Луне, американские астронавты обнаружили разбившийся корабль автоботов и останки роботов. Программу засекретили, но спустя сорок лет она вновь всплыла, как камень преткновения в отношениях людей и автоботов. Сем Уитвики и его новая подружка Карли оказываются в самом эпицентре новой глобальной заварушки с участием десептиконов и автоботов, в основу которого положена тайна, которую хранит темная сторона Луны.",
+            "shortDescription": "Сэм пытается начать взрослую жизнь, но Земле нужна его помощь. Блокбастер Майкла Бэя выходит на новую орбиту",
+            "logo": {
+                "url": "https://avatars.mds.yandex.net/get-ott/2439731/2a0000017b1a27945e8a5292afb8146edde8/orig"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1600647/1378a1f6-fcfa-4bf7-b8d9-e48ba74ef2c8/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1600647/1378a1f6-fcfa-4bf7-b8d9-e48ba74ef2c8/x1000"
+            },
+            "backdrop": {
+                "url": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a00000167a3044031bdd34ecc93fcc8ab44/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a00000167a3044031bdd34ecc93fcc8ab44/x1000"
+            },
+            "rating": {
+                "kp": 6.848,
+                "imdb": 6.2,
+                "filmCritics": 5,
+                "russianFilmCritics": 54.5455,
+                "await": null
+            },
+            "votes": {
+                "kp": 254725,
+                "imdb": 434223,
+                "filmCritics": 266,
+                "russianFilmCritics": 11,
+                "await": 0
+            },
+            "movieLength": 154,
+            "internalRating": 6.848,
+            "internalVotes": 254725,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "pg13",
+            "ageRating": 18,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Трансформеры: Эпоха истребления",
+                "Transformers: Age of Extinction",
+                "Transformers 4",
+                "Transformers 4: La era de la extinción",
+                "Transformers - Tuhon aikakausi",
+                "Transformeriai 4",
+                "Transformers: Era da Extinção",
+                "Transformersi - Doba izumiranja",
+                "Трансформери 4",
+                "Transformers: Wiek zagłady",
+                "트랜스포머 4: 사라진 시대",
+                "ทรานส์ฟอร์เมอร์ส 4: มหาวิบัติยุคสูญพันธุ์",
+                "Transformers - L'age de l'extinction",
+                "Transformers - A Era da Extinção",
+                "Transformers - Age of Extinction",
+                "شوندگان: عصر انقراض",
+                "Transformers 4: Εποχή Αφανισμού",
+                "Transformers 4 - A Era da Extinção",
+                "Transformers 4 L'age de l'extinction",
+                "Transformers 4 - Age of Extinction",
+                "Transformers 4: A kihalás kora",
+                "Transformers - Ära des Untergangs",
+                "變形金剛4：絕跡重生",
+                "變形金剛4：殲滅世紀",
+                "Transformers IV: Age of Extinction",
+                "变形金刚4：绝迹重生",
+                "Transformers 4: Ära des Untergangs",
+                "Transformers: Ära des Untergangs",
+                "Transformers: Zánik",
+                "Transformers 4 - Ära des Untergangs",
+                "トランスフォーマー／ロストエイジ：2014",
+                "Robot Đại Chiến 4: Kỷ Nguyên Hủy Diệt",
+                "变形金刚4：毁灭世纪",
+                "Transformers 4: Kayıp Çağ",
+                "Transformers 4：The Age Of Extinction",
+                "Transformers: İtmiş Dövr"
+            ],
+            "name": "Трансформеры: Эпоха истребления",
+            "alternativeName": "Transformers: Age of Extinction",
+            "enName": "",
+            "year": 2014,
+            "genres": [
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                },
+                {
+                    "name": "приключения"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                },
+                {
+                    "name": "Китай"
+                },
+                {
+                    "name": "Гонконг"
+                }
+            ],
+            "releaseYears": [],
+            "id": 651857,
+            "externalId": {
+                "imdb": "tt2109248",
+                "tmdb": 91314,
+                "kpHD": "4f7389d884420079a35cead956ce27d7"
+            },
+            "names": [
+                {
+                    "name": "Трансформеры: Эпоха истребления"
+                },
+                {
+                    "name": "Transformers: Age of Extinction"
+                },
+                {
+                    "name": "Transformers 4",
+                    "language": "AR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4: La era de la extinción",
+                    "language": "ES",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - Tuhon aikakausi",
+                    "language": "FI",
+                    "type": null
+                },
+                {
+                    "name": "Transformeriai 4",
+                    "language": "LT",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Era da Extinção",
+                    "language": "PT",
+                    "type": null
+                },
+                {
+                    "name": "Transformersi - Doba izumiranja",
+                    "language": "RS",
+                    "type": null
+                },
+                {
+                    "name": "Трансформери 4",
+                    "language": "UA",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Wiek zagłady",
+                    "language": "PL",
+                    "type": null
+                },
+                {
+                    "name": "트랜스포머 4: 사라진 시대",
+                    "language": "KR",
+                    "type": null
+                },
+                {
+                    "name": "ทรานส์ฟอร์เมอร์ส 4: มหาวิบัติยุคสูญพันธุ์",
+                    "language": "TH",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - L'age de l'extinction",
+                    "language": "FR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - A Era da Extinção",
+                    "language": "BR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - Age of Extinction",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "شوندگان: عصر انقراض",
+                    "language": "IR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4: Εποχή Αφανισμού",
+                    "language": "GR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4 - A Era da Extinção",
+                    "language": "BR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4 L'age de l'extinction",
+                    "language": "FR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4 - Age of Extinction",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4: A kihalás kora",
+                    "language": "HU",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - Ära des Untergangs",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛4：絕跡重生",
+                    "language": "TW",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛4：殲滅世紀",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "Transformers IV: Age of Extinction",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "变形金刚4：绝迹重生",
+                    "language": "CN",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4: Ära des Untergangs",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Ära des Untergangs",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Zánik",
+                    "language": "CZ",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4 - Ära des Untergangs",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "トランスフォーマー／ロストエイジ：2014",
+                    "language": "JP",
+                    "type": null
+                },
+                {
+                    "name": "Robot Đại Chiến 4: Kỷ Nguyên Hủy Diệt",
+                    "language": "VN",
+                    "type": null
+                },
+                {
+                    "name": "变形金刚4：毁灭世纪",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4: Kayıp Çağ",
+                    "language": "TR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 4：The Age Of Extinction",
+                    "language": "US",
+                    "type": "Full Title with alt char '：' for Windows filenames"
+                },
+                {
+                    "name": "Transformers: İtmiş Dövr",
+                    "language": "AZ",
+                    "type": null
+                }
+            ],
+            "type": "movie",
+            "description": "Автоботы и десептиконы оставили человечество собирать планету по кусочкам. Между тем группа могущественных бизнесменов и гениальных ученых пытается извлечь уроки из ошибок прошлого и улучшить технологии до такой степени, чтобы выйти за пределы контролируемого ранее. В это время другая группа — древних мощных трансформеров — берет Землю под прицел.",
+            "shortDescription": "Люди и роботы вступают в схватку с древним злом. Обновленная часть франшизы с Марком Уолбергом и динозаврами",
+            "logo": {
+                "url": "https://imagetmdb.com/t/p/original/j78c9g9ePiwG9sdB1QCUtIJl02H.png"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1946459/9dabdf69-135a-44b2-b98e-585d4f7246bb/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1946459/9dabdf69-135a-44b2-b98e-585d4f7246bb/x1000"
+            },
+            "backdrop": {
+                "url": "https://image.openmoviedb.com/kinopoisk-ott-images/224348/2a00000167a3055e8c37569d125430a49839/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/224348/2a00000167a3055e8c37569d125430a49839/x1000"
+            },
+            "rating": {
+                "kp": 6.104,
+                "imdb": 5.6,
+                "filmCritics": 4,
+                "russianFilmCritics": 50,
+                "await": null
+            },
+            "votes": {
+                "kp": 214124,
+                "imdb": 333170,
+                "filmCritics": 215,
+                "russianFilmCritics": 12,
+                "await": 0
+            },
+            "movieLength": 165,
+            "internalRating": 6.104,
+            "internalVotes": 214124,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "pg13",
+            "ageRating": 12,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Трансформеры: Последний рыцарь",
+                "Transformers: The Last Knight",
+                "Transformers 5: The Last Knight",
+                "Transformers 5",
+                "Transformers 5 - O Último Cavaleiro",
+                "Transformers 5: Az utolsó lovag",
+                "Transformers - The Last Knight",
+                "Transformers 5: El Ultimo Caballero",
+                "Transformers 5: El Ultimo Caballero",
+                "Transformers 5 The last knight",
+                "Transformers - The Last Knight",
+                "變形金剛5：最終騎士",
+                "變形金剛5：終極戰士",
+                "变形金刚5：最后的骑士",
+                "Transformers: Poslední rytíř",
+                "Transformers 5 - The Last Knight",
+                "トランスフォーマー／最後の騎士王：2017",
+                "Robot Đại Chiến 5: Chiến Binh Cuối Cùng",
+                "变形金刚5：终极战士",
+                "Transformers 5: El último caballero",
+                "Transformers 5: El último caballero",
+                "Transformers V: The Last Knight (2017)",
+                "Transformers 5：The Last Knight",
+                "Transformers 5: Son Cəngavər",
+                "Transformers 5 - L'ultimo cavaliere",
+                "Transformers: El Último Caballero"
+            ],
+            "name": "Трансформеры: Последний рыцарь",
+            "alternativeName": "Transformers: The Last Knight",
+            "enName": "",
+            "year": 2017,
+            "genres": [
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                },
+                {
+                    "name": "приключения"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                },
+                {
+                    "name": "Китай"
+                },
+                {
+                    "name": "Канада"
+                }
+            ],
+            "releaseYears": [],
+            "id": 811609,
+            "externalId": {
+                "imdb": "tt3371366",
+                "tmdb": 335988,
+                "kpHD": "49901300c4bb8a46952f9f530a738644"
+            },
+            "names": [
+                {
+                    "name": "Трансформеры: Последний рыцарь"
+                },
+                {
+                    "name": "Transformers: The Last Knight"
+                },
+                {
+                    "name": "Transformers 5: The Last Knight",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5",
+                    "language": "US",
+                    "type": "working title"
+                },
+                {
+                    "name": "Transformers 5 - O Último Cavaleiro",
+                    "language": "BR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5: Az utolsó lovag",
+                    "language": "HU",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - The Last Knight",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5: El Ultimo Caballero",
+                    "language": "MX",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5: El Ultimo Caballero",
+                    "language": "ES",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5 The last knight",
+                    "language": "FR",
+                    "type": null
+                },
+                {
+                    "name": "Transformers - The Last Knight",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛5：最終騎士",
+                    "language": "TW",
+                    "type": null
+                },
+                {
+                    "name": "變形金剛5：終極戰士",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "变形金刚5：最后的骑士",
+                    "language": "CN",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: Poslední rytíř",
+                    "language": "CZ",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5 - The Last Knight",
+                    "language": "DE",
+                    "type": null
+                },
+                {
+                    "name": "トランスフォーマー／最後の騎士王：2017",
+                    "language": "JP",
+                    "type": null
+                },
+                {
+                    "name": "Robot Đại Chiến 5: Chiến Binh Cuối Cùng",
+                    "language": "VN",
+                    "type": null
+                },
+                {
+                    "name": "变形金刚5：终极战士",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5: El último caballero",
+                    "language": "CL",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5: El último caballero",
+                    "language": "MX",
+                    "type": null
+                },
+                {
+                    "name": "Transformers V: The Last Knight (2017)",
+                    "language": "US",
+                    "type": "Alternative title"
+                },
+                {
+                    "name": "Transformers 5：The Last Knight",
+                    "language": "US",
+                    "type": "Full Title with alt char '：' for Windows filenames"
+                },
+                {
+                    "name": "Transformers 5: Son Cəngavər",
+                    "language": "AZ",
+                    "type": null
+                },
+                {
+                    "name": "Transformers 5 - L'ultimo cavaliere",
+                    "language": "IT",
+                    "type": null
+                },
+                {
+                    "name": "Transformers: El Último Caballero",
+                    "language": "AR",
+                    "type": null
+                }
+            ],
+            "type": "movie",
+            "description": "Оптимус Прайм исчез. Люди ведут войну с Трансформерами. Ключ к нашему будущему погребен в тайнах прошлого, в скрытой истории Трансформеров на Земле… Миссия по спасению мира ложится на плечи разношерстной компании, состоящей из Кейда Йегера, Бамблби, английского лорда и профессора из Оксфорда. Пришла пора действовать! Жертвы станут героями. Герои станут злодеями. Выстоит только один мир: их или наш.",
+            "shortDescription": "Гигантские роботы выживают на Земле, где их объявили вне закона. Пятая часть экшен-аттракциона Майкла Бэя",
+            "logo": {
+                "url": "https://avatars.mds.yandex.net/get-ott/1672343/2a000001726fc3e873e93d2b6bcc1e715b8e/orig"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1600647/63e6dcc6-9cf6-4c40-9473-780f54fc03b8/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1600647/63e6dcc6-9cf6-4c40-9473-780f54fc03b8/x1000"
+            },
+            "backdrop": {
+                "url": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a00000167a3073833617dabef2fc4d89e03/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a00000167a3073833617dabef2fc4d89e03/x1000"
+            },
+            "rating": {
+                "kp": 5.734,
+                "imdb": 5.2,
+                "filmCritics": 3.4,
+                "russianFilmCritics": 66.6667,
+                "await": null
+            },
+            "votes": {
+                "kp": 186673,
+                "imdb": 170340,
+                "filmCritics": 257,
+                "russianFilmCritics": 12,
+                "await": 0
+            },
+            "movieLength": 154,
+            "internalRating": 5.734,
+            "internalVotes": 186673,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "pg13",
+            "ageRating": 18,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        }
+    ],
+    "total": 53,
+    "limit": 10,
+    "page": 1,
+    "pages": 6
+}

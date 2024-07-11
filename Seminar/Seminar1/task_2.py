@@ -63,3 +63,7 @@ if response.status_code == 200:
 else:
     print("Запрос API завершился неудачей с кодом состояния:", response.status_code)
     print(response.text)
+
+
+with open('task2.json', 'w', encoding='utf-8') as f:
+    json.dump(response.json(), f, ensure_ascii=False, indent=4)

@@ -14,61 +14,49 @@ https://spoonacular.com/food-api
 (например, кофейни, музеи, парки и т.д.).
 - Используйте API Foursquare для поиска заведений в указанной категории.
 - Получите название заведения, его адрес и рейтинг для каждого из них.
-- Скрипт должен вывести название и адрес и рейтинг  каждого заведения в консоль.
+- Скрипт должен вывести название и адрес и рейтинг каждого заведения в консоль.
 """
 
-
 import requests
-# import pandas as pd
-#
-# # Ваши учетные данные API
-# client_id = "__"
-# client_secret = "__"
-#
-# # Конечная точка API
-# endpoint = "https://api.foursquare.com/v3/places/search"
-# city = input("Введите название города: ")
-# place = input("Введите тип заведения: ")
-# params = {
-#     "client_id": client_id,
-#     "client_secret": client_secret,
-#     "near": city,
-#     "query": place,
-# }
-# headers = {
-#     "Accept": "application/json",
-#     "Authorization": "fsq3V3AFHzvqod5PVkb9j5ptfec29VfLTGG2XbHrQEGC8bI=",
-# }
-#
-# response = requests.get(endpoint, params=params, headers=headers)
-# if response.status_code == 200:
-#     print("Успешный запрос")
-#     data = response.json()  # Directly use .json() method
-#     venues = data["results"]
-#
-#     venues_data = []
-#     for venue in venues:
-#         name = venue["name"]
-#         address = venue.get("location", {}).get("address", "Адрес не указан")
-#
-#         venues_data.append({"Название": name, "Адрес": address})
-#
-#     df = pd.DataFrame(venues_data)
-#     print(df.head)
-# else:
-#     print("Запрос не удался", response.status_code)
+import pandas as pd
+import json
 
-# import requests
-#
-# url = "https://api.foursquare.com/v3/places/search"
-#
-# client_id = "VXXLBMEYF3R2IYNBIDGQBVQIO1WDML5KDUXXCUPUDPRL0HX0"
-# client_secret = "F1UD0TCIIIQCBU3UIDMLBHV55LFZG13WMGO5QOL0D03ALJN0"
-# headers = {"accept": "application/json", "Authorization": "fsq3px5gZIImsYoeEsJkCjfNEtsOizurkjE+gLXlX31zcSc=",}
-# params = {
-#     "client_id": client_id,
-#     "client_secret": client_secret,
-# }
-# response = requests.get(url, params=params, headers=headers)
-#
-# print(response.text)
+category = input("Введите категорию заведения для поиска рядом: ")
+
+url = "https://api.foursquare.com/v3/places/search"
+
+client_id = "VXXLBMEYF3R2IYNBIDGQBVQIO1WDML5KDUXXCUPUDPRL0HX0"
+client_secret = "F1UD0TCIIIQCBU3UIDMLBHV55LFZG13WMGO5QOL0D03ALJN0"
+headers = {"accept": "application/json", "Authorization": "fsq3px5gZIImsYoeEsJkCjfNEtsOizurkjE+gLXlX31zcSc=", }
+params = {
+    "client_id": client_id,
+    "client_secret": client_secret,
+    "query": category,
+
+}
+response = requests.get(url, params=params, headers=headers)
+print(response.text)
+
+# with open('hw1.json', 'w', encoding='utf-8') as f:
+#     json.dump(response.json(), f, ensure_ascii=False, indent=4)
+
+
+if response.status_code == 200:
+    print("Успешный запрос")
+    data = response.json()  # Directly use .json() method
+    venues = data["results"]
+
+    venues_data = []
+    for venue in venues:
+        name = venue["name"]
+        region = venue.get("location", {}).get("region", "Регион не указан")
+        locality = venue.get("location", {}).get("locality", "Город не указан")
+        address = venue.get("location", {}).get("address", "Адрес не указан")
+        rating = venue.get("rating", "-")
+        venues_data.append({"Название": name, "Адрес": f'{region}, {locality}, {address}', 'Рейтинг': rating})
+    df = pd.DataFrame(venues_data)
+    print(df.head)
+else:
+    print("Запрос не удался", response.status_code)
+
+

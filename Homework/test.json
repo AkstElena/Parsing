@@ -1,0 +1,36 @@
+{
+    "fsq_id": "650c5860b8e63514a2aa5aa6",
+    "categories": [
+        {
+            "id": 13037,
+            "name": "Cafeteria",
+            "short_name": "Cafeteria",
+            "plural_name": "Cafeterias",
+            "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                "suffix": ".png"
+            }
+        }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "geocodes": {
+        "main": {
+            "latitude": 55.71360738398107,
+            "longitude": 52.39751636981964
+        }
+    },
+    "link": "/v3/places/650c5860b8e63514a2aa5aa6",
+    "location": {
+        "address": "ул. ​Академика Королёва, 2",
+        "country": "RU",
+        "cross_street": "",
+        "formatted_address": "ул. ​Академика Королёва, 2, 423814, Набережные Челны",
+        "locality": "Набережные Челны",
+        "postcode": "423814",
+        "region": "Татарстан"
+    },
+    "name": "Бахор",
+    "related_places": {},
+    "timezone": "Europe/Moscow"
+}

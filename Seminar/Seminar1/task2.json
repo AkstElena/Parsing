@@ -1,0 +1,492 @@
+{
+    "results": [
+        {
+            "fsq_id": "532d32cb498ee6ee9a018ff1",
+            "categories": [
+                {
+                    "id": 13026,
+                    "name": "BBQ Joint",
+                    "short_name": "BBQ",
+                    "plural_name": "BBQ Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 512,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.721061,
+                    "longitude": 52.407489
+                }
+            },
+            "link": "/v3/places/532d32cb498ee6ee9a018ff1",
+            "location": {
+                "address": "Ахметшина Ул., д. 115",
+                "address_extended": "стр. 7",
+                "country": "RU",
+                "cross_street": "",
+                "formatted_address": "Ахметшина Ул., д. 115, 423812, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423812",
+                "region": "Татарстан"
+            },
+            "name": "БАМБАРБИЯ",
+            "related_places": {},
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "536b5d99498e9c57fd4b1466",
+            "categories": [
+                {
+                    "id": 13034,
+                    "name": "Café",
+                    "short_name": "Café",
+                    "plural_name": "Cafés",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 517,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.721276,
+                    "longitude": 52.408351
+                },
+                "roof": {
+                    "latitude": 55.721276,
+                    "longitude": 52.408351
+                }
+            },
+            "link": "/v3/places/536b5d99498e9c57fd4b1466",
+            "location": {
+                "address": "Ахметшина Ул., д. 115",
+                "country": "RU",
+                "cross_street": "",
+                "formatted_address": "Ахметшина Ул., д. 115, 423812, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423812",
+                "region": "Татарстан"
+            },
+            "name": "Колобок",
+            "related_places": {},
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "52237b5511d25d1713d5958d",
+            "categories": [
+                {
+                    "id": 13276,
+                    "name": "Sushi Restaurant",
+                    "short_name": "Sushi",
+                    "plural_name": "Sushi Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 1132,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.7299,
+                    "longitude": 52.394944
+                }
+            },
+            "link": "/v3/places/52237b5511d25d1713d5958d",
+            "location": {
+                "country": "RU",
+                "cross_street": "",
+                "formatted_address": "423812, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423812",
+                "region": "Татарстан"
+            },
+            "name": "РОКНРОЛЛЫ.РФ",
+            "related_places": {},
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "514b252ae4b0b8f96d7b5962",
+            "categories": [
+                {
+                    "id": 13034,
+                    "name": "Café",
+                    "short_name": "Café",
+                    "plural_name": "Cafés",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13035,
+                    "name": "Coffee Shop",
+                    "short_name": "Coffee Shop",
+                    "plural_name": "Coffee Shops",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "short_name": "Restaurant",
+                    "plural_name": "Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 1528,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.733579,
+                    "longitude": 52.391569
+                }
+            },
+            "link": "/v3/places/514b252ae4b0b8f96d7b5962",
+            "location": {
+                "address": "Сююмбике Пр., 4а",
+                "country": "RU",
+                "formatted_address": "Сююмбике Пр., 4а, 423812, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423812",
+                "region": "Татарстан"
+            },
+            "name": "Дача",
+            "related_places": {},
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "5bc8d1743731ee00396d39ab",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 1115,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.730533,
+                    "longitude": 52.39599
+                },
+                "roof": {
+                    "latitude": 55.730533,
+                    "longitude": 52.39599
+                }
+            },
+            "link": "/v3/places/5bc8d1743731ee00396d39ab",
+            "location": {
+                "address": "Респ Татарстан, пр-кт Мира, д.24Б",
+                "country": "RU",
+                "cross_street": "",
+                "formatted_address": "Респ Татарстан, пр-кт Мира, д.24Б, 423812, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423812",
+                "region": "Татарстан"
+            },
+            "name": "Пиццерия Pipa",
+            "related_places": {},
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "500e94e0e4b0519030eb2ce3",
+            "categories": [
+                {
+                    "id": 13058,
+                    "name": "Hot Dog Joint",
+                    "short_name": "Hot Dogs",
+                    "plural_name": "Hot Dog Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 1148,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.734928,
+                    "longitude": 52.403427
+                },
+                "roof": {
+                    "latitude": 55.734928,
+                    "longitude": 52.403427
+                }
+            },
+            "link": "/v3/places/500e94e0e4b0519030eb2ce3",
+            "location": {
+                "address": "Раиса Беляева Пр., 12/1 киоск",
+                "country": "RU",
+                "formatted_address": "Раиса Беляева Пр., 12/1 киоск, 423809, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423809",
+                "region": "Татарстан"
+            },
+            "name": "Ак Батыр",
+            "related_places": {},
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "4f619bb6e4b0bedb2a2d0ffc",
+            "categories": [
+                {
+                    "id": 13034,
+                    "name": "Café",
+                    "short_name": "Café",
+                    "plural_name": "Cafés",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13035,
+                    "name": "Coffee Shop",
+                    "short_name": "Coffee Shop",
+                    "plural_name": "Coffee Shops",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "short_name": "Restaurant",
+                    "plural_name": "Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 1276,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.730685,
+                    "longitude": 52.39271
+                }
+            },
+            "link": "/v3/places/4f619bb6e4b0bedb2a2d0ffc",
+            "location": {
+                "address": "Сююмбике Пр., 2/19",
+                "country": "RU",
+                "cross_street": "просп. Сююмбике, 2/19",
+                "formatted_address": "Сююмбике Пр., 2/19 (просп. Сююмбике, 2/19), 423812, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423812",
+                "region": "Татарстан"
+            },
+            "name": "Печки-лавочки",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4be156de0365c9b6825ab338",
+                    "categories": [
+                        {
+                            "id": 11097,
+                            "name": "Professional Cleaning Service",
+                            "short_name": "Professional Cleaning Service",
+                            "plural_name": "Professional Cleaning Services",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            }
+                        },
+                        {
+                            "id": 17114,
+                            "name": "Shopping Mall",
+                            "short_name": "Mall",
+                            "plural_name": "Shopping Malls",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                                "suffix": ".png"
+                            }
+                        }
+                    ],
+                    "name": "Омега"
+                }
+            },
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "517fe6ade4b058617615113f",
+            "categories": [
+                {
+                    "id": 13276,
+                    "name": "Sushi Restaurant",
+                    "short_name": "Sushi",
+                    "plural_name": "Sushi Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 1360,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.728834,
+                    "longitude": 52.388248
+                },
+                "roof": {
+                    "latitude": 55.728834,
+                    "longitude": 52.388248
+                }
+            },
+            "link": "/v3/places/517fe6ade4b058617615113f",
+            "location": {
+                "address": "Мира Пр., 17Б/1",
+                "country": "RU",
+                "formatted_address": "Мира Пр., 17Б/1, 423822, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423822",
+                "region": "Татарстан"
+            },
+            "name": "Sushi Hit",
+            "related_places": {},
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "501102ece4b034c3deaa35cf",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 1890,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.724707,
+                    "longitude": 52.381034
+                }
+            },
+            "link": "/v3/places/501102ece4b034c3deaa35cf",
+            "location": {
+                "address": "Респ Татарстан, пр-кт Мира, д.3",
+                "country": "RU",
+                "cross_street": "",
+                "formatted_address": "Респ Татарстан, пр-кт Мира, д.3, 423822, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423822",
+                "region": "Татарстан"
+            },
+            "name": "Ташир, пиццерия",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4d21dc328629224b58a61e87",
+                    "categories": [
+                        {
+                            "id": 17114,
+                            "name": "Shopping Mall",
+                            "short_name": "Mall",
+                            "plural_name": "Shopping Malls",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                                "suffix": ".png"
+                            }
+                        }
+                    ],
+                    "name": "Торговый Квартал"
+                }
+            },
+            "timezone": "Europe/Moscow"
+        },
+        {
+            "fsq_id": "650c5860b8e63514a2aa5aa6",
+            "categories": [
+                {
+                    "id": 13037,
+                    "name": "Cafeteria",
+                    "short_name": "Cafeteria",
+                    "plural_name": "Cafeterias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 1570,
+            "geocodes": {
+                "main": {
+                    "latitude": 55.71360738398107,
+                    "longitude": 52.39751636981964
+                }
+            },
+            "link": "/v3/places/650c5860b8e63514a2aa5aa6",
+            "location": {
+                "address": "ул. ​Академика Королёва, 2",
+                "country": "RU",
+                "cross_street": "",
+                "formatted_address": "ул. ​Академика Королёва, 2, 423814, Набережные Челны",
+                "locality": "Набережные Челны",
+                "postcode": "423814",
+                "region": "Татарстан"
+            },
+            "name": "Бахор",
+            "related_places": {},
+            "timezone": "Europe/Moscow"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 55.72545,
+                    "longitude": 52.41122
+                },
+                "radius": 2000
+            }
+        }
+    }
+}
