@@ -1,0 +1,8294 @@
+[
+    {
+        "country_name": "South Sudan",
+        "related": "Inflation Rate",
+        "last": -2.5,
+        "previous": 6.43
+    },
+    {
+        "country_name": "South Sudan",
+        "related": "Food Inflation",
+        "last": -5.3,
+        "previous": 1.66
+    },
+    {
+        "country_name": "South Sudan",
+        "related": "Inflation Rate MoM",
+        "last": -1.45,
+        "previous": 4.97
+    },
+    {
+        "country_name": "South Sudan",
+        "related": "CPI Transportation",
+        "last": 16601.0,
+        "previous": 17103.01
+    },
+    {
+        "country_name": "South Sudan",
+        "related": "CPI Housing Utilities",
+        "last": 10127.98,
+        "previous": 9246.63
+    },
+    {
+        "country_name": "South Sudan",
+        "related": "Core Consumer Prices",
+        "last": 9730.66,
+        "previous": 9619.74
+    },
+    {
+        "country_name": "South Sudan",
+        "related": "Consumer Price Index CPI",
+        "last": 16199.66,
+        "previous": 16438.56
+    },
+    {
+        "country_name": "Libya",
+        "related": "Inflation Rate",
+        "last": 3.8,
+        "previous": 4.1
+    },
+    {
+        "country_name": "Libya",
+        "related": "Food Inflation",
+        "last": 3.75,
+        "previous": 3.63
+    },
+    {
+        "country_name": "Libya",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 0.3
+    },
+    {
+        "country_name": "Libya",
+        "related": "CPI Transportation",
+        "last": 211.7,
+        "previous": 211.3
+    },
+    {
+        "country_name": "Libya",
+        "related": "CPI Housing Utilities",
+        "last": 193.6,
+        "previous": 193.6
+    },
+    {
+        "country_name": "Libya",
+        "related": "Consumer Price Index CPI",
+        "last": 291.4,
+        "previous": 290.6
+    },
+    {
+        "country_name": "Bahrain",
+        "related": "Inflation Rate",
+        "last": 3.9,
+        "previous": 3.8
+    },
+    {
+        "country_name": "Bahrain",
+        "related": "Consumer Price Index CPI",
+        "last": 101.2,
+        "previous": 101.3
+    },
+    {
+        "country_name": "Bahrain",
+        "related": "Inflation Rate MoM",
+        "last": -0.1,
+        "previous": -0.1
+    },
+    {
+        "country_name": "Bahrain",
+        "related": "Food Inflation",
+        "last": 12.7,
+        "previous": 9.9
+    },
+    {
+        "country_name": "Bahrain",
+        "related": "CPI Transportation",
+        "last": 108.6,
+        "previous": 110.3
+    },
+    {
+        "country_name": "Bahrain",
+        "related": "CPI Housing Utilities",
+        "last": 93.4,
+        "previous": 93.9
+    },
+    {
+        "country_name": "Ecuador",
+        "related": "Inflation Rate",
+        "last": 3.64,
+        "previous": 4.02
+    },
+    {
+        "country_name": "Ecuador",
+        "related": "Consumer Price Index CPI",
+        "last": 110.05,
+        "previous": 110.06
+    },
+    {
+        "country_name": "Ecuador",
+        "related": "Producer Prices",
+        "last": 111.83,
+        "previous": 112.34
+    },
+    {
+        "country_name": "Ecuador",
+        "related": "Producer Prices Change",
+        "last": 6.33,
+        "previous": 7.24
+    },
+    {
+        "country_name": "Ecuador",
+        "related": "Inflation Rate MoM",
+        "last": -0.01,
+        "previous": 0.12
+    },
+    {
+        "country_name": "Ecuador",
+        "related": "Food Inflation",
+        "last": 7.57,
+        "previous": 7.37
+    },
+    {
+        "country_name": "Ecuador",
+        "related": "CPI Transportation",
+        "last": 119.37,
+        "previous": 119.51
+    },
+    {
+        "country_name": "Ecuador",
+        "related": "CPI Housing Utilities",
+        "last": 118.79,
+        "previous": 118.73
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Inflation Rate",
+        "last": 4.0,
+        "previous": 4.0
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Consumer Price Index CPI",
+        "last": 129.0,
+        "previous": 128.6
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "GDP Deflator",
+        "last": 117.0,
+        "previous": 119.0
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Producer Prices",
+        "last": 120.0,
+        "previous": 119.3
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Import Prices",
+        "last": 133.2,
+        "previous": 132.5
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Food Inflation",
+        "last": 7.3,
+        "previous": 7.1
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Producer Prices Change",
+        "last": 3.2,
+        "previous": 4.0
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "CPI Transportation",
+        "last": 120.8,
+        "previous": 120.8
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "CPI Housing Utilities",
+        "last": 123.9,
+        "previous": 123.7
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 0.2
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Export Prices",
+        "last": 149.7,
+        "previous": 149.8
+    },
+    {
+        "country_name": "Malaysia",
+        "related": "Core Inflation Rate",
+        "last": 4.1,
+        "previous": 4.0
+    },
+    {
+        "country_name": "Japan",
+        "related": "Inflation Rate",
+        "last": 3.8,
+        "previous": 3.7
+    },
+    {
+        "country_name": "Japan",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 0.6
+    },
+    {
+        "country_name": "Japan",
+        "related": "Core Inflation Rate",
+        "last": 3.7,
+        "previous": 3.6
+    },
+    {
+        "country_name": "Japan",
+        "related": "Food Inflation",
+        "last": 6.9,
+        "previous": 6.2
+    },
+    {
+        "country_name": "Japan",
+        "related": "Tokyo CPI",
+        "last": 103.8,
+        "previous": 103.5
+    },
+    {
+        "country_name": "Japan",
+        "related": "CPI Transportation",
+        "last": 94.3,
+        "previous": 94.2
+    },
+    {
+        "country_name": "Japan",
+        "related": "CPI Core Core",
+        "last": 2.8,
+        "previous": 2.5
+    },
+    {
+        "country_name": "Bolivia",
+        "related": "Inflation Rate",
+        "last": 3.17,
+        "previous": 2.89
+    },
+    {
+        "country_name": "Bolivia",
+        "related": "Consumer Price Index CPI",
+        "last": 108.69,
+        "previous": 108.18
+    },
+    {
+        "country_name": "Bolivia",
+        "related": "CPI Transportation",
+        "last": 109.65,
+        "previous": 108.48
+    },
+    {
+        "country_name": "Bolivia",
+        "related": "CPI Housing Utilities",
+        "last": 106.6,
+        "previous": 106.55
+    },
+    {
+        "country_name": "Bolivia",
+        "related": "Food Inflation",
+        "last": 6.41,
+        "previous": 5.72
+    },
+    {
+        "country_name": "Bolivia",
+        "related": "Inflation Rate MoM",
+        "last": 0.47,
+        "previous": 0.75
+    },
+    {
+        "country_name": "Bolivia",
+        "related": "Import Prices",
+        "last": 137.42,
+        "previous": 137.17
+    },
+    {
+        "country_name": "Bolivia",
+        "related": "Export Prices",
+        "last": 84.77,
+        "previous": 84.75
+    },
+    {
+        "country_name": "Benin",
+        "related": "Inflation Rate",
+        "last": 3.2,
+        "previous": 2.1
+    },
+    {
+        "country_name": "Benin",
+        "related": "Food Inflation",
+        "last": 1.2,
+        "previous": -0.8
+    },
+    {
+        "country_name": "Benin",
+        "related": "Inflation Rate MoM",
+        "last": 0.8,
+        "previous": 3.5
+    },
+    {
+        "country_name": "Benin",
+        "related": "CPI Transportation",
+        "last": 120.7,
+        "previous": 116.5
+    },
+    {
+        "country_name": "Benin",
+        "related": "CPI Housing Utilities",
+        "last": 109.8,
+        "previous": 108.5
+    },
+    {
+        "country_name": "Benin",
+        "related": "Consumer Price Index CPI",
+        "last": 110.5,
+        "previous": 109.6
+    },
+    {
+        "country_name": "Kuwait",
+        "related": "Inflation Rate",
+        "last": 3.2,
+        "previous": 3.3
+    },
+    {
+        "country_name": "Kuwait",
+        "related": "Inflation Rate MoM",
+        "last": 0.2,
+        "previous": 0.3
+    },
+    {
+        "country_name": "Kuwait",
+        "related": "Food Inflation",
+        "last": 6.74,
+        "previous": 6.63
+    },
+    {
+        "country_name": "Kuwait",
+        "related": "CPI Transportation",
+        "last": 138.8,
+        "previous": 138.7
+    },
+    {
+        "country_name": "Kuwait",
+        "related": "Consumer Price Index CPI",
+        "last": 126.7,
+        "previous": 126.4
+    },
+    {
+        "country_name": "Cambodia",
+        "related": "Inflation Rate",
+        "last": 3.6,
+        "previous": 4.4
+    },
+    {
+        "country_name": "Cambodia",
+        "related": "Inflation Rate MoM",
+        "last": -0.06,
+        "previous": -0.48
+    },
+    {
+        "country_name": "Cambodia",
+        "related": "Food Inflation",
+        "last": 4.33,
+        "previous": 4.55
+    },
+    {
+        "country_name": "Cambodia",
+        "related": "CPI Transportation",
+        "last": 124.23,
+        "previous": 125.92
+    },
+    {
+        "country_name": "Cambodia",
+        "related": "CPI Housing Utilities",
+        "last": 138.28,
+        "previous": 138.9
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Inflation Rate",
+        "last": 3.0,
+        "previous": 3.0
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Inflation Rate MoM",
+        "last": 0.0,
+        "previous": 0.1
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Consumer Price Index CPI",
+        "last": 104.64,
+        "previous": 104.64
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Core Inflation Rate",
+        "last": 1.9,
+        "previous": 1.8
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Core Consumer Prices",
+        "last": 102.75,
+        "previous": 102.61
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Producer Prices",
+        "last": 109.2,
+        "previous": 109.81
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Producer Prices Change",
+        "last": 3.8,
+        "previous": 4.9
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Export Prices",
+        "last": 102.4,
+        "previous": 103.3
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "Food Inflation",
+        "last": 4.4,
+        "previous": 4.2
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "CPI Transportation",
+        "last": 114.11,
+        "previous": 113.73
+    },
+    {
+        "country_name": "Switzerland",
+        "related": "CPI Housing Utilities",
+        "last": 107.12,
+        "previous": 106.96
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "related": "Inflation Rate",
+        "last": 2.9,
+        "previous": 3.0
+    },
+    {
+        "country_name": "Maldives",
+        "related": "Inflation Rate",
+        "last": 2.94,
+        "previous": 3.1
+    },
+    {
+        "country_name": "Maldives",
+        "related": "Consumer Price Index CPI",
+        "last": 101.95,
+        "previous": 102.02
+    },
+    {
+        "country_name": "Lebanon",
+        "related": "Inflation Rate",
+        "last": 142.37,
+        "previous": 158.46
+    },
+    {
+        "country_name": "Lebanon",
+        "related": "Consumer Price Index CPI",
+        "last": 1916.53,
+        "previous": 1847.45
+    },
+    {
+        "country_name": "Lebanon",
+        "related": "Inflation Rate MoM",
+        "last": 3.74,
+        "previous": 14.65
+    },
+    {
+        "country_name": "Lebanon",
+        "related": "Food Inflation",
+        "last": 171.24,
+        "previous": 203.21
+    },
+    {
+        "country_name": "Lebanon",
+        "related": "CPI Transportation",
+        "last": 4328.09,
+        "previous": 4102.73
+    },
+    {
+        "country_name": "Lebanon",
+        "related": "CPI Housing Utilities",
+        "last": 386.31,
+        "previous": 376.6
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "Inflation Rate",
+        "last": 2.9,
+        "previous": 3.0
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "Consumer Price Index CPI",
+        "last": 108.25,
+        "previous": 108.11
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "Food Inflation",
+        "last": 3.5,
+        "previous": 4.4
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "CPI Transportation",
+        "last": 118.7,
+        "previous": 118.83
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "CPI Housing Utilities",
+        "last": 93.02,
+        "previous": 91.76
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "Producer Prices Change",
+        "last": 4.0,
+        "previous": 4.6
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "Producer Prices",
+        "last": 148.9,
+        "previous": 149.1
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": 0.2
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "related": "GDP Deflator",
+        "last": 119.5,
+        "previous": 103.72
+    },
+    {
+        "country_name": "Venezuela",
+        "related": "Inflation Rate",
+        "last": 155.8,
+        "previous": 157.4
+    },
+    {
+        "country_name": "Venezuela",
+        "related": "Inflation Rate MoM",
+        "last": 6.2,
+        "previous": 28.7
+    },
+    {
+        "country_name": "Venezuela",
+        "related": "Consumer Price Index CPI",
+        "last": 5654207.05,
+        "previous": 5326371.62
+    },
+    {
+        "country_name": "Venezuela",
+        "related": "Core Inflation Rate",
+        "last": 60.3,
+        "previous": 60.9
+    },
+    {
+        "country_name": "Venezuela",
+        "related": "Core Consumer Prices",
+        "last": 594.3,
+        "previous": 582.3
+    },
+    {
+        "country_name": "Venezuela",
+        "related": "Food Inflation",
+        "last": 157.68,
+        "previous": 157.89
+    },
+    {
+        "country_name": "Venezuela",
+        "related": "CPI Transportation",
+        "last": 6389439306.59,
+        "previous": 5977117439.74
+    },
+    {
+        "country_name": "Liechtenstein",
+        "related": "Inflation Rate",
+        "last": 3.0,
+        "previous": 3.0
+    },
+    {
+        "country_name": "Syria",
+        "related": "Inflation Rate",
+        "last": 139.46,
+        "previous": 133.67
+    },
+    {
+        "country_name": "Syria",
+        "related": "Food Inflation",
+        "last": 60.32,
+        "previous": 60.29
+    },
+    {
+        "country_name": "Syria",
+        "related": "Consumer Price Index CPI",
+        "last": 2107.8,
+        "previous": 2036.47
+    },
+    {
+        "country_name": "Niger",
+        "related": "Inflation Rate",
+        "last": 3.49,
+        "previous": 3.02
+    },
+    {
+        "country_name": "Niger",
+        "related": "Food Inflation",
+        "last": 4.0,
+        "previous": 4.9
+    },
+    {
+        "country_name": "Niger",
+        "related": "Consumer Price Index CPI",
+        "last": 112.8,
+        "previous": 112.5
+    },
+    {
+        "country_name": "Niger",
+        "related": "Inflation Rate MoM",
+        "last": -1.5,
+        "previous": -1.0
+    },
+    {
+        "country_name": "Niger",
+        "related": "Import Prices",
+        "last": 103.3,
+        "previous": 109.4
+    },
+    {
+        "country_name": "Niger",
+        "related": "Export Prices",
+        "last": 62.4,
+        "previous": 61.9
+    },
+    {
+        "country_name": "Sudan",
+        "related": "Inflation Rate",
+        "last": 102.6,
+        "previous": 107.3
+    },
+    {
+        "country_name": "Sudan",
+        "related": "Inflation Rate MoM",
+        "last": 10.17,
+        "previous": 2.74
+    },
+    {
+        "country_name": "Sudan",
+        "related": "CPI Transportation",
+        "last": 2231.72,
+        "previous": 2226.87
+    },
+    {
+        "country_name": "Ghana",
+        "related": "Inflation Rate",
+        "last": 50.3,
+        "previous": 40.4
+    },
+    {
+        "country_name": "Ghana",
+        "related": "Consumer Price Index CPI",
+        "last": 144.4,
+        "previous": 140.06
+    },
+    {
+        "country_name": "Ghana",
+        "related": "CPI Transportation",
+        "last": 154.12,
+        "previous": 152.53
+    },
+    {
+        "country_name": "Ghana",
+        "related": "CPI Housing Utilities",
+        "last": 178.76,
+        "previous": 172.35
+    },
+    {
+        "country_name": "Ghana",
+        "related": "Inflation Rate MoM",
+        "last": 2.7,
+        "previous": 2.0
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Inflation Rate",
+        "last": 92.4,
+        "previous": 88.0
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Inflation Rate MoM",
+        "last": 4.9,
+        "previous": 6.3
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Consumer Price Index CPI",
+        "last": 1079.28,
+        "previous": 1028.71
+    },
+    {
+        "country_name": "Argentina",
+        "related": "GDP Deflator",
+        "last": 12294.4,
+        "previous": 10151.6
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Producer Prices",
+        "last": 1704.79,
+        "previous": 1594.51
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Export Prices",
+        "last": 213.8,
+        "previous": 225.4
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Import Prices",
+        "last": 158.0,
+        "previous": 158.5
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Food Inflation",
+        "last": 92.4,
+        "previous": 91.6
+    },
+    {
+        "country_name": "Argentina",
+        "related": "CPI Transportation",
+        "last": 1121.73,
+        "previous": 1057.33
+    },
+    {
+        "country_name": "Argentina",
+        "related": "CPI Housing Utilities",
+        "last": 825.51,
+        "previous": 759.77
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Core Inflation Rate",
+        "last": 89.1,
+        "previous": 86.4
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Core Consumer Prices",
+        "last": 1096.02,
+        "previous": 1046.27
+    },
+    {
+        "country_name": "Argentina",
+        "related": "Producer Prices Change",
+        "last": 82.7,
+        "previous": 80.6
+    },
+    {
+        "country_name": "Suriname",
+        "related": "Inflation Rate",
+        "last": 49.4,
+        "previous": 49.1
+    },
+    {
+        "country_name": "Suriname",
+        "related": "Inflation Rate MoM",
+        "last": 3.6,
+        "previous": 6.6
+    },
+    {
+        "country_name": "Suriname",
+        "related": "Food Inflation",
+        "last": 54.1,
+        "previous": 50.2
+    },
+    {
+        "country_name": "Suriname",
+        "related": "Consumer Price Index CPI",
+        "last": 546.7,
+        "previous": 527.5
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Inflation Rate",
+        "last": 84.39,
+        "previous": 85.51
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Inflation Rate MoM",
+        "last": 2.88,
+        "previous": 3.54
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Consumer Price Index CPI",
+        "last": 1115.3,
+        "previous": 1084.0
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Core Inflation Rate",
+        "last": 68.91,
+        "previous": 70.45
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Core Consumer Prices",
+        "last": 837.97,
+        "previous": 822.48
+    },
+    {
+        "country_name": "Turkey",
+        "related": "GDP Deflator",
+        "last": 223.0,
+        "previous": 201.3
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Producer Prices",
+        "last": 2026.08,
+        "previous": 2011.13
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Producer Prices Change",
+        "last": 136.02,
+        "previous": 157.69
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Export Prices",
+        "last": 107.09,
+        "previous": 108.12
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Import Prices",
+        "last": 143.92,
+        "previous": 151.78
+    },
+    {
+        "country_name": "Turkey",
+        "related": "Food Inflation",
+        "last": 102.6,
+        "previous": 99.05
+    },
+    {
+        "country_name": "Turkey",
+        "related": "CPI Transportation",
+        "last": 1274.65,
+        "previous": 1257.64
+    },
+    {
+        "country_name": "Turkey",
+        "related": "CPI Housing Utilities",
+        "last": 1201.03,
+        "previous": 1179.49
+    },
+    {
+        "country_name": "Iran",
+        "related": "Inflation Rate",
+        "last": 52.2,
+        "previous": 54.0
+    },
+    {
+        "country_name": "Zimbabwe",
+        "related": "Inflation Rate",
+        "last": 243.8,
+        "previous": 255.0
+    },
+    {
+        "country_name": "Zimbabwe",
+        "related": "Food Inflation",
+        "last": 376.31,
+        "previous": 321.3
+    },
+    {
+        "country_name": "Zimbabwe",
+        "related": "Inflation Rate MoM",
+        "last": 2.4,
+        "previous": 1.8
+    },
+    {
+        "country_name": "Zimbabwe",
+        "related": "CPI Transportation",
+        "last": 12489.9,
+        "previous": 12251.6
+    },
+    {
+        "country_name": "Haiti",
+        "related": "Inflation Rate",
+        "last": 47.2,
+        "previous": 38.7
+    },
+    {
+        "country_name": "Haiti",
+        "related": "Inflation Rate MoM",
+        "last": 11.0,
+        "previous": 6.5
+    },
+    {
+        "country_name": "Haiti",
+        "related": "Food Inflation",
+        "last": 53.1,
+        "previous": 44.3
+    },
+    {
+        "country_name": "Haiti",
+        "related": "Consumer Price Index CPI",
+        "last": 250.2,
+        "previous": 234.9
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "Inflation Rate",
+        "last": 61.0,
+        "previous": 66.0
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "Consumer Price Index CPI",
+        "last": 242.6,
+        "previous": 243.8
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "Core Inflation Rate",
+        "last": 49.4,
+        "previous": 49.7
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "Core Consumer Prices",
+        "last": 242.6,
+        "previous": 243.8
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "GDP Deflator",
+        "last": 170.11,
+        "previous": 151.9
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "Export Prices",
+        "last": 365.5,
+        "previous": 327.41
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "Import Prices",
+        "last": 326.78,
+        "previous": 358.64
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "Inflation Rate MoM",
+        "last": -0.5,
+        "previous": -0.4
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "CPI Transportation",
+        "last": 300.4,
+        "previous": 311.6
+    },
+    {
+        "country_name": "Sri Lanka",
+        "related": "CPI Housing Utilities",
+        "last": 155.4,
+        "previous": 156.2
+    },
+    {
+        "country_name": "Laos",
+        "related": "Inflation Rate",
+        "last": 38.46,
+        "previous": 36.75
+    },
+    {
+        "country_name": "Laos",
+        "related": "Inflation Rate MoM",
+        "last": 1.14,
+        "previous": 2.3
+    },
+    {
+        "country_name": "Laos",
+        "related": "Consumer Price Index CPI",
+        "last": 166.2,
+        "previous": 164.3
+    },
+    {
+        "country_name": "Ethiopia",
+        "related": "Inflation Rate",
+        "last": 35.1,
+        "previous": 31.7
+    },
+    {
+        "country_name": "Ethiopia",
+        "related": "Food Inflation",
+        "last": 30.7,
+        "previous": 31.0
+    },
+    {
+        "country_name": "Ethiopia",
+        "related": "Inflation Rate MoM",
+        "last": 1.9,
+        "previous": 0.8
+    },
+    {
+        "country_name": "Ethiopia",
+        "related": "CPI Transportation",
+        "last": 221.1,
+        "previous": 213.3
+    },
+    {
+        "country_name": "Ethiopia",
+        "related": "CPI Housing Utilities",
+        "last": 134.2,
+        "previous": 135.9
+    },
+    {
+        "country_name": "Cuba",
+        "related": "Inflation Rate",
+        "last": 39.73,
+        "previous": 37.24
+    },
+    {
+        "country_name": "Sierra Leone",
+        "related": "Inflation Rate",
+        "last": 32.98,
+        "previous": 29.1
+    },
+    {
+        "country_name": "Sierra Leone",
+        "related": "Inflation Rate MoM",
+        "last": 3.71,
+        "previous": 1.96
+    },
+    {
+        "country_name": "Sierra Leone",
+        "related": "Food Inflation",
+        "last": 40.14,
+        "previous": 35.2
+    },
+    {
+        "country_name": "Sierra Leone",
+        "related": "CPI Transportation",
+        "last": 140.95,
+        "previous": 129.22
+    },
+    {
+        "country_name": "Sierra Leone",
+        "related": "CPI Housing Utilities",
+        "last": 117.19,
+        "previous": 115.94
+    },
+    {
+        "country_name": "Sierra Leone",
+        "related": "Consumer Price Index CPI",
+        "last": 129.84,
+        "previous": 125.2
+    },
+    {
+        "country_name": "Burundi",
+        "related": "Inflation Rate",
+        "last": 26.8,
+        "previous": 22.09
+    },
+    {
+        "country_name": "Burundi",
+        "related": "Food Inflation",
+        "last": 39.8,
+        "previous": 29.5
+    },
+    {
+        "country_name": "Burundi",
+        "related": "Inflation Rate MoM",
+        "last": 5.4,
+        "previous": 1.6
+    },
+    {
+        "country_name": "Burundi",
+        "related": "CPI Transportation",
+        "last": 150.4,
+        "previous": 150.2
+    },
+    {
+        "country_name": "Burundi",
+        "related": "CPI Housing Utilities",
+        "last": 152.2,
+        "previous": 152.0
+    },
+    {
+        "country_name": "Moldova",
+        "related": "Inflation Rate",
+        "last": 31.41,
+        "previous": 34.62
+    },
+    {
+        "country_name": "Moldova",
+        "related": "Consumer Price Index CPI",
+        "last": 3849.17,
+        "previous": 3810.17
+    },
+    {
+        "country_name": "Moldova",
+        "related": "Core Inflation Rate",
+        "last": 19.5,
+        "previous": 19.8
+    },
+    {
+        "country_name": "Moldova",
+        "related": "Producer Prices",
+        "last": 202.0,
+        "previous": 197.6
+    },
+    {
+        "country_name": "Moldova",
+        "related": "Food Inflation",
+        "last": 33.09,
+        "previous": 36.23
+    },
+    {
+        "country_name": "Moldova",
+        "related": "Producer Prices Change",
+        "last": 28.1,
+        "previous": 34.9
+    },
+    {
+        "country_name": "Moldova",
+        "related": "Inflation Rate MoM",
+        "last": 1.02,
+        "previous": 2.62
+    },
+    {
+        "country_name": "Rwanda",
+        "related": "Inflation Rate",
+        "last": 33.8,
+        "previous": 31.0
+    },
+    {
+        "country_name": "Rwanda",
+        "related": "Core Inflation Rate",
+        "last": 10.1,
+        "previous": 9.2
+    },
+    {
+        "country_name": "Rwanda",
+        "related": "Food Inflation",
+        "last": 64.5,
+        "previous": 56.9
+    },
+    {
+        "country_name": "Rwanda",
+        "related": "Inflation Rate MoM",
+        "last": 1.3,
+        "previous": 5.6
+    },
+    {
+        "country_name": "Rwanda",
+        "related": "CPI Transportation",
+        "last": 137.71,
+        "previous": 137.33
+    },
+    {
+        "country_name": "Rwanda",
+        "related": "CPI Housing Utilities",
+        "last": 150.25,
+        "previous": 147.58
+    },
+    {
+        "country_name": "Rwanda",
+        "related": "GDP Deflator",
+        "last": 132.0,
+        "previous": 126.31
+    },
+    {
+        "country_name": "Malawi",
+        "related": "Inflation Rate",
+        "last": 25.8,
+        "previous": 26.7
+    },
+    {
+        "country_name": "Malawi",
+        "related": "Consumer Price Index CPI",
+        "last": 119.2,
+        "previous": 114.6
+    },
+    {
+        "country_name": "Malawi",
+        "related": "Food Inflation",
+        "last": 34.5,
+        "previous": 33.7
+    },
+    {
+        "country_name": "Malawi",
+        "related": "CPI Housing Utilities",
+        "last": 116.8,
+        "previous": 114.9
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Inflation Rate",
+        "last": 26.5,
+        "previous": 26.6
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Consumer Price Index CPI",
+        "last": 413.0,
+        "previous": 410.1
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Core Inflation Rate",
+        "last": 22.1,
+        "previous": 21.5
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Core Consumer Prices",
+        "last": 122.1,
+        "previous": 121.5
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Inflation Rate MoM",
+        "last": 0.7,
+        "previous": 2.5
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "CPI Transportation",
+        "last": 101.7,
+        "previous": 100.7
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Food Inflation",
+        "last": 35.1,
+        "previous": 35.7
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Import Prices",
+        "last": 124.7,
+        "previous": 134.9
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Export Prices",
+        "last": 98.2,
+        "previous": 93.4
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Producer Prices Change",
+        "last": 53.31,
+        "previous": 68.78
+    },
+    {
+        "country_name": "Ukraine",
+        "related": "Producer Prices",
+        "last": 677.8,
+        "previous": 692.0
+    },
+    {
+        "country_name": "Pakistan",
+        "related": "Inflation Rate",
+        "last": 23.8,
+        "previous": 26.6
+    },
+    {
+        "country_name": "Pakistan",
+        "related": "Consumer Price Index CPI",
+        "last": 195.89,
+        "previous": 194.42
+    },
+    {
+        "country_name": "Pakistan",
+        "related": "Producer Prices",
+        "last": 242.09,
+        "previous": 242.15
+    },
+    {
+        "country_name": "Pakistan",
+        "related": "Producer Prices Change",
+        "last": 27.7,
+        "previous": 32.6
+    },
+    {
+        "country_name": "Pakistan",
+        "related": "Inflation Rate MoM",
+        "last": 0.8,
+        "previous": 4.71
+    },
+    {
+        "country_name": "Pakistan",
+        "related": "Food Inflation",
+        "last": 31.2,
+        "previous": 36.24
+    },
+    {
+        "country_name": "Pakistan",
+        "related": "CPI Transportation",
+        "last": 245.27,
+        "previous": 245.44
+    },
+    {
+        "country_name": "Pakistan",
+        "related": "CPI Housing Utilities",
+        "last": 167.48,
+        "previous": 166.56
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Inflation Rate",
+        "last": 22.5,
+        "previous": 21.1
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Inflation Rate MoM",
+        "last": 1.8,
+        "previous": 2.0
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Consumer Price Index CPI",
+        "last": 1794.2,
+        "previous": 1762.2
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Core Inflation Rate",
+        "last": 24.0,
+        "previous": 22.3
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Core Consumer Prices",
+        "last": 548.8,
+        "previous": 536.9
+    },
+    {
+        "country_name": "Hungary",
+        "related": "GDP Deflator",
+        "last": 156.14,
+        "previous": 146.82
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Producer Prices",
+        "last": 195.6,
+        "previous": 188.7
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Producer Prices Change",
+        "last": 41.7,
+        "previous": 42.7
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Export Prices",
+        "last": 127.1,
+        "previous": 130.1
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Import Prices",
+        "last": 135.0,
+        "previous": 141.8
+    },
+    {
+        "country_name": "Hungary",
+        "related": "Food Inflation",
+        "last": 47.1,
+        "previous": 43.0
+    },
+    {
+        "country_name": "Hungary",
+        "related": "CPI Transportation",
+        "last": 107.3,
+        "previous": 108.2
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "related": "Inflation Rate",
+        "last": 23.5,
+        "previous": 21.9
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "related": "Inflation Rate MoM",
+        "last": 2.5,
+        "previous": 3.3
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "related": "Consumer Price Index CPI",
+        "last": 194.17,
+        "previous": 189.48
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "Inflation Rate",
+        "last": 21.47,
+        "previous": 21.09
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "Consumer Price Index CPI",
+        "last": 490.9,
+        "previous": 484.2
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "Core Inflation Rate",
+        "last": 18.2,
+        "previous": 17.8
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "Core Consumer Prices",
+        "last": 416.17,
+        "previous": 409.32
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "Food Inflation",
+        "last": 24.13,
+        "previous": 23.72
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "CPI Transportation",
+        "last": 428.6,
+        "previous": 421.5
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "CPI Housing Utilities",
+        "last": 413.1,
+        "previous": 407.4
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "Inflation Rate MoM",
+        "last": 1.39,
+        "previous": 1.24
+    },
+    {
+        "country_name": "Nigeria",
+        "related": "GDP Deflator",
+        "last": 275.61,
+        "previous": 260.35
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Inflation Rate",
+        "last": 22.9,
+        "previous": 23.6
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Inflation Rate MoM",
+        "last": 0.4,
+        "previous": 1.2
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Consumer Price Index CPI",
+        "last": 149.38,
+        "previous": 148.78
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Harmonised Consumer Prices",
+        "last": 146.63,
+        "previous": 146.15
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "GDP Deflator",
+        "last": 148.75,
+        "previous": 143.79
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Producer Prices",
+        "last": 139.8,
+        "previous": 142.1
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Export Prices",
+        "last": 114.8,
+        "previous": 115.1
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Import Prices",
+        "last": 133.5,
+        "previous": 129.8
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Food Inflation",
+        "last": 35.6,
+        "previous": 33.7
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "Producer Prices Change",
+        "last": 23.9,
+        "previous": 28.1
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "CPI Transportation",
+        "last": 143.7,
+        "previous": 144.02
+    },
+    {
+        "country_name": "Lithuania",
+        "related": "CPI Housing Utilities",
+        "last": 186.03,
+        "previous": 190.68
+    },
+    {
+        "country_name": "Myanmar",
+        "related": "Inflation Rate",
+        "last": 19.55,
+        "previous": 19.42
+    },
+    {
+        "country_name": "Myanmar",
+        "related": "Inflation Rate MoM",
+        "last": 0.98,
+        "previous": 1.94
+    },
+    {
+        "country_name": "Myanmar",
+        "related": "Food Inflation",
+        "last": 18.43,
+        "previous": 17.05
+    },
+    {
+        "country_name": "Myanmar",
+        "related": "CPI Transportation",
+        "last": 184.53,
+        "previous": 195.84
+    },
+    {
+        "country_name": "Myanmar",
+        "related": "CPI Housing Utilities",
+        "last": 235.36,
+        "previous": 236.55
+    },
+    {
+        "country_name": "Myanmar",
+        "related": "Consumer Price Index CPI",
+        "last": 205.18,
+        "previous": 203.18
+    },
+    {
+        "country_name": "Estonia",
+        "related": "Inflation Rate",
+        "last": 21.3,
+        "previous": 22.5
+    },
+    {
+        "country_name": "Estonia",
+        "related": "Inflation Rate MoM",
+        "last": 0.9,
+        "previous": -1.1
+    },
+    {
+        "country_name": "Estonia",
+        "related": "Consumer Price Index CPI",
+        "last": 280.61,
+        "previous": 278.21
+    },
+    {
+        "country_name": "Estonia",
+        "related": "GDP Deflator",
+        "last": 142.66,
+        "previous": 138.89
+    },
+    {
+        "country_name": "Estonia",
+        "related": "Producer Prices",
+        "last": 162.75,
+        "previous": 162.36
+    },
+    {
+        "country_name": "Estonia",
+        "related": "Producer Prices Change",
+        "last": 22.4,
+        "previous": 23.5
+    },
+    {
+        "country_name": "Estonia",
+        "related": "Export Prices",
+        "last": 461.49,
+        "previous": 461.39
+    },
+    {
+        "country_name": "Estonia",
+        "related": "Import Prices",
+        "last": 202.09,
+        "previous": 203.05
+    },
+    {
+        "country_name": "Estonia",
+        "related": "Food Inflation",
+        "last": 28.2,
+        "previous": 28.0
+    },
+    {
+        "country_name": "Estonia",
+        "related": "CPI Transportation",
+        "last": 252.21,
+        "previous": 252.43
+    },
+    {
+        "country_name": "Estonia",
+        "related": "CPI Housing Utilities",
+        "last": 592.23,
+        "previous": 585.75
+    },
+    {
+        "country_name": "Latvia",
+        "related": "Inflation Rate",
+        "last": 21.8,
+        "previous": 21.8
+    },
+    {
+        "country_name": "Latvia",
+        "related": "Inflation Rate MoM",
+        "last": 1.1,
+        "previous": 0.8
+    },
+    {
+        "country_name": "Latvia",
+        "related": "Consumer Price Index CPI",
+        "last": 141.8,
+        "previous": 140.2
+    },
+    {
+        "country_name": "Latvia",
+        "related": "GDP Deflator",
+        "last": 1.4,
+        "previous": 1.32
+    },
+    {
+        "country_name": "Latvia",
+        "related": "Producer Prices",
+        "last": 167.8,
+        "previous": 169.4
+    },
+    {
+        "country_name": "Latvia",
+        "related": "Producer Prices Change",
+        "last": 29.6,
+        "previous": 32.3
+    },
+    {
+        "country_name": "Latvia",
+        "related": "Export Prices",
+        "last": 146.0,
+        "previous": 146.6
+    },
+    {
+        "country_name": "Latvia",
+        "related": "Import Prices",
+        "last": 130.0,
+        "previous": 132.1
+    },
+    {
+        "country_name": "Latvia",
+        "related": "CPI Transportation",
+        "last": 139.7,
+        "previous": 139.3
+    },
+    {
+        "country_name": "Latvia",
+        "related": "CPI Housing Utilities",
+        "last": 171.8,
+        "previous": 170.0
+    },
+    {
+        "country_name": "Latvia",
+        "related": "Food Inflation",
+        "last": 29.5,
+        "previous": 29.5
+    },
+    {
+        "country_name": "Kazakhstan",
+        "related": "Inflation Rate",
+        "last": 19.6,
+        "previous": 18.8
+    },
+    {
+        "country_name": "Kazakhstan",
+        "related": "Inflation Rate MoM",
+        "last": 1.4,
+        "previous": 1.6
+    },
+    {
+        "country_name": "Kazakhstan",
+        "related": "CPI Transportation",
+        "last": 106.7,
+        "previous": 107.0
+    },
+    {
+        "country_name": "Kazakhstan",
+        "related": "Food Inflation",
+        "last": 24.4,
+        "previous": 23.3
+    },
+    {
+        "country_name": "Kazakhstan",
+        "related": "Import Prices",
+        "last": 99.1,
+        "previous": 100.1
+    },
+    {
+        "country_name": "Kazakhstan",
+        "related": "Export Prices",
+        "last": 95.9,
+        "previous": 96.0
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "Inflation Rate",
+        "last": 19.5,
+        "previous": 19.8
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "Consumer Price Index CPI",
+        "last": 144.65,
+        "previous": 143.88
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "GDP Deflator",
+        "last": 106.1,
+        "previous": 100.9
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "Food Inflation",
+        "last": 29.8,
+        "previous": 31.2
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "Core Inflation Rate",
+        "last": 17.4,
+        "previous": 17.9
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "Core Consumer Prices",
+        "last": 140.92,
+        "previous": 140.26
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "Inflation Rate MoM",
+        "last": 0.5,
+        "previous": 1.4
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "Producer Prices Change",
+        "last": 14.8,
+        "previous": 15.8
+    },
+    {
+        "country_name": "Macedonia",
+        "related": "Producer Prices",
+        "last": 140.9,
+        "previous": 139.6
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "Inflation Rate",
+        "last": 17.5,
+        "previous": 16.8
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "Inflation Rate MoM",
+        "last": 0.9,
+        "previous": 1.4
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "Consumer Price Index CPI",
+        "last": 128.4,
+        "previous": 127.3
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "Producer Prices",
+        "last": 194.5,
+        "previous": 192.4
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "CPI Transportation",
+        "last": 127.0,
+        "previous": 123.5
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "CPI Housing Utilities",
+        "last": 120.0,
+        "previous": 119.0
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "Harmonised Consumer Prices",
+        "last": 127.1,
+        "previous": 126.4
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "Food Inflation",
+        "last": 30.2,
+        "previous": 29.5
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "Export Prices",
+        "last": 200.1,
+        "previous": 205.9
+    },
+    {
+        "country_name": "Montenegro",
+        "related": "Producer Prices Change",
+        "last": 15.7,
+        "previous": 14.0
+    },
+    {
+        "country_name": "Egypt",
+        "related": "Inflation Rate",
+        "last": 18.7,
+        "previous": 16.2
+    },
+    {
+        "country_name": "Egypt",
+        "related": "Inflation Rate MoM",
+        "last": 2.6,
+        "previous": 2.5
+    },
+    {
+        "country_name": "Egypt",
+        "related": "Consumer Price Index CPI",
+        "last": 139.2,
+        "previous": 137.3
+    },
+    {
+        "country_name": "Egypt",
+        "related": "Core Inflation Rate",
+        "last": 21.5,
+        "previous": 19.0
+    },
+    {
+        "country_name": "Egypt",
+        "related": "Core Consumer Prices",
+        "last": 135.7,
+        "previous": 132.2
+    },
+    {
+        "country_name": "Egypt",
+        "related": "Food Inflation",
+        "last": 30.9,
+        "previous": 23.9
+    },
+    {
+        "country_name": "Egypt",
+        "related": "CPI Transportation",
+        "last": 148.4,
+        "previous": 147.5
+    },
+    {
+        "country_name": "Egypt",
+        "related": "CPI Housing Utilities",
+        "last": 120.6,
+        "previous": 120.1
+    },
+    {
+        "country_name": "Poland",
+        "related": "Inflation Rate",
+        "last": 17.5,
+        "previous": 17.9
+    },
+    {
+        "country_name": "Poland",
+        "related": "Inflation Rate MoM",
+        "last": 0.7,
+        "previous": 1.8
+    },
+    {
+        "country_name": "Poland",
+        "related": "Consumer Price Index CPI",
+        "last": 235.0,
+        "previous": 233.4
+    },
+    {
+        "country_name": "Poland",
+        "related": "Core Consumer Prices",
+        "last": 135.87,
+        "previous": 134.93
+    },
+    {
+        "country_name": "Poland",
+        "related": "Producer Prices",
+        "last": 145.4,
+        "previous": 146.1
+    },
+    {
+        "country_name": "Poland",
+        "related": "Producer Prices Change",
+        "last": 20.8,
+        "previous": 23.1
+    },
+    {
+        "country_name": "Poland",
+        "related": "Export Prices",
+        "last": 120.2,
+        "previous": 120.0
+    },
+    {
+        "country_name": "Poland",
+        "related": "Import Prices",
+        "last": 125.1,
+        "previous": 122.6
+    },
+    {
+        "country_name": "Poland",
+        "related": "Food Inflation",
+        "last": 22.3,
+        "previous": 22.0
+    },
+    {
+        "country_name": "Romania",
+        "related": "Inflation Rate",
+        "last": 16.76,
+        "previous": 15.32
+    },
+    {
+        "country_name": "Romania",
+        "related": "Consumer Price Index CPI",
+        "last": 101.25,
+        "previous": 101.28
+    },
+    {
+        "country_name": "Romania",
+        "related": "Producer Prices",
+        "last": 197.5,
+        "previous": 193.2
+    },
+    {
+        "country_name": "Romania",
+        "related": "Producer Prices Change",
+        "last": 41.08,
+        "previous": 46.68
+    },
+    {
+        "country_name": "Romania",
+        "related": "CPI Transportation",
+        "last": 100.41,
+        "previous": 100.11
+    },
+    {
+        "country_name": "Romania",
+        "related": "Inflation Rate MoM",
+        "last": 1.25,
+        "previous": 1.28
+    },
+    {
+        "country_name": "Romania",
+        "related": "Food Inflation",
+        "last": 21.55,
+        "previous": 20.58
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "Inflation Rate",
+        "last": 16.9,
+        "previous": 17.6
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "Harmonised Consumer Prices",
+        "last": 128.68,
+        "previous": 127.87
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "Consumer Price Index CPI",
+        "last": 8952.54,
+        "previous": 8885.4
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "Producer Prices",
+        "last": 212.69,
+        "previous": 233.15
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "Export Prices",
+        "last": 129.8,
+        "previous": 131.1
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "Import Prices",
+        "last": 121.7,
+        "previous": 122.0
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "Food Inflation",
+        "last": 26.6,
+        "previous": 26.3
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "CPI Transportation",
+        "last": 9653.04,
+        "previous": 9705.04
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "CPI Housing Utilities",
+        "last": 21309.52,
+        "previous": 21634.04
+    },
+    {
+        "country_name": "Bulgaria",
+        "related": "Producer Prices Change",
+        "last": 41.7,
+        "previous": 56.8
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Inflation Rate",
+        "last": 16.2,
+        "previous": 15.1
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Inflation Rate MoM",
+        "last": 1.2,
+        "previous": -1.4
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Consumer Price Index CPI",
+        "last": 138.1,
+        "previous": 136.5
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Harmonised Consumer Prices",
+        "last": 137.1,
+        "previous": 135.3
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "GDP Deflator",
+        "last": 130.2,
+        "previous": 125.3
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Producer Prices",
+        "last": 141.7,
+        "previous": 143.2
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Producer Prices Change",
+        "last": 21.3,
+        "previous": 24.1
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Export Prices",
+        "last": 120.0,
+        "previous": 121.3
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Import Prices",
+        "last": 121.7,
+        "previous": 124.4
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "Food Inflation",
+        "last": 26.0,
+        "previous": 25.1
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "CPI Transportation",
+        "last": 136.7,
+        "previous": 138.1
+    },
+    {
+        "country_name": "Czech Republic",
+        "related": "CPI Housing Utilities",
+        "last": 139.3,
+        "previous": 135.5
+    },
+    {
+        "country_name": "Comoros",
+        "related": "Inflation Rate",
+        "last": 15.9,
+        "previous": 18.2
+    },
+    {
+        "country_name": "Comoros",
+        "related": "Food Inflation",
+        "last": 0.0,
+        "previous": 0.19
+    },
+    {
+        "country_name": "Angola",
+        "related": "Inflation Rate",
+        "last": 15.24,
+        "previous": 16.68
+    },
+    {
+        "country_name": "Angola",
+        "related": "Inflation Rate MoM",
+        "last": 0.82,
+        "previous": 0.78
+    },
+    {
+        "country_name": "Angola",
+        "related": "Consumer Price Index CPI",
+        "last": 143.38,
+        "previous": 142.21
+    },
+    {
+        "country_name": "Angola",
+        "related": "Food Inflation",
+        "last": 12.9,
+        "previous": 14.7
+    },
+    {
+        "country_name": "Angola",
+        "related": "Producer Prices Change",
+        "last": 20.05,
+        "previous": 21.35
+    },
+    {
+        "country_name": "Angola",
+        "related": "Producer Prices",
+        "last": 454.58,
+        "previous": 449.35
+    },
+    {
+        "country_name": "Angola",
+        "related": "CPI Transportation",
+        "last": 326.5,
+        "previous": 325.6
+    },
+    {
+        "country_name": "Angola",
+        "related": "CPI Housing Utilities",
+        "last": 408.3,
+        "previous": 404.5
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Inflation Rate",
+        "last": 15.4,
+        "previous": 14.9
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Inflation Rate MoM",
+        "last": 1.0,
+        "previous": 1.2
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Consumer Price Index CPI",
+        "last": 215.7,
+        "previous": 213.7
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Harmonised Consumer Prices",
+        "last": 131.12,
+        "previous": 129.81
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Core Inflation Rate",
+        "last": 15.9,
+        "previous": 15.4
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Core Consumer Prices",
+        "last": 155.2,
+        "previous": 153.1
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "GDP Deflator",
+        "last": 119.92,
+        "previous": 118.26
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Producer Prices",
+        "last": 151.1,
+        "previous": 161.3
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Export Prices",
+        "last": 98.5,
+        "previous": 99.5
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Import Prices",
+        "last": 103.5,
+        "previous": 103.0
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "CPI Transportation",
+        "last": 161.2,
+        "previous": 160.2
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Producer Prices Change",
+        "last": 38.1,
+        "previous": 58.4
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "Food Inflation",
+        "last": 27.8,
+        "previous": 26.1
+    },
+    {
+        "country_name": "Slovakia",
+        "related": "CPI Housing Utilities",
+        "last": 310.1,
+        "previous": 308.5
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "Inflation Rate",
+        "last": 15.0,
+        "previous": 15.4
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "Core Inflation Rate",
+        "last": 18.0,
+        "previous": 18.4
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "Producer Prices Change",
+        "last": 0.54,
+        "previous": 1.9
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "Producer Prices",
+        "last": 222.8,
+        "previous": 222.6
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "Inflation Rate MoM",
+        "last": 1.3,
+        "previous": 1.3
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "Consumer Price Index CPI",
+        "last": 368.8,
+        "previous": 364.1
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "Food Inflation",
+        "last": 17.2,
+        "previous": 17.2
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "CPI Transportation",
+        "last": 301.1,
+        "previous": 299.3
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "related": "CPI Housing Utilities",
+        "last": 350.8,
+        "previous": 348.1
+    },
+    {
+        "country_name": "Mongolia",
+        "related": "Inflation Rate",
+        "last": 14.5,
+        "previous": 14.5
+    },
+    {
+        "country_name": "Mongolia",
+        "related": "Inflation Rate MoM",
+        "last": 1.1,
+        "previous": 1.3
+    },
+    {
+        "country_name": "Mongolia",
+        "related": "Core Inflation Rate",
+        "last": 15.8,
+        "previous": 15.4
+    },
+    {
+        "country_name": "Senegal",
+        "related": "Inflation Rate",
+        "last": 14.1,
+        "previous": 13.0
+    },
+    {
+        "country_name": "Senegal",
+        "related": "Food Inflation",
+        "last": 21.4,
+        "previous": 19.5
+    },
+    {
+        "country_name": "Senegal",
+        "related": "Inflation Rate MoM",
+        "last": 0.2,
+        "previous": 1.4
+    },
+    {
+        "country_name": "Senegal",
+        "related": "CPI Transportation",
+        "last": 108.8,
+        "previous": 108.5
+    },
+    {
+        "country_name": "Senegal",
+        "related": "CPI Housing Utilities",
+        "last": 108.6,
+        "previous": 107.8
+    },
+    {
+        "country_name": "Senegal",
+        "related": "Consumer Price Index CPI",
+        "last": 128.2,
+        "previous": 127.9
+    },
+    {
+        "country_name": "Senegal",
+        "related": "Export Prices",
+        "last": 145.8,
+        "previous": 141.8
+    },
+    {
+        "country_name": "Senegal",
+        "related": "Import Prices",
+        "last": 145.7,
+        "previous": 141.5
+    },
+    {
+        "country_name": "Senegal",
+        "related": "Producer Prices Change",
+        "last": 16.4,
+        "previous": 24.3
+    },
+    {
+        "country_name": "Senegal",
+        "related": "Producer Prices",
+        "last": 138.7,
+        "previous": 140.8
+    },
+    {
+        "country_name": "Turkmenistan",
+        "related": "Inflation Rate",
+        "last": 17.5,
+        "previous": 14.95
+    },
+    {
+        "country_name": "Azerbaijan",
+        "related": "Inflation Rate",
+        "last": 13.8,
+        "previous": 13.7
+    },
+    {
+        "country_name": "Azerbaijan",
+        "related": "Food Inflation",
+        "last": 19.5,
+        "previous": 19.4
+    },
+    {
+        "country_name": "Azerbaijan",
+        "related": "Consumer Price Index CPI",
+        "last": 206.6,
+        "previous": 204.5
+    },
+    {
+        "country_name": "Azerbaijan",
+        "related": "Producer Prices Change",
+        "last": 93.6,
+        "previous": 104.1
+    },
+    {
+        "country_name": "Azerbaijan",
+        "related": "Producer Prices",
+        "last": 169.6,
+        "previous": 75.2
+    },
+    {
+        "country_name": "Azerbaijan",
+        "related": "Import Prices",
+        "last": 127.9,
+        "previous": 123.4
+    },
+    {
+        "country_name": "Azerbaijan",
+        "related": "Export Prices",
+        "last": 127.1,
+        "previous": 83.7
+    },
+    {
+        "country_name": "Serbia",
+        "related": "Inflation Rate",
+        "last": 15.1,
+        "previous": 15.0
+    },
+    {
+        "country_name": "Serbia",
+        "related": "Consumer Price Index CPI",
+        "last": 248.6,
+        "previous": 246.2
+    },
+    {
+        "country_name": "Serbia",
+        "related": "Producer Prices Change",
+        "last": 15.3,
+        "previous": 15.8
+    },
+    {
+        "country_name": "Serbia",
+        "related": "Inflation Rate MoM",
+        "last": 1.0,
+        "previous": 1.9
+    },
+    {
+        "country_name": "Serbia",
+        "related": "Food Inflation",
+        "last": 22.5,
+        "previous": 22.9
+    },
+    {
+        "country_name": "Serbia",
+        "related": "CPI Transportation",
+        "last": 215.1,
+        "previous": 213.1
+    },
+    {
+        "country_name": "Serbia",
+        "related": "CPI Housing Utilities",
+        "last": 276.6,
+        "previous": 273.8
+    },
+    {
+        "country_name": "Belarus",
+        "related": "Inflation Rate",
+        "last": 13.3,
+        "previous": 15.2
+    },
+    {
+        "country_name": "Belarus",
+        "related": "Consumer Price Index CPI",
+        "last": 9296984563.53,
+        "previous": 9400388840.78
+    },
+    {
+        "country_name": "Belarus",
+        "related": "Core Consumer Prices",
+        "last": 98.2,
+        "previous": 98.6
+    },
+    {
+        "country_name": "Belarus",
+        "related": "Producer Prices",
+        "last": 21988.0,
+        "previous": 21998.5
+    },
+    {
+        "country_name": "Belarus",
+        "related": "Producer Prices Change",
+        "last": 14.0,
+        "previous": 14.8
+    },
+    {
+        "country_name": "Belarus",
+        "related": "Inflation Rate MoM",
+        "last": -1.1,
+        "previous": -1.0
+    },
+    {
+        "country_name": "Belarus",
+        "related": "Food Inflation",
+        "last": 14.4,
+        "previous": 15.9
+    },
+    {
+        "country_name": "Chile",
+        "related": "Inflation Rate",
+        "last": 13.3,
+        "previous": 12.8
+    },
+    {
+        "country_name": "Chile",
+        "related": "Consumer Price Index CPI",
+        "last": 128.65,
+        "previous": 127.41
+    },
+    {
+        "country_name": "Chile",
+        "related": "Core Inflation Rate",
+        "last": 9.5,
+        "previous": 9.3
+    },
+    {
+        "country_name": "Chile",
+        "related": "Core Consumer Prices",
+        "last": 122.08,
+        "previous": 121.23
+    },
+    {
+        "country_name": "Chile",
+        "related": "Food Inflation",
+        "last": 24.0,
+        "previous": 22.0
+    },
+    {
+        "country_name": "Chile",
+        "related": "Producer Prices Change",
+        "last": 13.5,
+        "previous": 13.7
+    },
+    {
+        "country_name": "Chile",
+        "related": "Producer Prices",
+        "last": 193.34,
+        "previous": 193.42
+    },
+    {
+        "country_name": "Chile",
+        "related": "Inflation Rate MoM",
+        "last": 1.0,
+        "previous": 0.5
+    },
+    {
+        "country_name": "Chile",
+        "related": "CPI Transportation",
+        "last": 145.09,
+        "previous": 143.16
+    },
+    {
+        "country_name": "Guinea",
+        "related": "Inflation Rate",
+        "last": 12.4,
+        "previous": 12.5
+    },
+    {
+        "country_name": "Guinea",
+        "related": "Consumer Price Index CPI",
+        "last": 142.2,
+        "previous": 141.6
+    },
+    {
+        "country_name": "Guinea",
+        "related": "Inflation Rate MoM",
+        "last": 1.1,
+        "previous": 1.7
+    },
+    {
+        "country_name": "Guinea",
+        "related": "Food Inflation",
+        "last": 12.7,
+        "previous": 12.8
+    },
+    {
+        "country_name": "Guinea",
+        "related": "CPI Transportation",
+        "last": 133.4,
+        "previous": 133.4
+    },
+    {
+        "country_name": "Guinea",
+        "related": "CPI Housing Utilities",
+        "last": 116.9,
+        "previous": 116.6
+    },
+    {
+        "country_name": "Guinea",
+        "related": "Core Inflation Rate",
+        "last": 10.7,
+        "previous": 10.8
+    },
+    {
+        "country_name": "Guinea",
+        "related": "Core Consumer Prices",
+        "last": 884.6,
+        "previous": 881.0
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "related": "Inflation Rate",
+        "last": 16.3,
+        "previous": 17.4
+    },
+    {
+        "country_name": "Uzbekistan",
+        "related": "Inflation Rate",
+        "last": 12.3,
+        "previous": 12.2
+    },
+    {
+        "country_name": "Uzbekistan",
+        "related": "Inflation Rate MoM",
+        "last": 1.3,
+        "previous": 1.2
+    },
+    {
+        "country_name": "Uzbekistan",
+        "related": "Food Inflation",
+        "last": 14.3,
+        "previous": 17.2
+    },
+    {
+        "country_name": "Colombia",
+        "related": "Inflation Rate",
+        "last": 12.53,
+        "previous": 12.22
+    },
+    {
+        "country_name": "Colombia",
+        "related": "Inflation Rate MoM",
+        "last": 0.77,
+        "previous": 0.72
+    },
+    {
+        "country_name": "Colombia",
+        "related": "Consumer Price Index CPI",
+        "last": 124.46,
+        "previous": 123.51
+    },
+    {
+        "country_name": "Colombia",
+        "related": "Producer Prices",
+        "last": 187.63,
+        "previous": 183.47
+    },
+    {
+        "country_name": "Colombia",
+        "related": "Food Inflation",
+        "last": 27.1,
+        "previous": 27.0
+    },
+    {
+        "country_name": "Colombia",
+        "related": "Producer Prices Change",
+        "last": 24.76,
+        "previous": 25.52
+    },
+    {
+        "country_name": "Colombia",
+        "related": "Import Prices",
+        "last": 176.8,
+        "previous": 171.29
+    },
+    {
+        "country_name": "Colombia",
+        "related": "Export Prices",
+        "last": 213.25,
+        "previous": 204.34
+    },
+    {
+        "country_name": "Colombia",
+        "related": "CPI Transportation",
+        "last": 122.12,
+        "previous": 120.49
+    },
+    {
+        "country_name": "Colombia",
+        "related": "CPI Housing Utilities",
+        "last": 116.33,
+        "previous": 116.2
+    },
+    {
+        "country_name": "Burkina Faso",
+        "related": "Inflation Rate",
+        "last": 12.2,
+        "previous": 15.0
+    },
+    {
+        "country_name": "Burkina Faso",
+        "related": "Food Inflation",
+        "last": 19.6,
+        "previous": 23.7
+    },
+    {
+        "country_name": "Burkina Faso",
+        "related": "Inflation Rate MoM",
+        "last": -1.4,
+        "previous": -1.1
+    },
+    {
+        "country_name": "Burkina Faso",
+        "related": "CPI Transportation",
+        "last": 106.4,
+        "previous": 106.3
+    },
+    {
+        "country_name": "Burkina Faso",
+        "related": "CPI Housing Utilities",
+        "last": 105.1,
+        "previous": 105.4
+    },
+    {
+        "country_name": "Burkina Faso",
+        "related": "Consumer Price Index CPI",
+        "last": 125.8,
+        "previous": 127.5
+    },
+    {
+        "country_name": "Gambia",
+        "related": "Inflation Rate",
+        "last": 13.24,
+        "previous": 13.27
+    },
+    {
+        "country_name": "Gambia",
+        "related": "Food Inflation",
+        "last": 17.1,
+        "previous": 15.68
+    },
+    {
+        "country_name": "Gambia",
+        "related": "Consumer Price Index CPI",
+        "last": 126.77,
+        "previous": 125.37
+    },
+    {
+        "country_name": "Gambia",
+        "related": "Inflation Rate MoM",
+        "last": 1.12,
+        "previous": 0.67
+    },
+    {
+        "country_name": "Gambia",
+        "related": "CPI Transportation",
+        "last": 130.92,
+        "previous": 131.39
+    },
+    {
+        "country_name": "Gambia",
+        "related": "CPI Housing Utilities",
+        "last": 112.38,
+        "previous": 112.19
+    },
+    {
+        "country_name": "Gambia",
+        "related": "GDP Deflator",
+        "last": 161.99,
+        "previous": 152.92
+    },
+    {
+        "country_name": "Congo",
+        "related": "Inflation Rate",
+        "last": 12.19,
+        "previous": 11.38
+    },
+    {
+        "country_name": "Congo",
+        "related": "Food Inflation",
+        "last": 6.1,
+        "previous": 5.62
+    },
+    {
+        "country_name": "Congo",
+        "related": "CPI Transportation",
+        "last": 131.39,
+        "previous": 130.21
+    },
+    {
+        "country_name": "Congo",
+        "related": "CPI Housing Utilities",
+        "last": 136.33,
+        "previous": 135.12
+    },
+    {
+        "country_name": "Congo",
+        "related": "Consumer Price Index CPI",
+        "last": 173.81,
+        "previous": 171.88
+    },
+    {
+        "country_name": "Congo",
+        "related": "Inflation Rate MoM",
+        "last": 1.13,
+        "previous": 1.64
+    },
+    {
+        "country_name": "Italy",
+        "related": "Inflation Rate",
+        "last": 11.8,
+        "previous": 11.8
+    },
+    {
+        "country_name": "Italy",
+        "related": "Inflation Rate MoM",
+        "last": 0.5,
+        "previous": 3.4
+    },
+    {
+        "country_name": "Italy",
+        "related": "Consumer Price Index CPI",
+        "last": 118.7,
+        "previous": 118.1
+    },
+    {
+        "country_name": "Italy",
+        "related": "Harmonised Consumer Prices",
+        "last": 120.8,
+        "previous": 120.0
+    },
+    {
+        "country_name": "Italy",
+        "related": "Core Inflation Rate",
+        "last": 5.59,
+        "previous": 5.3
+    },
+    {
+        "country_name": "Italy",
+        "related": "Core Consumer Prices",
+        "last": 109.6,
+        "previous": 109.3
+    },
+    {
+        "country_name": "Italy",
+        "related": "GDP Deflator",
+        "last": 108.1,
+        "previous": 108.35
+    },
+    {
+        "country_name": "Italy",
+        "related": "Producer Prices",
+        "last": 159.0,
+        "previous": 155.0
+    },
+    {
+        "country_name": "Italy",
+        "related": "Producer Prices Change",
+        "last": 29.4,
+        "previous": 27.7
+    },
+    {
+        "country_name": "Italy",
+        "related": "Export Prices",
+        "last": 151.8,
+        "previous": 150.0
+    },
+    {
+        "country_name": "Italy",
+        "related": "Import Prices",
+        "last": 171.1,
+        "previous": 180.6
+    },
+    {
+        "country_name": "Italy",
+        "related": "Food Inflation",
+        "last": 13.6,
+        "previous": 13.5
+    },
+    {
+        "country_name": "Italy",
+        "related": "CPI Transportation",
+        "last": 119.1,
+        "previous": 119.0
+    },
+    {
+        "country_name": "Italy",
+        "related": "CPI Housing Utilities",
+        "last": 180.7,
+        "previous": 178.8
+    },
+    {
+        "country_name": "Botswana",
+        "related": "Inflation Rate",
+        "last": 12.2,
+        "previous": 13.1
+    },
+    {
+        "country_name": "Botswana",
+        "related": "Core Inflation Rate",
+        "last": 8.3,
+        "previous": 8.0
+    },
+    {
+        "country_name": "Botswana",
+        "related": "Core Consumer Prices",
+        "last": 122.6,
+        "previous": 122.2
+    },
+    {
+        "country_name": "Botswana",
+        "related": "Food Inflation",
+        "last": 16.3,
+        "previous": 15.8
+    },
+    {
+        "country_name": "Botswana",
+        "related": "Inflation Rate MoM",
+        "last": -0.8,
+        "previous": 0.2
+    },
+    {
+        "country_name": "Botswana",
+        "related": "CPI Transportation",
+        "last": 150.0,
+        "previous": 155.4
+    },
+    {
+        "country_name": "Botswana",
+        "related": "CPI Housing Utilities",
+        "last": 122.9,
+        "previous": 123.0
+    },
+    {
+        "country_name": "Mauritania",
+        "related": "Inflation Rate",
+        "last": 12.1,
+        "previous": 12.7
+    },
+    {
+        "country_name": "Mauritania",
+        "related": "Food Inflation",
+        "last": 14.7,
+        "previous": 13.7
+    },
+    {
+        "country_name": "Mauritania",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 1.4
+    },
+    {
+        "country_name": "Mauritania",
+        "related": "Consumer Price Index CPI",
+        "last": 121.7,
+        "previous": 121.3
+    },
+    {
+        "country_name": "Russia",
+        "related": "Inflation Rate",
+        "last": 12.0,
+        "previous": 12.6
+    },
+    {
+        "country_name": "Russia",
+        "related": "Inflation Rate MoM",
+        "last": 0.4,
+        "previous": 0.2
+    },
+    {
+        "country_name": "Russia",
+        "related": "Consumer Price Index CPI",
+        "last": 230.0,
+        "previous": 229.3
+    },
+    {
+        "country_name": "Russia",
+        "related": "Core Inflation Rate",
+        "last": 15.06,
+        "previous": 16.16
+    },
+    {
+        "country_name": "Russia",
+        "related": "Core Consumer Prices",
+        "last": 100.2,
+        "previous": 100.0
+    },
+    {
+        "country_name": "Russia",
+        "related": "GDP Deflator",
+        "last": 159.73,
+        "previous": 161.38
+    },
+    {
+        "country_name": "Russia",
+        "related": "Producer Prices",
+        "last": 250.3,
+        "previous": 251.3
+    },
+    {
+        "country_name": "Russia",
+        "related": "Producer Prices Change",
+        "last": -1.9,
+        "previous": 0.8
+    },
+    {
+        "country_name": "Russia",
+        "related": "Food Inflation",
+        "last": 11.1,
+        "previous": 12.1
+    },
+    {
+        "country_name": "Cayman Islands",
+        "related": "Inflation Rate",
+        "last": 12.1,
+        "previous": 11.2
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Inflation Rate",
+        "last": 13.5,
+        "previous": 13.2
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Inflation Rate MoM",
+        "last": 0.9,
+        "previous": 1.3
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Consumer Price Index CPI",
+        "last": 122.3,
+        "previous": 121.2
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Core Inflation Rate",
+        "last": 14.2,
+        "previous": 14.2
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Core Consumer Prices",
+        "last": 124.0,
+        "previous": 123.0
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Producer Prices",
+        "last": 133.0,
+        "previous": 132.6
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Producer Prices Change",
+        "last": 17.7,
+        "previous": 17.9
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Harmonised Consumer Prices",
+        "last": 122.19,
+        "previous": 121.37
+    },
+    {
+        "country_name": "Croatia",
+        "related": "Food Inflation",
+        "last": 19.2,
+        "previous": 19.7
+    },
+    {
+        "country_name": "Croatia",
+        "related": "CPI Transportation",
+        "last": 124.0,
+        "previous": 121.8
+    },
+    {
+        "country_name": "Croatia",
+        "related": "CPI Housing Utilities",
+        "last": 119.2,
+        "previous": 118.3
+    },
+    {
+        "country_name": "Mauritius",
+        "related": "Inflation Rate",
+        "last": 12.1,
+        "previous": 11.9
+    },
+    {
+        "country_name": "Mauritius",
+        "related": "Consumer Price Index CPI",
+        "last": 126.81,
+        "previous": 125.69
+    },
+    {
+        "country_name": "Mauritius",
+        "related": "Producer Prices",
+        "last": 147.9,
+        "previous": 148.1
+    },
+    {
+        "country_name": "Mauritius",
+        "related": "Food Inflation",
+        "last": 16.5,
+        "previous": 17.2
+    },
+    {
+        "country_name": "Mauritius",
+        "related": "Inflation Rate MoM",
+        "last": 0.9,
+        "previous": 0.5
+    },
+    {
+        "country_name": "Mauritius",
+        "related": "CPI Transportation",
+        "last": 141.26,
+        "previous": 141.12
+    },
+    {
+        "country_name": "Mauritius",
+        "related": "CPI Housing Utilities",
+        "last": 103.81,
+        "previous": 98.88
+    },
+    {
+        "country_name": "Mauritius",
+        "related": "Export Prices",
+        "last": 135.6,
+        "previous": 136.5
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "Inflation Rate",
+        "last": 11.6,
+        "previous": 12.7
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "Consumer Price Index CPI",
+        "last": 125.8,
+        "previous": 125.4
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "Producer Prices",
+        "last": 146.2,
+        "previous": 131.3
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "Import Prices",
+        "last": 158.6,
+        "previous": 155.9
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "Food Inflation",
+        "last": 17.9,
+        "previous": 20.4
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "CPI Transportation",
+        "last": 126.2,
+        "previous": 126.2
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "CPI Housing Utilities",
+        "last": 119.2,
+        "previous": 118.3
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 0.9
+    },
+    {
+        "country_name": "Kosovo",
+        "related": "Producer Prices Change",
+        "last": 17.2,
+        "previous": 10.0
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Inflation Rate",
+        "last": 11.5,
+        "previous": 10.9
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Inflation Rate MoM",
+        "last": 1.0,
+        "previous": 0.2
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Harmonised Consumer Prices",
+        "last": 123.47,
+        "previous": 122.45
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Consumer Price Index CPI",
+        "last": 387.93,
+        "previous": 384.04
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Core Consumer Prices",
+        "last": 250.1,
+        "previous": 248.32
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Core Inflation Rate",
+        "last": 9.5,
+        "previous": 9.3
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Producer Prices",
+        "last": 140.4,
+        "previous": 137.7
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Producer Prices Change",
+        "last": 19.5,
+        "previous": 18.7
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Export Prices",
+        "last": 141.3,
+        "previous": 139.4
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Import Prices",
+        "last": 144.1,
+        "previous": 144.5
+    },
+    {
+        "country_name": "Sweden",
+        "related": "Food Inflation",
+        "last": 18.06,
+        "previous": 17.23
+    },
+    {
+        "country_name": "Sweden",
+        "related": "CPI Transportation",
+        "last": 547.63,
+        "previous": 553.34
+    },
+    {
+        "country_name": "Sweden",
+        "related": "CPI Housing Utilities",
+        "last": 518.01,
+        "previous": 498.07
+    },
+    {
+        "country_name": "European Union",
+        "related": "Core Inflation Rate",
+        "last": 5.97,
+        "previous": 5.96
+    },
+    {
+        "country_name": "European Union",
+        "related": "Core Consumer Prices",
+        "last": 114.69,
+        "previous": 114.56
+    },
+    {
+        "country_name": "European Union",
+        "related": "Food Inflation",
+        "last": 17.86,
+        "previous": 17.26
+    },
+    {
+        "country_name": "European Union",
+        "related": "CPI Transportation",
+        "last": 126.33,
+        "previous": 126.54
+    },
+    {
+        "country_name": "European Union",
+        "related": "CPI Housing Utilities",
+        "last": 139.4,
+        "previous": 140.22
+    },
+    {
+        "country_name": "European Union",
+        "related": "Consumer Price Index CPI",
+        "last": 123.92,
+        "previous": 123.78
+    },
+    {
+        "country_name": "European Union",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": 1.4
+    },
+    {
+        "country_name": "European Union",
+        "related": "Inflation Rate",
+        "last": 11.1,
+        "previous": 11.5
+    },
+    {
+        "country_name": "European Union",
+        "related": "Producer Prices Change",
+        "last": 31.2,
+        "previous": 41.4
+    },
+    {
+        "country_name": "European Union",
+        "related": "Producer Prices",
+        "last": 164.3,
+        "previous": 168.5
+    },
+    {
+        "country_name": "European Union",
+        "related": "GDP Deflator",
+        "last": 115.48,
+        "previous": 114.32
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Inflation Rate",
+        "last": 10.7,
+        "previous": 11.1
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Inflation Rate MoM",
+        "last": 0.4,
+        "previous": 2.0
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Harmonised Consumer Prices",
+        "last": 126.69,
+        "previous": 126.2
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Consumer Price Index CPI",
+        "last": 126.69,
+        "previous": 126.2
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Core Inflation Rate",
+        "last": 6.3,
+        "previous": 6.5
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Core Consumer Prices",
+        "last": 121.39,
+        "previous": 121.04
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "GDP Deflator",
+        "last": 112.42,
+        "previous": 110.27
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Producer Prices Change",
+        "last": 14.8,
+        "previous": 16.3
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Export Prices",
+        "last": 113.4,
+        "previous": 113.1
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Import Prices",
+        "last": 111.4,
+        "previous": 111.3
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Food Inflation",
+        "last": 16.4,
+        "previous": 16.2
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Producer Price Inflation MoM",
+        "last": 0.9,
+        "previous": -0.1
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "CPI Transportation",
+        "last": 135.7,
+        "previous": 135.45
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "CPI Housing Utilities",
+        "last": 141.75,
+        "previous": 141.61
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Retail Price Index",
+        "last": 14.0,
+        "previous": 14.2
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Producer Prices",
+        "last": 137.4,
+        "previous": 136.2
+    },
+    {
+        "country_name": "United Kingdom",
+        "related": "Core Producer Prices",
+        "last": 134.1,
+        "previous": 133.1
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "Inflation Rate",
+        "last": 11.38,
+        "previous": 12.16
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "Consumer Price Index CPI",
+        "last": 281.9,
+        "previous": 280.0
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "Producer Prices",
+        "last": 255.8,
+        "previous": 252.2
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "Producer Prices Change",
+        "last": 0.8,
+        "previous": 0.7
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "Food Inflation",
+        "last": 16.6,
+        "previous": 18.6
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "CPI Transportation",
+        "last": 250.0,
+        "previous": 249.6
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "CPI Housing Utilities",
+        "last": 244.3,
+        "previous": 244.1
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "Core Consumer Prices",
+        "last": 260.94,
+        "previous": 260.46
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "Inflation Rate MoM",
+        "last": 0.07,
+        "previous": 0.86
+    },
+    {
+        "country_name": "Nicaragua",
+        "related": "Core Inflation Rate",
+        "last": 9.67,
+        "previous": 9.35
+    },
+    {
+        "country_name": "Mozambique",
+        "related": "Inflation Rate",
+        "last": 11.25,
+        "previous": 11.83
+    },
+    {
+        "country_name": "Mozambique",
+        "related": "Inflation Rate MoM",
+        "last": 0.58,
+        "previous": 0.19
+    },
+    {
+        "country_name": "Mozambique",
+        "related": "Consumer Price Index CPI",
+        "last": 153.45,
+        "previous": 152.56
+    },
+    {
+        "country_name": "Mozambique",
+        "related": "Food Inflation",
+        "last": 20.23,
+        "previous": 19.55
+    },
+    {
+        "country_name": "Mozambique",
+        "related": "CPI Transportation",
+        "last": 160.23,
+        "previous": 160.05
+    },
+    {
+        "country_name": "Mozambique",
+        "related": "CPI Housing Utilities",
+        "last": 142.61,
+        "previous": 141.61
+    },
+    {
+        "country_name": "Mozambique",
+        "related": "Producer Prices Change",
+        "last": 38.0,
+        "previous": 27.7
+    },
+    {
+        "country_name": "Mozambique",
+        "related": "Producer Prices",
+        "last": 157.8,
+        "previous": 144.9
+    },
+    {
+        "country_name": "Uganda",
+        "related": "Inflation Rate",
+        "last": 10.6,
+        "previous": 10.7
+    },
+    {
+        "country_name": "Uganda",
+        "related": "Consumer Price Index CPI",
+        "last": 126.2,
+        "previous": 126.1
+    },
+    {
+        "country_name": "Uganda",
+        "related": "Food Inflation",
+        "last": 22.7,
+        "previous": 22.2
+    },
+    {
+        "country_name": "Uganda",
+        "related": "CPI Transportation",
+        "last": 152.74,
+        "previous": 154.74
+    },
+    {
+        "country_name": "Uganda",
+        "related": "CPI Housing Utilities",
+        "last": 117.86,
+        "previous": 117.74
+    },
+    {
+        "country_name": "Uganda",
+        "related": "Core Inflation Rate",
+        "last": 8.8,
+        "previous": 8.9
+    },
+    {
+        "country_name": "Uganda",
+        "related": "Core Consumer Prices",
+        "last": 125.48,
+        "previous": 125.19
+    },
+    {
+        "country_name": "Uganda",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": 0.8
+    },
+    {
+        "country_name": "Uganda",
+        "related": "Producer Prices Change",
+        "last": 18.9,
+        "previous": 19.58
+    },
+    {
+        "country_name": "Uganda",
+        "related": "Producer Prices",
+        "last": 245.8,
+        "previous": 243.9
+    },
+    {
+        "country_name": "Honduras",
+        "related": "Inflation Rate",
+        "last": 10.44,
+        "previous": 10.18
+    },
+    {
+        "country_name": "Honduras",
+        "related": "Consumer Price Index CPI",
+        "last": 403.1,
+        "previous": 399.2
+    },
+    {
+        "country_name": "Honduras",
+        "related": "Inflation Rate MoM",
+        "last": 0.98,
+        "previous": 0.66
+    },
+    {
+        "country_name": "Honduras",
+        "related": "Food Inflation",
+        "last": 17.26,
+        "previous": 16.9
+    },
+    {
+        "country_name": "Honduras",
+        "related": "CPI Transportation",
+        "last": 455.3,
+        "previous": 448.6
+    },
+    {
+        "country_name": "Honduras",
+        "related": "CPI Housing Utilities",
+        "last": 429.0,
+        "previous": 427.4
+    },
+    {
+        "country_name": "Madagascar",
+        "related": "Inflation Rate",
+        "last": 10.42,
+        "previous": 9.71
+    },
+    {
+        "country_name": "Madagascar",
+        "related": "Food Inflation",
+        "last": 11.7,
+        "previous": 10.9
+    },
+    {
+        "country_name": "Madagascar",
+        "related": "Inflation Rate MoM",
+        "last": 0.76,
+        "previous": 0.7
+    },
+    {
+        "country_name": "Madagascar",
+        "related": "CPI Transportation",
+        "last": 149.6,
+        "previous": 149.4
+    },
+    {
+        "country_name": "Madagascar",
+        "related": "CPI Housing Utilities",
+        "last": 144.2,
+        "previous": 143.0
+    },
+    {
+        "country_name": "Madagascar",
+        "related": "Consumer Price Index CPI",
+        "last": 153.7,
+        "previous": 152.5
+    },
+    {
+        "country_name": "Georgia",
+        "related": "Inflation Rate",
+        "last": 10.4,
+        "previous": 10.6
+    },
+    {
+        "country_name": "Georgia",
+        "related": "Consumer Price Index CPI",
+        "last": 177.3,
+        "previous": 176.5
+    },
+    {
+        "country_name": "Georgia",
+        "related": "Food Inflation",
+        "last": 16.8,
+        "previous": 15.8
+    },
+    {
+        "country_name": "Austria",
+        "related": "Inflation Rate",
+        "last": 10.6,
+        "previous": 11.0
+    },
+    {
+        "country_name": "Austria",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 1.0
+    },
+    {
+        "country_name": "Austria",
+        "related": "Consumer Price Index CPI",
+        "last": 115.9,
+        "previous": 115.6
+    },
+    {
+        "country_name": "Austria",
+        "related": "Harmonised Consumer Prices",
+        "last": 126.3,
+        "previous": 126.1
+    },
+    {
+        "country_name": "Austria",
+        "related": "GDP Deflator",
+        "last": 117.83,
+        "previous": 116.13
+    },
+    {
+        "country_name": "Austria",
+        "related": "Producer Prices",
+        "last": 124.7,
+        "previous": 124.7
+    },
+    {
+        "country_name": "Austria",
+        "related": "Producer Prices Change",
+        "last": 18.4,
+        "previous": 22.1
+    },
+    {
+        "country_name": "Austria",
+        "related": "Food Inflation",
+        "last": 15.2,
+        "previous": 14.4
+    },
+    {
+        "country_name": "Austria",
+        "related": "Wholesale Prices",
+        "last": 135.9,
+        "previous": 140.1
+    },
+    {
+        "country_name": "Austria",
+        "related": "CPI Transportation",
+        "last": 126.9,
+        "previous": 128.4
+    },
+    {
+        "country_name": "Austria",
+        "related": "CPI Housing Utilities",
+        "last": 125.1,
+        "previous": 125.4
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Inflation Rate",
+        "last": 10.0,
+        "previous": 9.9
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Harmonised Consumer Prices",
+        "last": 121.51,
+        "previous": 120.13
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Consumer Price Index CPI",
+        "last": 120.27,
+        "previous": 119.24
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Core Inflation Rate",
+        "last": 8.8,
+        "previous": 8.69
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Core Consumer Prices",
+        "last": 117.99,
+        "previous": 117.33
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "GDP Deflator",
+        "last": 102.6,
+        "previous": 101.3
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Producer Prices",
+        "last": 142.54,
+        "previous": 143.67
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Export Prices",
+        "last": 101.0,
+        "previous": 97.9
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Import Prices",
+        "last": 101.7,
+        "previous": 96.7
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Food Inflation",
+        "last": 18.98,
+        "previous": 17.24
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "CPI Transportation",
+        "last": 115.1,
+        "previous": 113.09
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "CPI Housing Utilities",
+        "last": 137.56,
+        "previous": 136.71
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Producer Prices Change",
+        "last": 19.7,
+        "previous": 20.6
+    },
+    {
+        "country_name": "Slovenia",
+        "related": "Inflation Rate MoM",
+        "last": 0.9,
+        "previous": 0.76
+    },
+    {
+        "country_name": "Afghanistan",
+        "related": "Inflation Rate",
+        "last": 10.2,
+        "previous": 13.6
+    },
+    {
+        "country_name": "Afghanistan",
+        "related": "Core Inflation Rate",
+        "last": 8.0,
+        "previous": 9.46
+    },
+    {
+        "country_name": "Afghanistan",
+        "related": "Food Inflation",
+        "last": 12.29,
+        "previous": 17.59
+    },
+    {
+        "country_name": "Afghanistan",
+        "related": "CPI Transportation",
+        "last": 176.4,
+        "previous": 180.5
+    },
+    {
+        "country_name": "Afghanistan",
+        "related": "CPI Housing Utilities",
+        "last": 105.3,
+        "previous": 106.4
+    },
+    {
+        "country_name": "Afghanistan",
+        "related": "Consumer Price Index CPI",
+        "last": 145.2,
+        "previous": 146.6
+    },
+    {
+        "country_name": "Afghanistan",
+        "related": "Inflation Rate MoM",
+        "last": -1.0,
+        "previous": -0.2
+    },
+    {
+        "country_name": "Afghanistan",
+        "related": "GDP Deflator",
+        "last": 269.6,
+        "previous": 262.4
+    },
+    {
+        "country_name": "Belgium",
+        "related": "Inflation Rate",
+        "last": 10.35,
+        "previous": 10.63
+    },
+    {
+        "country_name": "Belgium",
+        "related": "Inflation Rate MoM",
+        "last": -0.16,
+        "previous": -0.23
+    },
+    {
+        "country_name": "Belgium",
+        "related": "Consumer Price Index CPI",
+        "last": 127.72,
+        "previous": 127.92
+    },
+    {
+        "country_name": "Belgium",
+        "related": "Producer Prices",
+        "last": 186.4,
+        "previous": 188.9
+    },
+    {
+        "country_name": "Belgium",
+        "related": "Food Inflation",
+        "last": 15.16,
+        "previous": 15.13
+    },
+    {
+        "country_name": "Belgium",
+        "related": "CPI Housing Utilities",
+        "last": 152.96,
+        "previous": 154.01
+    },
+    {
+        "country_name": "Belgium",
+        "related": "CPI Transportation",
+        "last": 125.82,
+        "previous": 128.43
+    },
+    {
+        "country_name": "Belgium",
+        "related": "Producer Prices Change",
+        "last": 23.7,
+        "previous": 29.1
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Inflation Rate",
+        "last": 10.1,
+        "previous": 10.6
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Inflation Rate MoM",
+        "last": -0.1,
+        "previous": 1.5
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Consumer Price Index CPI",
+        "last": 120.95,
+        "previous": 121.03
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Core Inflation Rate",
+        "last": 5.0,
+        "previous": 5.0
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Core Consumer Prices",
+        "last": 112.6,
+        "previous": 112.6
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "GDP Deflator",
+        "last": 114.61,
+        "previous": 113.36
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Producer Prices",
+        "last": 162.8,
+        "previous": 167.6
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Producer Prices Change",
+        "last": 30.8,
+        "previous": 41.9
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Import Prices",
+        "last": 121.0,
+        "previous": 120.8
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Food Inflation",
+        "last": 16.0,
+        "previous": 15.5
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "Energy Prices",
+        "last": 28.6,
+        "previous": 25.9
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "CPI Transportation",
+        "last": 124.89,
+        "previous": 125.12
+    },
+    {
+        "country_name": "Euro Area",
+        "related": "CPI Housing Utilities",
+        "last": 137.24,
+        "previous": 138.53
+    },
+    {
+        "country_name": "Germany",
+        "related": "Inflation Rate",
+        "last": 10.0,
+        "previous": 10.4
+    },
+    {
+        "country_name": "Germany",
+        "related": "Inflation Rate MoM",
+        "last": -0.5,
+        "previous": 0.9
+    },
+    {
+        "country_name": "Germany",
+        "related": "Harmonised Consumer Prices",
+        "last": 123.5,
+        "previous": 123.5
+    },
+    {
+        "country_name": "Germany",
+        "related": "Consumer Price Index CPI",
+        "last": 121.6,
+        "previous": 122.2
+    },
+    {
+        "country_name": "Germany",
+        "related": "Core Inflation Rate",
+        "last": 5.03,
+        "previous": 5.0
+    },
+    {
+        "country_name": "Germany",
+        "related": "Core Consumer Prices",
+        "last": 114.8,
+        "previous": 115.4
+    },
+    {
+        "country_name": "Germany",
+        "related": "Producer Prices",
+        "last": 158.7,
+        "previous": 165.2
+    },
+    {
+        "country_name": "Germany",
+        "related": "Producer Prices Change",
+        "last": 28.2,
+        "previous": 34.5
+    },
+    {
+        "country_name": "Germany",
+        "related": "Export Prices",
+        "last": 125.5,
+        "previous": 127.9
+    },
+    {
+        "country_name": "Germany",
+        "related": "Import Prices",
+        "last": 146.0,
+        "previous": 147.8
+    },
+    {
+        "country_name": "Germany",
+        "related": "Food Inflation",
+        "last": 21.1,
+        "previous": 20.3
+    },
+    {
+        "country_name": "Germany",
+        "related": "Producer Price Inflation MoM",
+        "last": -3.9,
+        "previous": -4.2
+    },
+    {
+        "country_name": "Germany",
+        "related": "North Rhine Westphalia CPI YoY",
+        "last": 10.4,
+        "previous": 11.0
+    },
+    {
+        "country_name": "Germany",
+        "related": "Hesse CPI YoY",
+        "last": 9.7,
+        "previous": 9.9
+    },
+    {
+        "country_name": "Germany",
+        "related": "Brandenburg CPI YoY",
+        "last": 10.5,
+        "previous": 10.8
+    },
+    {
+        "country_name": "Germany",
+        "related": "Bavaria CPI YoY",
+        "last": 10.9,
+        "previous": 11.0
+    },
+    {
+        "country_name": "Germany",
+        "related": "Baden Wuerttemberg CPI YoY",
+        "last": 9.6,
+        "previous": 9.8
+    },
+    {
+        "country_name": "Germany",
+        "related": "Saxony CPI YoY",
+        "last": 9.9,
+        "previous": 10.1
+    },
+    {
+        "country_name": "Germany",
+        "related": "Wholesale Prices",
+        "last": 136.6,
+        "previous": 137.8
+    },
+    {
+        "country_name": "Germany",
+        "related": "CPI Transportation",
+        "last": 130.0,
+        "previous": 131.1
+    },
+    {
+        "country_name": "Germany",
+        "related": "CPI Housing Utilities",
+        "last": 124.3,
+        "previous": 124.2
+    },
+    {
+        "country_name": "Iceland",
+        "related": "Inflation Rate",
+        "last": 9.6,
+        "previous": 9.3
+    },
+    {
+        "country_name": "Iceland",
+        "related": "Consumer Price Index CPI",
+        "last": 564.6,
+        "previous": 560.9
+    },
+    {
+        "country_name": "Iceland",
+        "related": "Core Inflation Rate",
+        "last": 8.86,
+        "previous": 8.52
+    },
+    {
+        "country_name": "Iceland",
+        "related": "Core Consumer Prices",
+        "last": 314.4,
+        "previous": 311.9
+    },
+    {
+        "country_name": "Iceland",
+        "related": "GDP Deflator",
+        "last": 121.25,
+        "previous": 114.6
+    },
+    {
+        "country_name": "Iceland",
+        "related": "Producer Prices",
+        "last": 285.6,
+        "previous": 285.6
+    },
+    {
+        "country_name": "Iceland",
+        "related": "Inflation Rate MoM",
+        "last": 0.7,
+        "previous": 0.3
+    },
+    {
+        "country_name": "Iceland",
+        "related": "Food Inflation",
+        "last": 10.1,
+        "previous": 10.1
+    },
+    {
+        "country_name": "Iceland",
+        "related": "CPI Transportation",
+        "last": 188.38,
+        "previous": 184.48
+    },
+    {
+        "country_name": "Iceland",
+        "related": "CPI Housing Utilities",
+        "last": 591.2,
+        "previous": 588.9
+    },
+    {
+        "country_name": "Iceland",
+        "related": "Producer Prices Change",
+        "last": 3.5,
+        "previous": 7.0
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Inflation Rate",
+        "last": 9.9,
+        "previous": 14.3
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Consumer Price Index CPI",
+        "last": 124.35,
+        "previous": 128.25
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Harmonised Consumer Prices",
+        "last": 125.81,
+        "previous": 130.92
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Core Inflation Rate",
+        "last": 5.6,
+        "previous": 6.0
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Core Consumer Prices",
+        "last": 116.16,
+        "previous": 116.89
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "GDP Deflator",
+        "last": 119.14,
+        "previous": 115.51
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Producer Prices",
+        "last": 144.4,
+        "previous": 142.6
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Export Prices",
+        "last": 136.5,
+        "previous": 130.4
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Import Prices",
+        "last": 142.6,
+        "previous": 138.8
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Inflation Rate MoM",
+        "last": -3.0,
+        "previous": 1.1
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Food Inflation",
+        "last": 15.4,
+        "previous": 14.0
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "CPI Transportation",
+        "last": 125.93,
+        "previous": 128.7
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "CPI Housing Utilities",
+        "last": 137.26,
+        "previous": 149.47
+    },
+    {
+        "country_name": "Netherlands",
+        "related": "Producer Prices Change",
+        "last": 19.2,
+        "previous": 21.2
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "Inflation Rate",
+        "last": 9.8,
+        "previous": 9.2
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "Consumer Price Index CPI",
+        "last": 156.9,
+        "previous": 155.9
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "Producer Prices",
+        "last": 183.8,
+        "previous": 183.3
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "Food Inflation",
+        "last": 15.1,
+        "previous": 12.9
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "CPI Transportation",
+        "last": 149.1,
+        "previous": 148.3
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "CPI Housing Utilities",
+        "last": 145.3,
+        "previous": 145.0
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "Inflation Rate MoM",
+        "last": 0.6,
+        "previous": 1.0
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "Producer Prices Change",
+        "last": 11.46,
+        "previous": 10.89
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "Import Prices",
+        "last": 198.9,
+        "previous": 194.7
+    },
+    {
+        "country_name": "Tunisia",
+        "related": "Export Prices",
+        "last": 173.7,
+        "previous": 172.5
+    },
+    {
+        "country_name": "Kenya",
+        "related": "Inflation Rate",
+        "last": 9.5,
+        "previous": 9.6
+    },
+    {
+        "country_name": "Kenya",
+        "related": "Consumer Price Index CPI",
+        "last": 128.31,
+        "previous": 127.86
+    },
+    {
+        "country_name": "Kenya",
+        "related": "Food Inflation",
+        "last": 15.4,
+        "previous": 15.8
+    },
+    {
+        "country_name": "Kenya",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 0.9
+    },
+    {
+        "country_name": "Kenya",
+        "related": "Producer Prices Change",
+        "last": 15.78,
+        "previous": 16.53
+    },
+    {
+        "country_name": "Kenya",
+        "related": "Producer Prices",
+        "last": 127.76,
+        "previous": 125.99
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Inflation Rate",
+        "last": 9.9,
+        "previous": 10.1
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 1.2
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Consumer Price Index CPI",
+        "last": 117.29,
+        "previous": 116.99
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Harmonised Consumer Prices",
+        "last": 116.82,
+        "previous": 116.86
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Core Inflation Rate",
+        "last": 7.23,
+        "previous": 7.12
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Core Consumer Prices",
+        "last": 113.65,
+        "previous": 113.18
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Producer Prices Change",
+        "last": 14.1,
+        "previous": 16.2
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Producer Prices",
+        "last": 132.8,
+        "previous": 132.7
+    },
+    {
+        "country_name": "Portugal",
+        "related": "Food Inflation",
+        "last": 19.96,
+        "previous": 18.58
+    },
+    {
+        "country_name": "Portugal",
+        "related": "CPI Transportation",
+        "last": 115.49,
+        "previous": 116.78
+    },
+    {
+        "country_name": "Portugal",
+        "related": "CPI Housing Utilities",
+        "last": 132.75,
+        "previous": 132.33
+    },
+    {
+        "country_name": "Portugal",
+        "related": "GDP Deflator",
+        "last": 5.0,
+        "previous": 3.7
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Inflation Rate",
+        "last": 8.9,
+        "previous": 9.2
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 1.6
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Consumer Price Index CPI",
+        "last": 116.0,
+        "previous": 115.6
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Harmonised Consumer Prices",
+        "last": 115.5,
+        "previous": 115.3
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Core Inflation Rate",
+        "last": 5.5,
+        "previous": 5.4
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Core Consumer Prices",
+        "last": 110.7,
+        "previous": 110.3
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Producer Prices",
+        "last": 86.7,
+        "previous": 90.2
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Export Prices",
+        "last": 95.5,
+        "previous": 94.9
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Import Prices",
+        "last": 108.4,
+        "previous": 106.6
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Producer Prices Change",
+        "last": 3.8,
+        "previous": 8.0
+    },
+    {
+        "country_name": "Ireland",
+        "related": "Food Inflation",
+        "last": 11.2,
+        "previous": 10.6
+    },
+    {
+        "country_name": "Ireland",
+        "related": "CPI Transportation",
+        "last": 123.7,
+        "previous": 123.3
+    },
+    {
+        "country_name": "Ireland",
+        "related": "CPI Housing Utilities",
+        "last": 155.5,
+        "previous": 154.5
+    },
+    {
+        "country_name": "Guatemala",
+        "related": "Inflation Rate",
+        "last": 9.17,
+        "previous": 9.7
+    },
+    {
+        "country_name": "Guatemala",
+        "related": "Consumer Price Index CPI",
+        "last": 166.96,
+        "previous": 166.97
+    },
+    {
+        "country_name": "Guatemala",
+        "related": "Inflation Rate MoM",
+        "last": -0.01,
+        "previous": 0.98
+    },
+    {
+        "country_name": "Guatemala",
+        "related": "Food Inflation",
+        "last": 12.1,
+        "previous": 13.6
+    },
+    {
+        "country_name": "Guatemala",
+        "related": "CPI Transportation",
+        "last": 156.14,
+        "previous": 153.46
+    },
+    {
+        "country_name": "Guatemala",
+        "related": "CPI Housing Utilities",
+        "last": 126.07,
+        "previous": 125.71
+    },
+    {
+        "country_name": "Zambia",
+        "related": "Inflation Rate",
+        "last": 9.9,
+        "previous": 9.8
+    },
+    {
+        "country_name": "Zambia",
+        "related": "CPI Transportation",
+        "last": 424.41,
+        "previous": 418.97
+    },
+    {
+        "country_name": "Zambia",
+        "related": "CPI Housing Utilities",
+        "last": 380.4,
+        "previous": 377.97
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Inflation Rate",
+        "last": 8.9,
+        "previous": 10.1
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Harmonised Consumer Prices",
+        "last": 117.3,
+        "previous": 118.6
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Consumer Price Index CPI",
+        "last": 116.6,
+        "previous": 117.6
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Core Inflation Rate",
+        "last": 6.0,
+        "previous": 6.23
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Core Consumer Prices",
+        "last": 112.5,
+        "previous": 112.5
+    },
+    {
+        "country_name": "Denmark",
+        "related": "GDP Deflator",
+        "last": 127.26,
+        "previous": 124.61
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Producer Prices",
+        "last": 150.5,
+        "previous": 151.9
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Export Prices",
+        "last": 138.0,
+        "previous": 139.1
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Import Prices",
+        "last": 122.2,
+        "previous": 124.5
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Food Inflation",
+        "last": 15.3,
+        "previous": 15.7
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Inflation Rate MoM",
+        "last": -0.9,
+        "previous": 1.0
+    },
+    {
+        "country_name": "Denmark",
+        "related": "CPI Transportation",
+        "last": 119.0,
+        "previous": 121.1
+    },
+    {
+        "country_name": "Denmark",
+        "related": "Producer Prices Change",
+        "last": 8.1,
+        "previous": 9.7
+    },
+    {
+        "country_name": "Finland",
+        "related": "Inflation Rate",
+        "last": 9.1,
+        "previous": 8.3
+    },
+    {
+        "country_name": "Finland",
+        "related": "Inflation Rate MoM",
+        "last": 1.2,
+        "previous": 0.9
+    },
+    {
+        "country_name": "Finland",
+        "related": "Consumer Price Index CPI",
+        "last": 117.4,
+        "previous": 115.99
+    },
+    {
+        "country_name": "Finland",
+        "related": "Harmonised Consumer Prices",
+        "last": 117.5,
+        "previous": 116.1
+    },
+    {
+        "country_name": "Finland",
+        "related": "GDP Deflator",
+        "last": 116.03,
+        "previous": 114.94
+    },
+    {
+        "country_name": "Finland",
+        "related": "Producer Prices",
+        "last": 145.4,
+        "previous": 146.7
+    },
+    {
+        "country_name": "Finland",
+        "related": "Producer Prices Change",
+        "last": 18.8,
+        "previous": 20.9
+    },
+    {
+        "country_name": "Finland",
+        "related": "Export Prices",
+        "last": 143.9,
+        "previous": 147.5
+    },
+    {
+        "country_name": "Finland",
+        "related": "Import Prices",
+        "last": 149.3,
+        "previous": 149.4
+    },
+    {
+        "country_name": "Finland",
+        "related": "Wholesale Prices",
+        "last": 3161.0,
+        "previous": 3042.0
+    },
+    {
+        "country_name": "Finland",
+        "related": "Food Inflation",
+        "last": 16.1,
+        "previous": 15.73
+    },
+    {
+        "country_name": "Finland",
+        "related": "CPI Transportation",
+        "last": 121.6,
+        "previous": 121.2
+    },
+    {
+        "country_name": "Finland",
+        "related": "CPI Housing Utilities",
+        "last": 175.81,
+        "previous": 170.79
+    },
+    {
+        "country_name": "Faroe Islands",
+        "related": "Inflation Rate MoM",
+        "last": 1.7,
+        "previous": 3.8
+    },
+    {
+        "country_name": "Faroe Islands",
+        "related": "Inflation Rate",
+        "last": 8.8,
+        "previous": 7.3
+    },
+    {
+        "country_name": "Faroe Islands",
+        "related": "Food Inflation",
+        "last": 9.9,
+        "previous": 6.2
+    },
+    {
+        "country_name": "Faroe Islands",
+        "related": "Consumer Price Index CPI",
+        "last": 135.9,
+        "previous": 133.6
+    },
+    {
+        "country_name": "Solomon Islands",
+        "related": "Consumer Price Index CPI",
+        "last": 112.0,
+        "previous": 116.0
+    },
+    {
+        "country_name": "Solomon Islands",
+        "related": "Food Inflation",
+        "last": 11.6,
+        "previous": 7.5
+    },
+    {
+        "country_name": "Bangladesh",
+        "related": "Inflation Rate",
+        "last": 8.85,
+        "previous": 8.91
+    },
+    {
+        "country_name": "Bangladesh",
+        "related": "Consumer Price Index CPI",
+        "last": 333.07,
+        "previous": 334.89
+    },
+    {
+        "country_name": "Bangladesh",
+        "related": "GDP Deflator",
+        "last": 130.84,
+        "previous": 249.42
+    },
+    {
+        "country_name": "Bangladesh",
+        "related": "Producer Prices",
+        "last": 2180.0,
+        "previous": 2082.0
+    },
+    {
+        "country_name": "Bangladesh",
+        "related": "Inflation Rate MoM",
+        "last": -0.54,
+        "previous": 0.91
+    },
+    {
+        "country_name": "Bangladesh",
+        "related": "Food Inflation",
+        "last": 8.14,
+        "previous": 8.5
+    },
+    {
+        "country_name": "Bangladesh",
+        "related": "CPI Transportation",
+        "last": 347.6,
+        "previous": 341.86
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "Inflation Rate",
+        "last": 8.7,
+        "previous": 8.8
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "Consumer Price Index CPI",
+        "last": 114.55,
+        "previous": 114.01
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "Harmonised Consumer Prices",
+        "last": 112.81,
+        "previous": 113.24
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "GDP Deflator",
+        "last": 111.89,
+        "previous": 111.47
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "Producer Prices",
+        "last": 141.9,
+        "previous": 142.6
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "Inflation Rate MoM",
+        "last": 0.5,
+        "previous": 0.79
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "Food Inflation",
+        "last": 15.46,
+        "previous": 13.16
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "CPI Transportation",
+        "last": 119.75,
+        "previous": 118.68
+    },
+    {
+        "country_name": "Cyprus",
+        "related": "CPI Housing Utilities",
+        "last": 142.96,
+        "previous": 143.36
+    },
+    {
+        "country_name": "Armenia",
+        "related": "Inflation Rate",
+        "last": 8.8,
+        "previous": 9.5
+    },
+    {
+        "country_name": "Armenia",
+        "related": "Consumer Price Index CPI",
+        "last": 155.01,
+        "previous": 153.08
+    },
+    {
+        "country_name": "Armenia",
+        "related": "Producer Prices",
+        "last": 100.8,
+        "previous": 100.7
+    },
+    {
+        "country_name": "Armenia",
+        "related": "Producer Prices Change",
+        "last": -2.1,
+        "previous": -2.9
+    },
+    {
+        "country_name": "Armenia",
+        "related": "Food Inflation",
+        "last": 11.1,
+        "previous": 12.5
+    },
+    {
+        "country_name": "Armenia",
+        "related": "Inflation Rate MoM",
+        "last": 1.1,
+        "previous": 0.3
+    },
+    {
+        "country_name": "Armenia",
+        "related": "Import Prices",
+        "last": 99.0,
+        "previous": 96.6
+    },
+    {
+        "country_name": "Armenia",
+        "related": "Export Prices",
+        "last": 100.3,
+        "previous": 105.5
+    },
+    {
+        "country_name": "Lesotho",
+        "related": "Inflation Rate",
+        "last": 8.5,
+        "previous": 9.2
+    },
+    {
+        "country_name": "Lesotho",
+        "related": "CPI Housing Utilities",
+        "last": 152.57,
+        "previous": 152.7
+    },
+    {
+        "country_name": "Lesotho",
+        "related": "Consumer Price Index CPI",
+        "last": 139.54,
+        "previous": 139.38
+    },
+    {
+        "country_name": "Lesotho",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": 0.2
+    },
+    {
+        "country_name": "Togo",
+        "related": "Inflation Rate",
+        "last": 8.7,
+        "previous": 7.2
+    },
+    {
+        "country_name": "Togo",
+        "related": "Food Inflation",
+        "last": 9.0,
+        "previous": 6.1
+    },
+    {
+        "country_name": "Togo",
+        "related": "CPI Transportation",
+        "last": 112.1,
+        "previous": 112.1
+    },
+    {
+        "country_name": "Togo",
+        "related": "CPI Housing Utilities",
+        "last": 114.3,
+        "previous": 111.8
+    },
+    {
+        "country_name": "Greece",
+        "related": "Inflation Rate",
+        "last": 8.5,
+        "previous": 9.1
+    },
+    {
+        "country_name": "Greece",
+        "related": "Consumer Price Index CPI",
+        "last": 113.15,
+        "previous": 113.16
+    },
+    {
+        "country_name": "Greece",
+        "related": "Harmonised Consumer Prices",
+        "last": 113.55,
+        "previous": 113.85
+    },
+    {
+        "country_name": "Greece",
+        "related": "Core Inflation Rate",
+        "last": 5.9,
+        "previous": 5.2
+    },
+    {
+        "country_name": "Greece",
+        "related": "Core Consumer Prices",
+        "last": 105.88,
+        "previous": 106.26
+    },
+    {
+        "country_name": "Greece",
+        "related": "GDP Deflator",
+        "last": 101.01,
+        "previous": 98.95
+    },
+    {
+        "country_name": "Greece",
+        "related": "Producer Prices",
+        "last": 159.3,
+        "previous": 147.4
+    },
+    {
+        "country_name": "Greece",
+        "related": "Producer Prices Change",
+        "last": 35.4,
+        "previous": 29.4
+    },
+    {
+        "country_name": "Greece",
+        "related": "Import Prices",
+        "last": 159.7,
+        "previous": 157.28
+    },
+    {
+        "country_name": "Greece",
+        "related": "Inflation Rate MoM",
+        "last": 0.0,
+        "previous": -1.2
+    },
+    {
+        "country_name": "Greece",
+        "related": "Food Inflation",
+        "last": 15.0,
+        "previous": 14.8
+    },
+    {
+        "country_name": "Greece",
+        "related": "CPI Transportation",
+        "last": 123.58,
+        "previous": 122.49
+    },
+    {
+        "country_name": "Greece",
+        "related": "CPI Housing Utilities",
+        "last": 122.72,
+        "previous": 123.34
+    },
+    {
+        "country_name": "Algeria",
+        "related": "Inflation Rate",
+        "last": 8.4,
+        "previous": 8.7
+    },
+    {
+        "country_name": "Algeria",
+        "related": "Producer Prices",
+        "last": 1629.7,
+        "previous": 1598.2
+    },
+    {
+        "country_name": "Algeria",
+        "related": "Import Prices",
+        "last": 131.3,
+        "previous": 129.0
+    },
+    {
+        "country_name": "Algeria",
+        "related": "Food Inflation",
+        "last": 10.6,
+        "previous": 11.3
+    },
+    {
+        "country_name": "Algeria",
+        "related": "Inflation Rate MoM",
+        "last": 1.3,
+        "previous": 0.7
+    },
+    {
+        "country_name": "Algeria",
+        "related": "CPI Transportation",
+        "last": 223.74,
+        "previous": 223.42
+    },
+    {
+        "country_name": "Algeria",
+        "related": "CPI Housing Utilities",
+        "last": 172.1,
+        "previous": 172.1
+    },
+    {
+        "country_name": "Algeria",
+        "related": "Consumer Price Index CPI",
+        "last": 254.6,
+        "previous": 252.8
+    },
+    {
+        "country_name": "Algeria",
+        "related": "Producer Prices Change",
+        "last": 9.8,
+        "previous": 8.8
+    },
+    {
+        "country_name": "Algeria",
+        "related": "Export Prices",
+        "last": 54.7,
+        "previous": 82.7
+    },
+    {
+        "country_name": "Jamaica",
+        "related": "Inflation Rate",
+        "last": 10.3,
+        "previous": 9.9
+    },
+    {
+        "country_name": "Jamaica",
+        "related": "Inflation Rate MoM",
+        "last": 0.5,
+        "previous": 1.5
+    },
+    {
+        "country_name": "Jamaica",
+        "related": "Food Inflation",
+        "last": 14.24,
+        "previous": 10.05
+    },
+    {
+        "country_name": "Jamaica",
+        "related": "CPI Transportation",
+        "last": 119.4,
+        "previous": 119.6
+    },
+    {
+        "country_name": "Jamaica",
+        "related": "CPI Housing Utilities",
+        "last": 122.2,
+        "previous": 125.3
+    },
+    {
+        "country_name": "Jamaica",
+        "related": "Consumer Price Index CPI",
+        "last": 128.0,
+        "previous": 127.4
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "Inflation Rate",
+        "last": 8.3,
+        "previous": 8.1
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "Core Inflation Rate",
+        "last": 7.0,
+        "previous": 7.3
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "Core Consumer Prices",
+        "last": 123.3,
+        "previous": 122.9
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "Food Inflation",
+        "last": 11.0,
+        "previous": 10.9
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "CPI Transportation",
+        "last": 149.7,
+        "previous": 147.0
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "CPI Housing Utilities",
+        "last": 110.9,
+        "previous": 111.0
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "Consumer Price Index CPI",
+        "last": 125.4,
+        "previous": 124.5
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "Producer Prices",
+        "last": 160.2,
+        "previous": 158.8
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "Inflation Rate MoM",
+        "last": 0.7,
+        "previous": 0.4
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "Producer Prices Change",
+        "last": 7.16,
+        "previous": 9.5
+    },
+    {
+        "country_name": "Paraguay",
+        "related": "GDP Deflator",
+        "last": 52259054.66,
+        "previous": 51339086.04
+    },
+    {
+        "country_name": "Uruguay",
+        "related": "Inflation Rate",
+        "last": 8.46,
+        "previous": 9.05
+    },
+    {
+        "country_name": "Uruguay",
+        "related": "Consumer Price Index CPI",
+        "last": 99.72,
+        "previous": 100.0
+    },
+    {
+        "country_name": "Uruguay",
+        "related": "Producer Prices Change",
+        "last": -0.94,
+        "previous": -0.13
+    },
+    {
+        "country_name": "Uruguay",
+        "related": "Producer Prices",
+        "last": 275.38,
+        "previous": 285.26
+    },
+    {
+        "country_name": "Uruguay",
+        "related": "Inflation Rate MoM",
+        "last": -0.28,
+        "previous": 0.21
+    },
+    {
+        "country_name": "Uruguay",
+        "related": "CPI Transportation",
+        "last": 98.87,
+        "previous": 246.2
+    },
+    {
+        "country_name": "Uruguay",
+        "related": "CPI Housing Utilities",
+        "last": 100.1,
+        "previous": 256.27
+    },
+    {
+        "country_name": "Peru",
+        "related": "Inflation Rate",
+        "last": 8.45,
+        "previous": 8.28
+    },
+    {
+        "country_name": "Peru",
+        "related": "Consumer Price Index CPI",
+        "last": 107.6,
+        "previous": 107.05
+    },
+    {
+        "country_name": "Peru",
+        "related": "Core Consumer Prices",
+        "last": 105.9,
+        "previous": 105.44
+    },
+    {
+        "country_name": "Peru",
+        "related": "Core Inflation Rate",
+        "last": 6.48,
+        "previous": 6.37
+    },
+    {
+        "country_name": "Peru",
+        "related": "Producer Prices",
+        "last": 135.75,
+        "previous": 135.82
+    },
+    {
+        "country_name": "Peru",
+        "related": "CPI Transportation",
+        "last": 108.12,
+        "previous": 107.76
+    },
+    {
+        "country_name": "Peru",
+        "related": "CPI Housing Utilities",
+        "last": 104.58,
+        "previous": 104.02
+    },
+    {
+        "country_name": "Peru",
+        "related": "Inflation Rate MoM",
+        "last": 0.52,
+        "previous": 0.35
+    },
+    {
+        "country_name": "Nepal",
+        "related": "Inflation Rate",
+        "last": 8.08,
+        "previous": 8.5
+    },
+    {
+        "country_name": "Nepal",
+        "related": "Consumer Price Index CPI",
+        "last": 158.38,
+        "previous": 155.6
+    },
+    {
+        "country_name": "Nepal",
+        "related": "Food Inflation",
+        "last": 7.38,
+        "previous": 8.05
+    },
+    {
+        "country_name": "Nepal",
+        "related": "Export Prices",
+        "last": 116.4,
+        "previous": 117.0
+    },
+    {
+        "country_name": "Nepal",
+        "related": "Import Prices",
+        "last": 121.6,
+        "previous": 122.2
+    },
+    {
+        "country_name": "Morocco",
+        "related": "Inflation Rate",
+        "last": 8.3,
+        "previous": 8.1
+    },
+    {
+        "country_name": "Morocco",
+        "related": "Consumer Price Index CPI",
+        "last": 114.2,
+        "previous": 113.7
+    },
+    {
+        "country_name": "Morocco",
+        "related": "Producer Prices",
+        "last": 118.4,
+        "previous": 118.5
+    },
+    {
+        "country_name": "Morocco",
+        "related": "Food Inflation",
+        "last": 14.9,
+        "previous": 14.3
+    },
+    {
+        "country_name": "Morocco",
+        "related": "Inflation Rate MoM",
+        "last": 0.4,
+        "previous": 0.4
+    },
+    {
+        "country_name": "Morocco",
+        "related": "CPI Transportation",
+        "last": 125.2,
+        "previous": 122.2
+    },
+    {
+        "country_name": "Morocco",
+        "related": "CPI Housing Utilities",
+        "last": 104.1,
+        "previous": 104.0
+    },
+    {
+        "country_name": "Morocco",
+        "related": "Core Inflation Rate",
+        "last": 7.6,
+        "previous": 7.1
+    },
+    {
+        "country_name": "Chad",
+        "related": "Inflation Rate",
+        "last": 8.3,
+        "previous": 7.2
+    },
+    {
+        "country_name": "Chad",
+        "related": "Food Inflation",
+        "last": 16.5,
+        "previous": 12.4
+    },
+    {
+        "country_name": "Cape Verde",
+        "related": "Inflation Rate",
+        "last": 8.0,
+        "previous": 8.2
+    },
+    {
+        "country_name": "Cape Verde",
+        "related": "Food Inflation",
+        "last": 17.2,
+        "previous": 17.8
+    },
+    {
+        "country_name": "Cape Verde",
+        "related": "CPI Transportation",
+        "last": 121.98,
+        "previous": 120.86
+    },
+    {
+        "country_name": "Cape Verde",
+        "related": "CPI Housing Utilities",
+        "last": 107.52,
+        "previous": 107.27
+    },
+    {
+        "country_name": "Cape Verde",
+        "related": "Core Inflation Rate",
+        "last": 7.1,
+        "previous": 7.2
+    },
+    {
+        "country_name": "Cape Verde",
+        "related": "Core Consumer Prices",
+        "last": 113.6,
+        "previous": 113.0
+    },
+    {
+        "country_name": "Cape Verde",
+        "related": "Consumer Price Index CPI",
+        "last": 114.93,
+        "previous": 114.17
+    },
+    {
+        "country_name": "Cape Verde",
+        "related": "Inflation Rate MoM",
+        "last": 0.7,
+        "previous": 0.4
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Inflation Rate",
+        "last": 7.8,
+        "previous": 8.41
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Inflation Rate MoM",
+        "last": 0.58,
+        "previous": 0.57
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Consumer Price Index CPI",
+        "last": 126.0,
+        "previous": 125.28
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Core Inflation Rate",
+        "last": 8.51,
+        "previous": 8.42
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Core Consumer Prices",
+        "last": 124.57,
+        "previous": 124.01
+    },
+    {
+        "country_name": "Mexico",
+        "related": "GDP Deflator",
+        "last": 155.8,
+        "previous": 159.05
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Producer Prices",
+        "last": 119.67,
+        "previous": 119.87
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Mid-month Inflation Rate YoY",
+        "last": 7.77,
+        "previous": 8.14
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Mid-month Inflation Rate MoM",
+        "last": 0.39,
+        "previous": 0.56
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Mid-month Core Inflation Rate YoY",
+        "last": 8.35,
+        "previous": 8.66
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Mid-month Core Inflation Rate MoM",
+        "last": 0.57,
+        "previous": 0.34
+    },
+    {
+        "country_name": "Mexico",
+        "related": "CPI Transportation",
+        "last": 120.87,
+        "previous": 120.65
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Producer Prices Change",
+        "last": 5.68,
+        "previous": 7.1
+    },
+    {
+        "country_name": "Mexico",
+        "related": "Food Inflation",
+        "last": 12.41,
+        "previous": 14.54
+    },
+    {
+        "country_name": "Mexico",
+        "related": "CPI Housing Utilities",
+        "last": 116.94,
+        "previous": 114.85
+    },
+    {
+        "country_name": "Cameroon",
+        "related": "Inflation Rate",
+        "last": 7.69,
+        "previous": 7.12
+    },
+    {
+        "country_name": "Cameroon",
+        "related": "Food Inflation",
+        "last": 15.5,
+        "previous": 14.5
+    },
+    {
+        "country_name": "Cameroon",
+        "related": "CPI Transportation",
+        "last": 131.8,
+        "previous": 131.9
+    },
+    {
+        "country_name": "Cameroon",
+        "related": "CPI Housing Utilities",
+        "last": 124.5,
+        "previous": 124.3
+    },
+    {
+        "country_name": "Cameroon",
+        "related": "Consumer Price Index CPI",
+        "last": 130.2,
+        "previous": 129.4
+    },
+    {
+        "country_name": "Philippines",
+        "related": "Inflation Rate",
+        "last": 8.0,
+        "previous": 7.7
+    },
+    {
+        "country_name": "Philippines",
+        "related": "Inflation Rate MoM",
+        "last": 0.9,
+        "previous": 0.9
+    },
+    {
+        "country_name": "Philippines",
+        "related": "Core Inflation Rate",
+        "last": 6.5,
+        "previous": 5.9
+    },
+    {
+        "country_name": "Albania",
+        "related": "Inflation Rate",
+        "last": 7.9,
+        "previous": 8.3
+    },
+    {
+        "country_name": "Albania",
+        "related": "Inflation Rate MoM",
+        "last": -0.3,
+        "previous": 0.4
+    },
+    {
+        "country_name": "Albania",
+        "related": "Consumer Price Index CPI",
+        "last": 110.92,
+        "previous": 111.21
+    },
+    {
+        "country_name": "Albania",
+        "related": "Producer Prices",
+        "last": 124.7,
+        "previous": 122.1
+    },
+    {
+        "country_name": "Albania",
+        "related": "Producer Prices Change",
+        "last": 20.9,
+        "previous": 20.5
+    },
+    {
+        "country_name": "Albania",
+        "related": "Harmonised Consumer Prices",
+        "last": 111.2,
+        "previous": 111.3
+    },
+    {
+        "country_name": "Albania",
+        "related": "Food Inflation",
+        "last": 15.3,
+        "previous": 15.2
+    },
+    {
+        "country_name": "Albania",
+        "related": "CPI Transportation",
+        "last": 119.0,
+        "previous": 125.0
+    },
+    {
+        "country_name": "Albania",
+        "related": "CPI Housing Utilities",
+        "last": 104.8,
+        "previous": 105.0
+    },
+    {
+        "country_name": "Costa Rica",
+        "related": "Inflation Rate",
+        "last": 8.25,
+        "previous": 8.99
+    },
+    {
+        "country_name": "Costa Rica",
+        "related": "Inflation Rate MoM",
+        "last": 0.14,
+        "previous": -0.76
+    },
+    {
+        "country_name": "Costa Rica",
+        "related": "Food Inflation",
+        "last": 19.95,
+        "previous": 20.75
+    },
+    {
+        "country_name": "Costa Rica",
+        "related": "CPI Transportation",
+        "last": 125.8,
+        "previous": 126.22
+    },
+    {
+        "country_name": "Costa Rica",
+        "related": "CPI Housing Utilities",
+        "last": 100.15,
+        "previous": 100.25
+    },
+    {
+        "country_name": "El Salvador",
+        "related": "Inflation Rate",
+        "last": 7.32,
+        "previous": 7.47
+    },
+    {
+        "country_name": "El Salvador",
+        "related": "Inflation Rate MoM",
+        "last": 0.69,
+        "previous": 0.71
+    },
+    {
+        "country_name": "El Salvador",
+        "related": "Food Inflation",
+        "last": 12.06,
+        "previous": 12.82
+    },
+    {
+        "country_name": "El Salvador",
+        "related": "CPI Transportation",
+        "last": 122.51,
+        "previous": 120.26
+    },
+    {
+        "country_name": "El Salvador",
+        "related": "CPI Housing Utilities",
+        "last": 143.64,
+        "previous": 143.2
+    },
+    {
+        "country_name": "El Salvador",
+        "related": "Core Inflation Rate",
+        "last": 5.01,
+        "previous": 5.25
+    },
+    {
+        "country_name": "El Salvador",
+        "related": "Core Consumer Prices",
+        "last": 115.74,
+        "previous": 115.41
+    },
+    {
+        "country_name": "South Africa",
+        "related": "Inflation Rate",
+        "last": 7.4,
+        "previous": 7.6
+    },
+    {
+        "country_name": "South Africa",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 0.4
+    },
+    {
+        "country_name": "South Africa",
+        "related": "Consumer Price Index CPI",
+        "last": 106.8,
+        "previous": 106.5
+    },
+    {
+        "country_name": "South Africa",
+        "related": "Core Consumer Prices",
+        "last": 104.7,
+        "previous": 104.6
+    },
+    {
+        "country_name": "South Africa",
+        "related": "Core Inflation Rate",
+        "last": 5.0,
+        "previous": 5.0
+    },
+    {
+        "country_name": "South Africa",
+        "related": "Producer Prices",
+        "last": 125.8,
+        "previous": 125.2
+    },
+    {
+        "country_name": "South Africa",
+        "related": "Producer Prices Change",
+        "last": 15.0,
+        "previous": 16.0
+    },
+    {
+        "country_name": "South Africa",
+        "related": "Food Inflation",
+        "last": 12.5,
+        "previous": 12.0
+    },
+    {
+        "country_name": "South Africa",
+        "related": "CPI Transportation",
+        "last": 113.1,
+        "previous": 111.7
+    },
+    {
+        "country_name": "South Africa",
+        "related": "CPI Housing Utilities",
+        "last": 103.8,
+        "previous": 103.8
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "Inflation Rate",
+        "last": 7.58,
+        "previous": 8.24
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "Consumer Price Index CPI",
+        "last": 120.97,
+        "previous": 120.41
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "Food Inflation",
+        "last": 9.8,
+        "previous": 9.9
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "CPI Transportation",
+        "last": 130.64,
+        "previous": 130.22
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "CPI Housing Utilities",
+        "last": 120.8,
+        "previous": 120.62
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "Core Inflation Rate",
+        "last": 6.59,
+        "previous": 6.86
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "Core Consumer Prices",
+        "last": 116.56,
+        "previous": 116.17
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "Inflation Rate MoM",
+        "last": 0.47,
+        "previous": 0.28
+    },
+    {
+        "country_name": "Dominican Republic",
+        "related": "GDP Deflator",
+        "last": 216.1,
+        "previous": 209.7
+    },
+    {
+        "country_name": "Australia",
+        "related": "Inflation Rate",
+        "last": 7.3,
+        "previous": 6.1
+    },
+    {
+        "country_name": "Australia",
+        "related": "Inflation Rate MoM",
+        "last": 1.8,
+        "previous": 1.8
+    },
+    {
+        "country_name": "Australia",
+        "related": "Consumer Price Index CPI",
+        "last": 128.4,
+        "previous": 126.1
+    },
+    {
+        "country_name": "Australia",
+        "related": "Core Inflation Rate",
+        "last": 6.1,
+        "previous": 4.9
+    },
+    {
+        "country_name": "Australia",
+        "related": "Core Consumer Prices",
+        "last": 126.95,
+        "previous": 124.66
+    },
+    {
+        "country_name": "Australia",
+        "related": "GDP Deflator",
+        "last": 111.62,
+        "previous": 111.35
+    },
+    {
+        "country_name": "Australia",
+        "related": "Producer Prices",
+        "last": 122.3,
+        "previous": 120.0
+    },
+    {
+        "country_name": "Australia",
+        "related": "Producer Prices Change",
+        "last": 6.4,
+        "previous": 5.6
+    },
+    {
+        "country_name": "Australia",
+        "related": "Export Prices",
+        "last": 183.5,
+        "previous": 190.4
+    },
+    {
+        "country_name": "Australia",
+        "related": "Import Prices",
+        "last": 135.9,
+        "previous": 132.0
+    },
+    {
+        "country_name": "Australia",
+        "related": "Food Inflation",
+        "last": 9.0,
+        "previous": 5.9
+    },
+    {
+        "country_name": "Australia",
+        "related": "CPI Transportation",
+        "last": 123.8,
+        "previous": 124.3
+    },
+    {
+        "country_name": "Australia",
+        "related": "CPI Housing Utilities",
+        "last": 136.4,
+        "previous": 132.2
+    },
+    {
+        "country_name": "United States",
+        "related": "Inflation Rate",
+        "last": 7.1,
+        "previous": 7.7
+    },
+    {
+        "country_name": "United States",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": 0.4
+    },
+    {
+        "country_name": "United States",
+        "related": "Consumer Price Index CPI",
+        "last": 297.71,
+        "previous": 298.01
+    },
+    {
+        "country_name": "United States",
+        "related": "Core Inflation Rate",
+        "last": 6.0,
+        "previous": 6.3
+    },
+    {
+        "country_name": "United States",
+        "related": "Core Consumer Prices",
+        "last": 300.07,
+        "previous": 299.47
+    },
+    {
+        "country_name": "United States",
+        "related": "Producer Prices Change",
+        "last": 7.4,
+        "previous": 8.1
+    },
+    {
+        "country_name": "United States",
+        "related": "Export Prices",
+        "last": 155.8,
+        "previous": 156.2
+    },
+    {
+        "country_name": "United States",
+        "related": "Import Prices",
+        "last": 141.6,
+        "previous": 142.5
+    },
+    {
+        "country_name": "United States",
+        "related": "Food Inflation",
+        "last": 10.6,
+        "previous": 10.9
+    },
+    {
+        "country_name": "United States",
+        "related": "Energy Inflation",
+        "last": 13.1,
+        "previous": 17.6
+    },
+    {
+        "country_name": "United States",
+        "related": "Rent Inflation",
+        "last": 7.1,
+        "previous": 6.9
+    },
+    {
+        "country_name": "United States",
+        "related": "Services Inflation",
+        "last": 7.2,
+        "previous": 7.2
+    },
+    {
+        "country_name": "United States",
+        "related": "Pce Price Index",
+        "last": 124.75,
+        "previous": 124.62
+    },
+    {
+        "country_name": "United States",
+        "related": "Inflation Expectations",
+        "last": 5.2,
+        "previous": 5.9
+    },
+    {
+        "country_name": "United States",
+        "related": "CPI Trimmed-Mean",
+        "last": 6.66,
+        "previous": 6.95
+    },
+    {
+        "country_name": "United States",
+        "related": "CPI Median",
+        "last": 6.98,
+        "previous": 7.0
+    },
+    {
+        "country_name": "Guinea Bissau",
+        "related": "Inflation Rate",
+        "last": 7.1,
+        "previous": 8.4
+    },
+    {
+        "country_name": "Guinea Bissau",
+        "related": "CPI Transportation",
+        "last": 117.3,
+        "previous": 117.1
+    },
+    {
+        "country_name": "Guinea Bissau",
+        "related": "CPI Housing Utilities",
+        "last": 148.6,
+        "previous": 142.2
+    },
+    {
+        "country_name": "Guinea Bissau",
+        "related": "Consumer Price Index CPI",
+        "last": 114.6,
+        "previous": 112.8
+    },
+    {
+        "country_name": "Liberia",
+        "related": "Inflation Rate",
+        "last": 7.06,
+        "previous": 6.48
+    },
+    {
+        "country_name": "Liberia",
+        "related": "Food Inflation",
+        "last": -3.85,
+        "previous": -0.98
+    },
+    {
+        "country_name": "Liberia",
+        "related": "Inflation Rate MoM",
+        "last": 1.71,
+        "previous": 6.28
+    },
+    {
+        "country_name": "Liberia",
+        "related": "CPI Transportation",
+        "last": 1263.93,
+        "previous": 1263.17
+    },
+    {
+        "country_name": "Liberia",
+        "related": "CPI Housing Utilities",
+        "last": 295.36,
+        "previous": 266.29
+    },
+    {
+        "country_name": "Aruba",
+        "related": "Inflation Rate",
+        "last": 7.0,
+        "previous": 7.0
+    },
+    {
+        "country_name": "Aruba",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": -0.24
+    },
+    {
+        "country_name": "Aruba",
+        "related": "Food Inflation",
+        "last": 11.53,
+        "previous": 12.12
+    },
+    {
+        "country_name": "Aruba",
+        "related": "CPI Transportation",
+        "last": 117.1,
+        "previous": 119.06
+    },
+    {
+        "country_name": "Aruba",
+        "related": "CPI Housing Utilities",
+        "last": 109.68,
+        "previous": 109.92
+    },
+    {
+        "country_name": "Aruba",
+        "related": "Consumer Price Index CPI",
+        "last": 106.3,
+        "previous": 106.2
+    },
+    {
+        "country_name": "Mali",
+        "related": "Inflation Rate",
+        "last": 8.0,
+        "previous": 10.2
+    },
+    {
+        "country_name": "Mali",
+        "related": "Food Inflation",
+        "last": 14.4,
+        "previous": 16.3
+    },
+    {
+        "country_name": "Mali",
+        "related": "Inflation Rate MoM",
+        "last": -1.5,
+        "previous": 0.0
+    },
+    {
+        "country_name": "Mali",
+        "related": "CPI Transportation",
+        "last": 101.4,
+        "previous": 107.6
+    },
+    {
+        "country_name": "Mali",
+        "related": "CPI Housing Utilities",
+        "last": 112.7,
+        "previous": 111.3
+    },
+    {
+        "country_name": "Mali",
+        "related": "Core Inflation Rate",
+        "last": 4.5,
+        "previous": 5.4
+    },
+    {
+        "country_name": "Mali",
+        "related": "Core Consumer Prices",
+        "last": 111.8,
+        "previous": 112.6
+    },
+    {
+        "country_name": "Mali",
+        "related": "Consumer Price Index CPI",
+        "last": 118.1,
+        "previous": 120.0
+    },
+    {
+        "country_name": "Canada",
+        "related": "Inflation Rate",
+        "last": 6.8,
+        "previous": 6.9
+    },
+    {
+        "country_name": "Canada",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": 0.7
+    },
+    {
+        "country_name": "Canada",
+        "related": "Consumer Price Index CPI",
+        "last": 154.0,
+        "previous": 153.8
+    },
+    {
+        "country_name": "Canada",
+        "related": "Core Inflation Rate",
+        "last": 5.8,
+        "previous": 5.8
+    },
+    {
+        "country_name": "Canada",
+        "related": "Core Consumer Prices",
+        "last": 149.7,
+        "previous": 149.7
+    },
+    {
+        "country_name": "Canada",
+        "related": "GDP Deflator",
+        "last": 128.4,
+        "previous": 130.2
+    },
+    {
+        "country_name": "Canada",
+        "related": "Producer Prices",
+        "last": 129.0,
+        "previous": 129.5
+    },
+    {
+        "country_name": "Canada",
+        "related": "Producer Prices Change",
+        "last": 9.7,
+        "previous": 10.1
+    },
+    {
+        "country_name": "Canada",
+        "related": "Export Prices",
+        "last": 151.5,
+        "previous": 149.1
+    },
+    {
+        "country_name": "Canada",
+        "related": "Import Prices",
+        "last": 152.1,
+        "previous": 147.7
+    },
+    {
+        "country_name": "Canada",
+        "related": "Food Inflation",
+        "last": 10.3,
+        "previous": 10.1
+    },
+    {
+        "country_name": "Canada",
+        "related": "Wholesale Prices",
+        "last": 144.0,
+        "previous": 145.1
+    },
+    {
+        "country_name": "Canada",
+        "related": "CPI Transportation",
+        "last": 168.6,
+        "previous": 170.1
+    },
+    {
+        "country_name": "Canada",
+        "related": "CPI Housing Utilities",
+        "last": 167.2,
+        "previous": 166.2
+    },
+    {
+        "country_name": "Namibia",
+        "related": "Inflation Rate",
+        "last": 7.0,
+        "previous": 7.1
+    },
+    {
+        "country_name": "Namibia",
+        "related": "Consumer Price Index CPI",
+        "last": 157.99,
+        "previous": 157.14
+    },
+    {
+        "country_name": "Namibia",
+        "related": "Inflation Rate MoM",
+        "last": 0.5,
+        "previous": 0.2
+    },
+    {
+        "country_name": "Namibia",
+        "related": "CPI Transportation",
+        "last": 179.79,
+        "previous": 176.3
+    },
+    {
+        "country_name": "Namibia",
+        "related": "CPI Housing Utilities",
+        "last": 138.19,
+        "previous": 138.08
+    },
+    {
+        "country_name": "Namibia",
+        "related": "Import Prices",
+        "last": 112.2,
+        "previous": 108.0
+    },
+    {
+        "country_name": "Namibia",
+        "related": "GDP Deflator",
+        "last": 132.38,
+        "previous": 131.9
+    },
+    {
+        "country_name": "Namibia",
+        "related": "Export Prices",
+        "last": 128.9,
+        "previous": 126.9
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Inflation Rate",
+        "last": 6.7,
+        "previous": 6.7
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Inflation Rate MoM",
+        "last": 1.0,
+        "previous": -0.4
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Consumer Price Index CPI",
+        "last": 110.96,
+        "previous": 109.89
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Core Inflation Rate",
+        "last": 5.1,
+        "previous": 5.1
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Core Consumer Prices",
+        "last": 111.58,
+        "previous": 110.79
+    },
+    {
+        "country_name": "Singapore",
+        "related": "GDP Deflator",
+        "last": 114.8,
+        "previous": 114.57
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Producer Prices",
+        "last": 118.98,
+        "previous": 119.45
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Export Prices",
+        "last": 114.0,
+        "previous": 115.8
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Import Prices",
+        "last": 112.9,
+        "previous": 114.9
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Food Inflation",
+        "last": 7.3,
+        "previous": 7.1
+    },
+    {
+        "country_name": "Singapore",
+        "related": "Producer Prices Change",
+        "last": 6.1,
+        "previous": 8.5
+    },
+    {
+        "country_name": "Singapore",
+        "related": "CPI Transportation",
+        "last": 131.17,
+        "previous": 128.46
+    },
+    {
+        "country_name": "Singapore",
+        "related": "CPI Housing Utilities",
+        "last": 109.03,
+        "previous": 107.17
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "Inflation Rate",
+        "last": 7.2,
+        "previous": 7.3
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "Inflation Rate MoM",
+        "last": 2.2,
+        "previous": 1.7
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "Consumer Price Index CPI",
+        "last": 1186.0,
+        "previous": 1161.0
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "Core Consumer Prices",
+        "last": 1147.0,
+        "previous": 1132.0
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "GDP Deflator",
+        "last": 1363.0,
+        "previous": 1348.0
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "Producer Prices",
+        "last": 1358.0,
+        "previous": 1336.0
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "Export Prices",
+        "last": 1576.0,
+        "previous": 1529.0
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "Import Prices",
+        "last": 1090.0,
+        "previous": 1025.0
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "Food Inflation",
+        "last": 10.7,
+        "previous": 10.1
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "CPI Transportation",
+        "last": 1248.0,
+        "previous": 1227.0
+    },
+    {
+        "country_name": "New Zealand",
+        "related": "CPI Housing Utilities",
+        "last": 1269.0,
+        "previous": 1240.0
+    },
+    {
+        "country_name": "East Timor",
+        "related": "Inflation Rate",
+        "last": 6.7,
+        "previous": 7.3
+    },
+    {
+        "country_name": "East Timor",
+        "related": "Consumer Price Index CPI",
+        "last": 114.0,
+        "previous": 114.1
+    },
+    {
+        "country_name": "East Timor",
+        "related": "Food Inflation",
+        "last": 7.2,
+        "previous": 7.6
+    },
+    {
+        "country_name": "East Timor",
+        "related": "Inflation Rate MoM",
+        "last": -0.1,
+        "previous": 0.2
+    },
+    {
+        "country_name": "East Timor",
+        "related": "CPI Transportation",
+        "last": 115.5,
+        "previous": 116.0
+    },
+    {
+        "country_name": "East Timor",
+        "related": "CPI Housing Utilities",
+        "last": 101.9,
+        "previous": 102.0
+    },
+    {
+        "country_name": "East Timor",
+        "related": "Core Inflation Rate",
+        "last": 2.6,
+        "previous": 2.4
+    },
+    {
+        "country_name": "East Timor",
+        "related": "Core Consumer Prices",
+        "last": 106.6,
+        "previous": 106.8
+    },
+    {
+        "country_name": "Spain",
+        "related": "Inflation Rate",
+        "last": 6.8,
+        "previous": 7.3
+    },
+    {
+        "country_name": "Belize",
+        "related": "Inflation Rate",
+        "last": 6.7,
+        "previous": 7.1
+    },
+    {
+        "country_name": "Belize",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": -0.2
+    },
+    {
+        "country_name": "Belize",
+        "related": "Food Inflation",
+        "last": 9.5,
+        "previous": 9.4
+    },
+    {
+        "country_name": "Belize",
+        "related": "CPI Transportation",
+        "last": 138.46,
+        "previous": 138.64
+    },
+    {
+        "country_name": "Belize",
+        "related": "CPI Housing Utilities",
+        "last": 103.82,
+        "previous": 104.1
+    },
+    {
+        "country_name": "Spain",
+        "related": "Inflation Rate MoM",
+        "last": -0.1,
+        "previous": 0.3
+    },
+    {
+        "country_name": "Spain",
+        "related": "Harmonised Consumer Prices",
+        "last": 117.07,
+        "previous": 117.61
+    },
+    {
+        "country_name": "Spain",
+        "related": "Consumer Price Index CPI",
+        "last": 109.7,
+        "previous": 109.87
+    },
+    {
+        "country_name": "Spain",
+        "related": "Core Inflation Rate",
+        "last": 6.3,
+        "previous": 6.2
+    },
+    {
+        "country_name": "Spain",
+        "related": "Core Consumer Prices",
+        "last": 107.91,
+        "previous": 107.13
+    },
+    {
+        "country_name": "Spain",
+        "related": "Producer Prices",
+        "last": 159.4,
+        "previous": 163.0
+    },
+    {
+        "country_name": "Spain",
+        "related": "Producer Prices Change",
+        "last": 20.7,
+        "previous": 25.0
+    },
+    {
+        "country_name": "Spain",
+        "related": "Food Inflation",
+        "last": 15.33,
+        "previous": 15.4
+    },
+    {
+        "country_name": "Spain",
+        "related": "CPI Transportation",
+        "last": 112.54,
+        "previous": 112.59
+    },
+    {
+        "country_name": "Spain",
+        "related": "CPI Housing Utilities",
+        "last": 106.89,
+        "previous": 110.79
+    },
+    {
+        "country_name": "Belize",
+        "related": "Consumer Price Index CPI",
+        "last": 112.3,
+        "previous": 112.02
+    },
+    {
+        "country_name": "Malta",
+        "related": "Inflation Rate",
+        "last": 7.2,
+        "previous": 7.4
+    },
+    {
+        "country_name": "Malta",
+        "related": "Inflation Rate MoM",
+        "last": -2.6,
+        "previous": -0.6
+    },
+    {
+        "country_name": "Malta",
+        "related": "Consumer Price Index CPI",
+        "last": 113.94,
+        "previous": 113.94
+    },
+    {
+        "country_name": "Malta",
+        "related": "Harmonised Consumer Prices",
+        "last": 114.06,
+        "previous": 117.1
+    },
+    {
+        "country_name": "Malta",
+        "related": "GDP Deflator",
+        "last": 83.01,
+        "previous": 84.58
+    },
+    {
+        "country_name": "Malta",
+        "related": "Producer Prices",
+        "last": 121.11,
+        "previous": 120.32
+    },
+    {
+        "country_name": "Malta",
+        "related": "Producer Prices Change",
+        "last": 5.7,
+        "previous": 5.47
+    },
+    {
+        "country_name": "Malta",
+        "related": "CPI Transportation",
+        "last": 107.87,
+        "previous": 108.74
+    },
+    {
+        "country_name": "Malta",
+        "related": "CPI Housing Utilities",
+        "last": 120.89,
+        "previous": 120.53
+    },
+    {
+        "country_name": "Puerto Rico",
+        "related": "Inflation Rate",
+        "last": 6.6,
+        "previous": 6.1
+    },
+    {
+        "country_name": "Puerto Rico",
+        "related": "Inflation Rate MoM",
+        "last": 0.8,
+        "previous": -0.1
+    },
+    {
+        "country_name": "Puerto Rico",
+        "related": "Food Inflation",
+        "last": 9.9,
+        "previous": 10.2
+    },
+    {
+        "country_name": "Puerto Rico",
+        "related": "CPI Transportation",
+        "last": 127.08,
+        "previous": 125.79
+    },
+    {
+        "country_name": "Puerto Rico",
+        "related": "CPI Housing Utilities",
+        "last": 121.05,
+        "previous": 120.84
+    },
+    {
+        "country_name": "Puerto Rico",
+        "related": "Consumer Price Index CPI",
+        "last": 131.35,
+        "previous": 130.37
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "related": "Inflation Rate",
+        "last": 6.77,
+        "previous": 3.43
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "related": "Food Inflation",
+        "last": 8.98,
+        "previous": 5.7
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "related": "Inflation Rate MoM",
+        "last": 3.42,
+        "previous": 0.02
+    },
+    {
+        "country_name": "Bahamas",
+        "related": "Inflation Rate",
+        "last": 6.5,
+        "previous": 6.3
+    },
+    {
+        "country_name": "Bahamas",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 0.1
+    },
+    {
+        "country_name": "Bahamas",
+        "related": "Consumer Price Index CPI",
+        "last": 119.7,
+        "previous": 119.3
+    },
+    {
+        "country_name": "Bahamas",
+        "related": "Food Inflation",
+        "last": 7.96,
+        "previous": 6.83
+    },
+    {
+        "country_name": "Guyana",
+        "related": "Inflation Rate",
+        "last": 6.49,
+        "previous": 6.49
+    },
+    {
+        "country_name": "Guyana",
+        "related": "Consumer Price Index CPI",
+        "last": 135.78,
+        "previous": 136.64
+    },
+    {
+        "country_name": "Guyana",
+        "related": "Inflation Rate MoM",
+        "last": -0.6,
+        "previous": -0.4
+    },
+    {
+        "country_name": "Guyana",
+        "related": "Food Inflation",
+        "last": 12.3,
+        "previous": 11.2
+    },
+    {
+        "country_name": "Norway",
+        "related": "Inflation Rate",
+        "last": 6.5,
+        "previous": 7.5
+    },
+    {
+        "country_name": "Norway",
+        "related": "Harmonised Consumer Prices",
+        "last": 128.2,
+        "previous": 128.4
+    },
+    {
+        "country_name": "Norway",
+        "related": "Consumer Price Index CPI",
+        "last": 125.8,
+        "previous": 126.0
+    },
+    {
+        "country_name": "Norway",
+        "related": "Core Inflation Rate",
+        "last": 5.7,
+        "previous": 5.9
+    },
+    {
+        "country_name": "Norway",
+        "related": "Core Consumer Prices",
+        "last": 120.5,
+        "previous": 120.6
+    },
+    {
+        "country_name": "Norway",
+        "related": "GDP Deflator",
+        "last": 167.14,
+        "previous": 150.92
+    },
+    {
+        "country_name": "Norway",
+        "related": "Producer Prices",
+        "last": 203.9,
+        "previous": 193.8
+    },
+    {
+        "country_name": "Norway",
+        "related": "Producer Prices Change",
+        "last": 22.3,
+        "previous": 19.8
+    },
+    {
+        "country_name": "Norway",
+        "related": "Export Prices",
+        "last": 200.4,
+        "previous": 202.1
+    },
+    {
+        "country_name": "Norway",
+        "related": "Import Prices",
+        "last": 198.9,
+        "previous": 188.8
+    },
+    {
+        "country_name": "Norway",
+        "related": "Food Inflation",
+        "last": 12.69,
+        "previous": 13.06
+    },
+    {
+        "country_name": "Norway",
+        "related": "CPI Transportation",
+        "last": 129.3,
+        "previous": 129.7
+    },
+    {
+        "country_name": "Norway",
+        "related": "CPI Housing Utilities",
+        "last": 135.0,
+        "previous": 134.7
+    },
+    {
+        "country_name": "Norway",
+        "related": "Inflation Rate MoM",
+        "last": -0.2,
+        "previous": 0.3
+    },
+    {
+        "country_name": "Barbados",
+        "related": "Inflation Rate",
+        "last": 6.5,
+        "previous": 8.3
+    },
+    {
+        "country_name": "France",
+        "related": "Inflation Rate",
+        "last": 6.2,
+        "previous": 6.2
+    },
+    {
+        "country_name": "France",
+        "related": "Inflation Rate MoM",
+        "last": 0.3,
+        "previous": 1.0
+    },
+    {
+        "country_name": "France",
+        "related": "Consumer Price Index CPI",
+        "last": 114.3,
+        "previous": 113.9
+    },
+    {
+        "country_name": "France",
+        "related": "Harmonised Consumer Prices",
+        "last": 116.87,
+        "previous": 116.32
+    },
+    {
+        "country_name": "France",
+        "related": "Core Inflation Rate",
+        "last": 5.3,
+        "previous": 5.0
+    },
+    {
+        "country_name": "France",
+        "related": "Core Consumer Prices",
+        "last": 110.67,
+        "previous": 110.13
+    },
+    {
+        "country_name": "France",
+        "related": "Producer Prices",
+        "last": 145.9,
+        "previous": 144.2
+    },
+    {
+        "country_name": "France",
+        "related": "Producer Prices Change",
+        "last": 21.5,
+        "previous": 24.7
+    },
+    {
+        "country_name": "France",
+        "related": "Export Prices",
+        "last": 154.0,
+        "previous": 152.2
+    },
+    {
+        "country_name": "France",
+        "related": "Import Prices",
+        "last": 142.6,
+        "previous": 142.3
+    },
+    {
+        "country_name": "France",
+        "related": "Food Inflation",
+        "last": 12.2,
+        "previous": 12.0
+    },
+    {
+        "country_name": "France",
+        "related": "Producer Price Inflation MoM",
+        "last": 1.2,
+        "previous": -0.2
+    },
+    {
+        "country_name": "France",
+        "related": "CPI Transportation",
+        "last": 122.19,
+        "previous": 121.35
+    },
+    {
+        "country_name": "France",
+        "related": "CPI Housing Utilities",
+        "last": 124.15,
+        "previous": 123.79
+    },
+    {
+        "country_name": "Djibouti",
+        "related": "Inflation Rate",
+        "last": 6.1,
+        "previous": 5.9
+    },
+    {
+        "country_name": "Djibouti",
+        "related": "CPI Transportation",
+        "last": 103.1,
+        "previous": 103.1
+    },
+    {
+        "country_name": "Djibouti",
+        "related": "CPI Housing Utilities",
+        "last": 103.9,
+        "previous": 103.9
+    },
+    {
+        "country_name": "Djibouti",
+        "related": "Consumer Price Index CPI",
+        "last": 119.1,
+        "previous": 118.7
+    },
+    {
+        "country_name": "Djibouti",
+        "related": "Food Inflation",
+        "last": 12.5,
+        "previous": 10.9
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "Inflation Rate",
+        "last": 6.0,
+        "previous": 6.9
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "Consumer Price Index CPI",
+        "last": 117.78,
+        "previous": 118.02
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "Harmonised Consumer Prices",
+        "last": 120.79,
+        "previous": 121.62
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "GDP Deflator",
+        "last": 124.41,
+        "previous": 122.54
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "Producer Prices",
+        "last": 149.0,
+        "previous": 147.41
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "Food Inflation",
+        "last": 10.43,
+        "previous": 10.49
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "CPI Transportation",
+        "last": 120.63,
+        "previous": 121.76
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "CPI Housing Utilities",
+        "last": 120.6,
+        "previous": 121.59
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "Inflation Rate MoM",
+        "last": -0.2,
+        "previous": 0.9
+    },
+    {
+        "country_name": "Luxembourg",
+        "related": "Producer Prices Change",
+        "last": 22.3,
+        "previous": 22.3
+    },
+    {
+        "country_name": "Qatar",
+        "related": "Inflation Rate",
+        "last": 6.03,
+        "previous": 4.8
+    },
+    {
+        "country_name": "Qatar",
+        "related": "Consumer Price Index CPI",
+        "last": 105.05,
+        "previous": 103.78
+    },
+    {
+        "country_name": "Qatar",
+        "related": "GDP Deflator",
+        "last": 75.1,
+        "previous": 69.4
+    },
+    {
+        "country_name": "Qatar",
+        "related": "Producer Prices Change",
+        "last": 44.18,
+        "previous": 54.25
+    },
+    {
+        "country_name": "Qatar",
+        "related": "Producer Prices",
+        "last": 164.0,
+        "previous": 167.49
+    },
+    {
+        "country_name": "Qatar",
+        "related": "Inflation Rate MoM",
+        "last": 1.22,
+        "previous": 0.13
+    },
+    {
+        "country_name": "Qatar",
+        "related": "Food Inflation",
+        "last": 4.06,
+        "previous": 5.77
+    },
+    {
+        "country_name": "Qatar",
+        "related": "CPI Transportation",
+        "last": 108.96,
+        "previous": 108.18
+    },
+    {
+        "country_name": "Qatar",
+        "related": "CPI Housing Utilities",
+        "last": 96.69,
+        "previous": 95.03
+    },
+    {
+        "country_name": "Somalia",
+        "related": "Inflation Rate",
+        "last": 6.4,
+        "previous": 6.9
+    },
+    {
+        "country_name": "Somalia",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": -0.6
+    },
+    {
+        "country_name": "Somalia",
+        "related": "Food Inflation",
+        "last": 12.7,
+        "previous": 15.04
+    },
+    {
+        "country_name": "Somalia",
+        "related": "CPI Transportation",
+        "last": 108.42,
+        "previous": 109.72
+    },
+    {
+        "country_name": "Somalia",
+        "related": "CPI Housing Utilities",
+        "last": 122.28,
+        "previous": 122.28
+    },
+    {
+        "country_name": "Somalia",
+        "related": "Consumer Price Index CPI",
+        "last": 135.4,
+        "previous": 135.2
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "related": "Inflation Rate",
+        "last": 6.2,
+        "previous": 6.3
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "related": "Producer Prices",
+        "last": 629.4,
+        "previous": 629.1
+    },
+    {
+        "country_name": "Gabon",
+        "related": "Inflation Rate",
+        "last": 5.7,
+        "previous": 5.8
+    },
+    {
+        "country_name": "Gabon",
+        "related": "CPI Transportation",
+        "last": 112.2,
+        "previous": 109.6
+    },
+    {
+        "country_name": "Gabon",
+        "related": "Consumer Price Index CPI",
+        "last": 109.4,
+        "previous": 109.4
+    },
+    {
+        "country_name": "Brazil",
+        "related": "Inflation Rate",
+        "last": 5.9,
+        "previous": 6.47
+    },
+    {
+        "country_name": "Brazil",
+        "related": "Inflation Rate MoM",
+        "last": 0.41,
+        "previous": 0.59
+    },
+    {
+        "country_name": "Brazil",
+        "related": "Consumer Price Index CPI",
+        "last": 6434.2,
+        "previous": 6407.93
+    },
+    {
+        "country_name": "Brazil",
+        "related": "Food Inflation",
+        "last": 11.83,
+        "previous": 11.2
+    },
+    {
+        "country_name": "Brazil",
+        "related": "CPI Transportation",
+        "last": 6116.78,
+        "previous": 6066.43
+    },
+    {
+        "country_name": "Brazil",
+        "related": "CPI Housing Utilities",
+        "last": 10827.45,
+        "previous": 10772.51
+    },
+    {
+        "country_name": "Ivory Coast",
+        "related": "Inflation Rate",
+        "last": 5.7,
+        "previous": 6.2
+    },
+    {
+        "country_name": "Ivory Coast",
+        "related": "Food Inflation",
+        "last": 8.4,
+        "previous": 9.6
+    },
+    {
+        "country_name": "Ivory Coast",
+        "related": "Inflation Rate MoM",
+        "last": 0.2,
+        "previous": 0.3
+    },
+    {
+        "country_name": "Ivory Coast",
+        "related": "CPI Transportation",
+        "last": 114.9,
+        "previous": 114.5
+    },
+    {
+        "country_name": "Ivory Coast",
+        "related": "CPI Housing Utilities",
+        "last": 122.1,
+        "previous": 121.6
+    },
+    {
+        "country_name": "Ivory Coast",
+        "related": "Consumer Price Index CPI",
+        "last": 118.6,
+        "previous": 118.3
+    },
+    {
+        "country_name": "India",
+        "related": "Inflation Rate",
+        "last": 5.88,
+        "previous": 6.77
+    },
+    {
+        "country_name": "India",
+        "related": "Consumer Price Index CPI",
+        "last": 176.5,
+        "previous": 176.7
+    },
+    {
+        "country_name": "India",
+        "related": "GDP Deflator",
+        "last": 160.1,
+        "previous": 146.1
+    },
+    {
+        "country_name": "India",
+        "related": "Food Inflation",
+        "last": 4.67,
+        "previous": 7.01
+    },
+    {
+        "country_name": "India",
+        "related": "Inflation Rate MoM",
+        "last": -0.11,
+        "previous": 0.8
+    },
+    {
+        "country_name": "India",
+        "related": "CPI Transportation",
+        "last": 163.0,
+        "previous": 162.9
+    },
+    {
+        "country_name": "India",
+        "related": "CPI Housing Utilities",
+        "last": 171.7,
+        "previous": 171.2
+    },
+    {
+        "country_name": "Thailand",
+        "related": "Inflation Rate",
+        "last": 5.55,
+        "previous": 5.98
+    },
+    {
+        "country_name": "Thailand",
+        "related": "Inflation Rate MoM",
+        "last": -0.13,
+        "previous": 0.33
+    },
+    {
+        "country_name": "Thailand",
+        "related": "Core Inflation Rate",
+        "last": 3.22,
+        "previous": 3.17
+    },
+    {
+        "country_name": "Thailand",
+        "related": "Producer Prices",
+        "last": 113.7,
+        "previous": 115.2
+    },
+    {
+        "country_name": "Thailand",
+        "related": "Food Inflation",
+        "last": 8.4,
+        "previous": 9.58
+    },
+    {
+        "country_name": "Thailand",
+        "related": "Producer Prices Change",
+        "last": 7.16,
+        "previous": 9.92
+    },
+    {
+        "country_name": "Thailand",
+        "related": "CPI Transportation",
+        "last": 111.72,
+        "previous": 111.28
+    },
+    {
+        "country_name": "Tajikistan",
+        "related": "Inflation Rate",
+        "last": 5.2,
+        "previous": 5.7
+    },
+    {
+        "country_name": "Tajikistan",
+        "related": "Producer Prices Change",
+        "last": 4.45,
+        "previous": -1.0
+    },
+    {
+        "country_name": "Tajikistan",
+        "related": "Inflation Rate MoM",
+        "last": 0.4,
+        "previous": -0.3
+    },
+    {
+        "country_name": "Tajikistan",
+        "related": "Food Inflation",
+        "last": 6.1,
+        "previous": 7.9
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "related": "Inflation Rate",
+        "last": 5.47,
+        "previous": 6.9
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "related": "Food Inflation",
+        "last": 5.1,
+        "previous": 6.2
+    },
+    {
+        "country_name": "Swaziland",
+        "related": "Inflation Rate",
+        "last": 5.5,
+        "previous": 6.7
+    },
+    {
+        "country_name": "Swaziland",
+        "related": "Food Inflation",
+        "last": 12.5,
+        "previous": 12.1
+    },
+    {
+        "country_name": "Swaziland",
+        "related": "CPI Transportation",
+        "last": 11.8,
+        "previous": 9.6
+    },
+    {
+        "country_name": "Swaziland",
+        "related": "Consumer Price Index CPI",
+        "last": 111.4,
+        "previous": 110.4
+    },
+    {
+        "country_name": "Israel",
+        "related": "Inflation Rate",
+        "last": 5.3,
+        "previous": 5.1
+    },
+    {
+        "country_name": "Israel",
+        "related": "Consumer Price Index CPI",
+        "last": 107.7,
+        "previous": 107.6
+    },
+    {
+        "country_name": "Israel",
+        "related": "Core Inflation Rate",
+        "last": 5.29,
+        "previous": 4.99
+    },
+    {
+        "country_name": "Israel",
+        "related": "Core Consumer Prices",
+        "last": 107.4,
+        "previous": 107.3
+    },
+    {
+        "country_name": "Israel",
+        "related": "GDP Deflator",
+        "last": 111.89,
+        "previous": 110.91
+    },
+    {
+        "country_name": "Israel",
+        "related": "Producer Prices",
+        "last": 123.4,
+        "previous": 121.9
+    },
+    {
+        "country_name": "Israel",
+        "related": "Export Prices",
+        "last": 104.8,
+        "previous": 110.4
+    },
+    {
+        "country_name": "Israel",
+        "related": "Import Prices",
+        "last": 124.7,
+        "previous": 125.9
+    },
+    {
+        "country_name": "Israel",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": 0.6
+    },
+    {
+        "country_name": "Israel",
+        "related": "Food Inflation",
+        "last": 5.1,
+        "previous": 4.4
+    },
+    {
+        "country_name": "Israel",
+        "related": "CPI Transportation",
+        "last": 113.7,
+        "previous": 113.4
+    },
+    {
+        "country_name": "Israel",
+        "related": "CPI Housing Utilities",
+        "last": 109.0,
+        "previous": 108.4
+    },
+    {
+        "country_name": "South Korea",
+        "related": "Inflation Rate",
+        "last": 5.0,
+        "previous": 5.7
+    },
+    {
+        "country_name": "South Korea",
+        "related": "Inflation Rate MoM",
+        "last": -0.1,
+        "previous": 0.3
+    },
+    {
+        "country_name": "South Korea",
+        "related": "Consumer Price Index CPI",
+        "last": 109.1,
+        "previous": 109.21
+    },
+    {
+        "country_name": "South Korea",
+        "related": "Core Inflation Rate",
+        "last": 4.83,
+        "previous": 4.77
+    },
+    {
+        "country_name": "South Korea",
+        "related": "Core Consumer Prices",
+        "last": 107.78,
+        "previous": 107.47
+    },
+    {
+        "country_name": "South Korea",
+        "related": "Food Inflation",
+        "last": 4.81,
+        "previous": 7.54
+    },
+    {
+        "country_name": "South Korea",
+        "related": "CPI Housing Utilities",
+        "last": 110.65,
+        "previous": 110.71
+    },
+    {
+        "country_name": "South Korea",
+        "related": "CPI Transportation",
+        "last": 115.44,
+        "previous": 115.18
+    },
+    {
+        "country_name": "Bermuda",
+        "related": "Inflation Rate",
+        "last": 5.1,
+        "previous": 4.7
+    },
+    {
+        "country_name": "Bermuda",
+        "related": "Food Inflation",
+        "last": 10.6,
+        "previous": 9.5
+    },
+    {
+        "country_name": "Bermuda",
+        "related": "Consumer Price Index CPI",
+        "last": 113.4,
+        "previous": 112.8
+    },
+    {
+        "country_name": "Fiji",
+        "related": "Inflation Rate",
+        "last": 5.2,
+        "previous": 5.4
+    },
+    {
+        "country_name": "Fiji",
+        "related": "Food Inflation",
+        "last": 9.6,
+        "previous": 9.1
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Inflation Rate",
+        "last": 5.42,
+        "previous": 5.71
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Inflation Rate MoM",
+        "last": 0.09,
+        "previous": -0.11
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Consumer Price Index CPI",
+        "last": 112.85,
+        "previous": 112.75
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Core Inflation Rate",
+        "last": 3.3,
+        "previous": 3.31
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Core Consumer Prices",
+        "last": 110.97,
+        "previous": 110.8
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "GDP Deflator",
+        "last": 171.03,
+        "previous": 168.28
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Producer Prices",
+        "last": 113.02,
+        "previous": 112.72
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Export Prices",
+        "last": 189.5,
+        "previous": 187.0
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Import Prices",
+        "last": 185.62,
+        "previous": 188.83
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Food Inflation",
+        "last": 5.87,
+        "previous": 6.76
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "Producer Prices Change",
+        "last": 5.75,
+        "previous": 4.7
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "CPI Transportation",
+        "last": 120.07,
+        "previous": 120.06
+    },
+    {
+        "country_name": "Indonesia",
+        "related": "CPI Housing Utilities",
+        "last": 106.87,
+        "previous": 106.79
+    },
+    {
+        "country_name": "New Caledonia",
+        "related": "Inflation Rate",
+        "last": 4.6,
+        "previous": 5.1
+    },
+    {
+        "country_name": "New Caledonia",
+        "related": "Inflation Rate MoM",
+        "last": 0.0,
+        "previous": -0.2
+    },
+    {
+        "country_name": "New Caledonia",
+        "related": "Food Inflation",
+        "last": 8.7,
+        "previous": 10.6
+    },
+    {
+        "country_name": "New Caledonia",
+        "related": "CPI Transportation",
+        "last": 107.39,
+        "previous": 109.07
+    },
+    {
+        "country_name": "New Caledonia",
+        "related": "CPI Housing Utilities",
+        "last": 103.34,
+        "previous": 103.3
+    },
+    {
+        "country_name": "New Caledonia",
+        "related": "Consumer Price Index CPI",
+        "last": 104.02,
+        "previous": 103.98
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "Inflation Rate",
+        "last": 4.55,
+        "previous": 4.37
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "Consumer Price Index CPI",
+        "last": 109.95,
+        "previous": 109.87
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "Core Inflation Rate",
+        "last": 4.99,
+        "previous": 4.81
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "GDP Deflator",
+        "last": 164.17,
+        "previous": 163.58
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "Export Prices",
+        "last": 118.9,
+        "previous": 106.9
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "Import Prices",
+        "last": 126.7,
+        "previous": 103.6
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "Food Inflation",
+        "last": 2.91,
+        "previous": 2.79
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "CPI Transportation",
+        "last": 105.95,
+        "previous": 108.98
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "Inflation Rate MoM",
+        "last": 0.39,
+        "previous": 0.15
+    },
+    {
+        "country_name": "Vietnam",
+        "related": "Producer Prices",
+        "last": 104.62,
+        "previous": 105.11
+    },
+    {
+        "country_name": "Iraq",
+        "related": "Inflation Rate",
+        "last": 4.5,
+        "previous": 5.3
+    },
+    {
+        "country_name": "Iraq",
+        "related": "Core Inflation Rate",
+        "last": 4.2,
+        "previous": 5.4
+    },
+    {
+        "country_name": "Iraq",
+        "related": "Core Consumer Prices",
+        "last": 118.9,
+        "previous": 119.8
+    },
+    {
+        "country_name": "Iraq",
+        "related": "Food Inflation",
+        "last": 5.58,
+        "previous": 2.76
+    },
+    {
+        "country_name": "Iraq",
+        "related": "CPI Transportation",
+        "last": 114.4,
+        "previous": 114.3
+    },
+    {
+        "country_name": "Iraq",
+        "related": "CPI Housing Utilities",
+        "last": 123.8,
+        "previous": 125.0
+    },
+    {
+        "country_name": "Jordan",
+        "related": "Inflation Rate",
+        "last": 5.0,
+        "previous": 5.23
+    },
+    {
+        "country_name": "Jordan",
+        "related": "Export Prices",
+        "last": 245.8,
+        "previous": 241.1
+    },
+    {
+        "country_name": "Jordan",
+        "related": "Import Prices",
+        "last": 326.6,
+        "previous": 330.4
+    },
+    {
+        "country_name": "Jordan",
+        "related": "Producer Prices Change",
+        "last": 10.7,
+        "previous": 13.8
+    },
+    {
+        "country_name": "Bhutan",
+        "related": "Inflation Rate",
+        "last": 4.89,
+        "previous": 6.05
+    },
+    {
+        "country_name": "Bhutan",
+        "related": "Food Inflation",
+        "last": 2.87,
+        "previous": 4.24
+    },
+    {
+        "country_name": "Eritrea",
+        "related": "Inflation Rate",
+        "last": 4.5,
+        "previous": 4.8
+    },
+    {
+        "country_name": "Vanuatu",
+        "related": "Inflation Rate MoM",
+        "last": 1.5,
+        "previous": 0.9
+    },
+    {
+        "country_name": "Vanuatu",
+        "related": "Inflation Rate",
+        "last": 2.7,
+        "previous": 0.7
+    },
+    {
+        "country_name": "Vanuatu",
+        "related": "Consumer Price Index CPI",
+        "last": 175.5,
+        "previous": 172.8
+    },
+    {
+        "country_name": "Brunei",
+        "related": "Inflation Rate",
+        "last": 4.3,
+        "previous": 4.5
+    },
+    {
+        "country_name": "Brunei",
+        "related": "Inflation Rate MoM",
+        "last": 0.2,
+        "previous": 0.6
+    },
+    {
+        "country_name": "Brunei",
+        "related": "Food Inflation",
+        "last": 6.7,
+        "previous": 7.0
+    },
+    {
+        "country_name": "Brunei",
+        "related": "Consumer Price Index CPI",
+        "last": 107.4,
+        "previous": 107.2
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Inflation Rate",
+        "last": 2.62,
+        "previous": 2.92
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Food Inflation",
+        "last": 2.52,
+        "previous": 2.45
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "CPI Transportation",
+        "last": 152.0,
+        "previous": 153.67
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "CPI Housing Utilities",
+        "last": 144.98,
+        "previous": 145.34
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Core Inflation Rate",
+        "last": 0.82,
+        "previous": 0.95
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Core Consumer Prices",
+        "last": 128.75,
+        "previous": 128.86
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Consumer Price Index CPI",
+        "last": 128.7,
+        "previous": 129.05
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Producer Prices Change",
+        "last": 22.2,
+        "previous": 12.2
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Producer Prices",
+        "last": 111.0,
+        "previous": 107.9
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Inflation Rate MoM",
+        "last": 0.24,
+        "previous": -0.04
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Import Prices",
+        "last": 106.48,
+        "previous": 105.76
+    },
+    {
+        "country_name": "Seychelles",
+        "related": "Export Prices",
+        "last": 113.9,
+        "previous": 113.88
+    },
+    {
+        "country_name": "Taiwan",
+        "related": "Inflation Rate",
+        "last": 2.35,
+        "previous": 2.74
+    },
+    {
+        "country_name": "Taiwan",
+        "related": "Consumer Price Index CPI",
+        "last": 108.1,
+        "previous": 108.26
+    },
+    {
+        "country_name": "Taiwan",
+        "related": "Core Inflation Rate",
+        "last": 2.86,
+        "previous": 2.97
+    },
+    {
+        "country_name": "Taiwan",
+        "related": "Food Inflation",
+        "last": 4.12,
+        "previous": 5.18
+    },
+    {
+        "country_name": "Taiwan",
+        "related": "Producer Prices Change",
+        "last": 6.98,
+        "previous": 8.73
+    },
+    {
+        "country_name": "Taiwan",
+        "related": "Inflation Rate MoM",
+        "last": 0.07,
+        "previous": 0.13
+    },
+    {
+        "country_name": "Taiwan",
+        "related": "CPI Transportation",
+        "last": 107.9,
+        "previous": 107.89
+    },
+    {
+        "country_name": "Taiwan",
+        "related": "CPI Housing Utilities",
+        "last": 106.52,
+        "previous": 106.39
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "Inflation Rate",
+        "last": 4.9,
+        "previous": 4.9
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "Consumer Price Index CPI",
+        "last": 109.16,
+        "previous": 108.73
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "Food Inflation",
+        "last": 9.5,
+        "previous": 9.1
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "Inflation Rate MoM",
+        "last": 0.4,
+        "previous": 0.0
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "CPI Transportation",
+        "last": 110.48,
+        "previous": 110.37
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "CPI Housing Utilities",
+        "last": 107.65,
+        "previous": 108.06
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "Core Inflation Rate",
+        "last": 2.7,
+        "previous": 3.0
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "Core Consumer Prices",
+        "last": 107.64,
+        "previous": 107.57
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "Import Prices",
+        "last": 117.1,
+        "previous": 112.1
+    },
+    {
+        "country_name": "Tanzania",
+        "related": "Export Prices",
+        "last": 117.7,
+        "previous": 115.1
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "Inflation Rate",
+        "last": 1.8,
+        "previous": 1.8
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "Consumer Price Index CPI",
+        "last": 104.0,
+        "previous": 103.8
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "GDP Deflator",
+        "last": 105.8,
+        "previous": 101.3
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "Producer Prices",
+        "last": 111.5,
+        "previous": 115.8
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "Export Prices",
+        "last": 114.7,
+        "previous": 114.9
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "Import Prices",
+        "last": 115.9,
+        "previous": 116.2
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "Food Inflation",
+        "last": 3.5,
+        "previous": 3.4
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "Inflation Rate MoM",
+        "last": 0.1,
+        "previous": 0.3
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "CPI Transportation",
+        "last": 104.8,
+        "previous": 105.3
+    },
+    {
+        "country_name": "Hong Kong",
+        "related": "Producer Prices Change",
+        "last": 0.4,
+        "previous": 0.8
+    },
+    {
+        "country_name": "Panama",
+        "related": "Inflation Rate",
+        "last": 1.49,
+        "previous": 1.67
+    },
+    {
+        "country_name": "Panama",
+        "related": "Inflation Rate MoM",
+        "last": 0.19,
+        "previous": 0.0
+    },
+    {
+        "country_name": "Panama",
+        "related": "Food Inflation",
+        "last": 4.69,
+        "previous": 4.59
+    },
+    {
+        "country_name": "Panama",
+        "related": "CPI Transportation",
+        "last": 109.4,
+        "previous": 108.98
+    },
+    {
+        "country_name": "Panama",
+        "related": "CPI Housing Utilities",
+        "last": 96.12,
+        "previous": 96.18
+    },
+    {
+        "country_name": "Panama",
+        "related": "Consumer Price Index CPI",
+        "last": 107.67,
+        "previous": 107.53
+    },
+    {
+        "country_name": "Oman",
+        "related": "Inflation Rate",
+        "last": 2.06,
+        "previous": 2.39
+    },
+    {
+        "country_name": "Oman",
+        "related": "Food Inflation",
+        "last": 5.04,
+        "previous": 4.6
+    },
+    {
+        "country_name": "Oman",
+        "related": "CPI Transportation",
+        "last": 118.7,
+        "previous": 118.6
+    },
+    {
+        "country_name": "China",
+        "related": "Inflation Rate",
+        "last": 1.6,
+        "previous": 2.1
+    },
+    {
+        "country_name": "China",
+        "related": "Inflation Rate MoM",
+        "last": -0.2,
+        "previous": 0.1
+    },
+    {
+        "country_name": "China",
+        "related": "Consumer Price Index CPI",
+        "last": 103.3,
+        "previous": 103.5
+    },
+    {
+        "country_name": "China",
+        "related": "Core Inflation Rate",
+        "last": 0.6,
+        "previous": 0.6
+    },
+    {
+        "country_name": "China",
+        "related": "Core Consumer Prices",
+        "last": 100.6,
+        "previous": 100.6
+    },
+    {
+        "country_name": "China",
+        "related": "GDP Deflator",
+        "last": 722.52,
+        "previous": 696.46
+    },
+    {
+        "country_name": "China",
+        "related": "Producer Prices",
+        "last": 111.7,
+        "previous": 111.6
+    },
+    {
+        "country_name": "China",
+        "related": "Producer Prices Change",
+        "last": -1.3,
+        "previous": -1.3
+    },
+    {
+        "country_name": "China",
+        "related": "Food Inflation",
+        "last": 3.7,
+        "previous": 7.0
+    },
+    {
+        "country_name": "Palestine",
+        "related": "Inflation Rate",
+        "last": 4.3,
+        "previous": 4.39
+    },
+    {
+        "country_name": "Palestine",
+        "related": "Food Inflation",
+        "last": 6.25,
+        "previous": 6.78
+    },
+    {
+        "country_name": "Palestine",
+        "related": "CPI Transportation",
+        "last": 105.31,
+        "previous": 104.92
+    },
+    {
+        "country_name": "Palestine",
+        "related": "Consumer Price Index CPI",
+        "last": 106.93,
+        "previous": 107.31
+    },
+    {
+        "country_name": "Palestine",
+        "related": "Producer Prices Change",
+        "last": 7.51,
+        "previous": 5.94
+    },
+    {
+        "country_name": "Palestine",
+        "related": "Producer Prices",
+        "last": 107.68,
+        "previous": 106.98
+    },
+    {
+        "country_name": "Central African Republic",
+        "related": "Inflation Rate",
+        "last": 2.7,
+        "previous": 4.2
+    },
+    {
+        "country_name": "Macau",
+        "related": "Inflation Rate",
+        "last": 0.76,
+        "previous": 1.02
+    },
+    {
+        "country_name": "Macau",
+        "related": "Consumer Price Index CPI",
+        "last": 103.85,
+        "previous": 103.88
+    },
+    {
+        "country_name": "Macau",
+        "related": "CPI Transportation",
+        "last": 110.67,
+        "previous": 110.28
+    },
+    {
+        "country_name": "Macau",
+        "related": "CPI Housing Utilities",
+        "last": 100.27,
+        "previous": 100.53
+    },
+    {
+        "country_name": "Macau",
+        "related": "Food Inflation",
+        "last": 1.63,
+        "previous": 1.75
+    },
+    {
+        "country_name": "Macau",
+        "related": "Inflation Rate MoM",
+        "last": -0.04,
+        "previous": -0.08
+    },
+    {
+        "country_name": "Macau",
+        "related": "Import Prices",
+        "last": 159.8,
+        "previous": 200.1
+    },
+    {
+        "country_name": "Macau",
+        "related": "GDP Deflator",
+        "last": 99.1,
+        "previous": 97.6
+    },
+    {
+        "country_name": "Macau",
+        "related": "Export Prices",
+        "last": 117.9,
+        "previous": 131.3
+    }
+]
