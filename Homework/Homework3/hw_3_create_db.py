@@ -12,7 +12,7 @@ https://www.mongodb.com/ https://www.mongodb.com/products/compass
 from pymongo import MongoClient
 import json
 
-client = MongoClient()
+client = MongoClient('mongodb://localhost:27017/')
 db = client['homework']
 collection = db['hw_3_books']
 

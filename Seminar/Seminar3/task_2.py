@@ -17,7 +17,7 @@
 from pymongo import MongoClient
 import json
 
-client = MongoClient()
+client = MongoClient('mongodb://localhost:27017/')
 db = client['town_cary']
 collection = db['crashes']
 
