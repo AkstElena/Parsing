@@ -7,47 +7,42 @@ class PopulationSpiderSpider(scrapy.Spider):
     start_urls = ["https://www.worldometers.info/world-population/population-by-country/"]
 
     def parse(self, response):
-        rows = response.xpath('//*[@id="example2"]/tbody/tr')
-        for row in rows:
-            country = row.xpath(".//td/a/text()")[0].get(),
-            # 'Population (2023)': int(columns[1].replace(',', '').strip()),
-            # 'Yearly Change, %': float(columns[2].replace('%', '').strip()),
-            # 'Net Change': int(columns[3].replace(',', '').strip()),
-            # 'Density (P/Km²)': int(columns[4].replace(',', '').strip()),
-            # 'Land Area (Km²)': int(columns[5].replace(',', '').strip()),
-            # 'Migrants (net)': int(columns[6].replace(',', '').strip()),
-            # 'Fert. Rate': float(columns[7].replace('N.A.', '0').strip()),
-            # 'Med. Age': int(columns[8].replace('%', '').replace('.', '').strip()),
-            # 'Urban Pop (%)': int(error_find(columns, 9).replace('%', '').replace('N.A.', '0').strip()),
-            # 'World, %': float(error_find(columns, 10).replace('%', '').strip())
-            # country_name = row.xpath(".//td[1]//a/text()").get()
-            # membership = row.xpath('.//td[contains(.,"UN")]/text()').get()
-            # sovereignty_dispute_info = row.xpath('.//td[3]/text()').get()
-            # country_status = row.xpath('.//td[4]/text()').get()
-            link = row.xpath(".//td/a/@href").get()
+        countries = response.xpath('//td/a')
+        for row in countries:
+            country = row.xpath(".//text()").get(),
+            link = row.xpath(".//@href").get()
+
             yield response.follow(url=link, callback=self.parse_country,
                                   meta={
-                                      'country_name': country,
-                                      # 'membership': membership,
-                                      # 'sovereignty_dispute_info': sovereignty_dispute_info,
-                                      # 'country_status': country_status
+                                      'country': country,
                                   })
 
     def parse_country(self, response):
-        rows = response.xpath("/html/body/div[2]/div[4]/div/div/div[5]/table/tbody")
-        for row in rows:
-            year = response.xpath('.//td/text()')[0].get()
-            country = response.request.meta['country']
-            # country_name = response.request.meta['country_name']
-            # membership = response.request.meta['membership']
-            # sovereignty_dispute_info = response.request.meta['sovereignty_dispute_info']
-            # country_status = response.request.meta['country_status']
-            yield {
-                'country_name': country,
-                'year': year.strip()
-                # 'country_name': country_name.strip() if country_name else 'Zambia',
-                # 'capital': capital.strip() if capital else '',
-                # 'membership': membership.strip() if membership else '',
-                # 'sovereignty_dispute_info': sovereignty_dispute_info.strip() if sovereignty_dispute_info else '',
-                # 'country_status': country_status.strip() if country_status else ''
-            }
+        country = response.request.meta['country'][0]
+        result_dict = {'country': country}
+
+        hist_population = response.xpath("//div[@class='table-responsive'][1]/table/tbody/tr")
+        hist_population_dict = {}
+        for row in hist_population[0:3]:
+            year = row.xpath('.//td[1]/text()').get()
+            population = int(row.xpath('.//td[2]//text()').get().replace(',', ''))
+            hist_population_dict[year] = population
+        result_dict['population history'] = hist_population_dict
+
+        future_population = response.xpath("//div[@class='table-responsive'][2]/table/tbody/tr")
+        future_population_dict = {}
+        for row in future_population[4:6]:
+            year = row.xpath('.//td[1]/text()').get()
+            population = int(row.xpath('.//td[2]//text()').get().replace(',', ''))
+            future_population_dict[year] = population
+        result_dict['population forecast'] = future_population_dict
+
+        cities = response.xpath("//div[@class='table-responsive'][3]/table/tbody/tr")
+        cities_dict = {}
+        for city in cities[0:3]:
+            city_name = city.xpath('.//td[2]/text()').get()
+            population = int(city.xpath('.//td[3]/text()').get().replace(',', ''))
+            cities_dict[city_name] = population
+        result_dict['cities'] = cities_dict
+
+        yield result_dict
