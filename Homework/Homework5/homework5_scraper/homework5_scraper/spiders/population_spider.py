@@ -9,7 +9,7 @@ class PopulationSpiderSpider(scrapy.Spider):
     def parse(self, response):
         countries = response.xpath('//td/a')
         for row in countries:
-            country = row.xpath(".//text()").get(),
+            country = row.xpath(".//text()").get()
             link = row.xpath(".//@href").get()
 
             yield response.follow(url=link, callback=self.parse_country,
@@ -18,7 +18,7 @@ class PopulationSpiderSpider(scrapy.Spider):
                                   })
 
     def parse_country(self, response):
-        country = response.request.meta['country'][0]
+        country = response.request.meta['country']
         result_dict = {'country': country}
 
         hist_population = response.xpath("//div[@class='table-responsive'][1]/table/tbody/tr")
